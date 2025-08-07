@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="key_offline_init_bundle_at_tab_change" value="false" />
+    <boolean name="key_cache_tab" value="true" />
+    <boolean name="key_navigation_guardian" value="true" />
+    <boolean name="key_use_new_title_style" value="false" />
+    <boolean name="key_hide_tab" value="true" />
+    <string name="key_common_mark_text_guardian_rule">^(更新|回复).*$|^\s*$</string>
+    <boolean name="key_judge_fragment_added_at_attached_to_window" value="true" />
+    <boolean name="key_login_check_pre_check" value="true" />
+</map>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="weak_network_force_cellular_host_white_list">[&quot;guide-acs.m.taobao.com&quot;,&quot;trade-acs.m.taobao.com&quot;,&quot;heic.alicdn.com&quot;,&quot;gw.alicdn.com&quot;,&quot;g.alicdn.com&quot;,&quot;mtlexternal.alibabausercontent.com&quot;,&quot;appdownload.alicdn.com&quot;,&quot;img.alicdn.com&quot;,&quot;pages-fast.m.taobao.com&quot;,&quot;h5.ele.me&quot;]</string>
+    <long name="tcp_connect_timeout_ms" value="10000" />
+    <long name="quic_connect_timeout_ms" value="3000" />
+    <long name="quic_init_and_min_cwnd" value="96" />
+    <string name="mpquic_connect_compensate_host_white_list">[&quot;trade-acs.m.taobao.com&quot;]</string>
+    <boolean name="dns_black_connect_opt_v2_enable" value="true" />
+    <string name="request_idle_timeout_parameter_config">[{&quot;type&quot;: &quot;normal&quot;,&quot;request_idle_time&quot;:&quot;10000&quot;,&quot;body_idle_time&quot;:&quot;5000&quot;,&quot;url&quot;: {&quot;guide-acs.m.taobao.com&quot;: &quot;*&quot;}},{&quot;type&quot;: &quot;fast&quot;,&quot;request_idle_time&quot;: &quot;3000&quot;,&quot;body_idle_time&quot;:&quot;3000&quot;,&quot;url&quot;: {&quot;heic.alicdn.com&quot;: &quot;*&quot;,&quot;gw.alicdn.com&quot;: &quot;*&quot;}}]</string>
+    <string name="connect_fast_timeout_host_white_list">[&quot;guide-acs.m.taobao.com&quot;,&quot;tbm-auth.alicdn.com&quot;,&quot;pingjia.alicdn.com&quot;,&quot;daren-auth.alicdn.com&quot;,&quot;pages.tmall.com&quot;,&quot;huodong.taobao.com&quot;]</string>
+    <string name="multi_network_harmony_white_list">[&quot;2.0.0&quot;,&quot;3.0.0&quot;,&quot;4.0.0&quot;,&quot;4.2.0&quot;]</string>
+    <boolean name="http3_opt_develop_enable" value="true" />
+    <string name="multi_network_background_brand_block_list">[&quot;oppo&quot;]</string>
+    <boolean name="agent_free_enable" value="false" />
+    <string name="common_switch_config">{&quot;qpack_size&quot;:&quot;65536&quot;,&quot;quic_opt&quot;:&quot;true&quot;,&quot;fec_host&quot;:[&quot;guide-acs.m.taobao.com&quot;]}</string>
+    <string name="cdn_connect_option">[{&quot;type&quot;:&quot;picture&quot;,&quot;connect_option&quot;:&quot;EPTO,&quot;,&quot;host&quot;:[&quot;heic.alicdn.com&quot;,&quot;gw.alicdn.com&quot;]}]</string>
+    <string name="request_timeout_block_list">{&quot;guide-acs.m.taobao.com&quot;:[&quot;/gw/mtop.relationrecommend.mtoprecommend.recommendstream/1.0&quot;,&quot;/gw/mtop.trade.order.build&quot;,&quot;/gw/mtop.trade.order.adjust&quot;,&quot;/gw/mtop.trade.order.create&quot;],&quot;trade-acs.m.taobao.com&quot;:[&quot;/gw/mtop.trade.order.build&quot;,&quot;/gw/mtop.trade.order.adjust&quot;,&quot;/gw/mtop.trade.order.create&quot;]}</string>
+    <string name="mpquic_parameter_config">{&quot;reinj_deadline_srtt_factor&quot;:&quot;1.2&quot;,&quot;enable_ipv6&quot;:&quot;true&quot;,&quot;bind_net_opt&quot;:&quot;1&quot;}</string>
+</map>

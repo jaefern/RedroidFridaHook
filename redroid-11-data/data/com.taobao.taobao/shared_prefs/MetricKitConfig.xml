@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="upload_sample" value="true" />
+    <boolean name="switch_gc_metric" value="true" />
+    <boolean name="switch_lifecycle_event" value="true" />
+    <boolean name="switch_memory_metric" value="true" />
+    <long name="config_memory_repeat_interval" value="20" />
+    <boolean name="switch_bg_fg_event" value="true" />
+    <boolean name="switch_startup_times_v1_metric" value="true" />
+</map>

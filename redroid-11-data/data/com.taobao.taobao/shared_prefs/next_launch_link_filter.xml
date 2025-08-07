@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="__configVersion__">2120250507171758196</string>
+    <string name="schemes">taobao</string>
+    <boolean name="ngNewIntentPVOff" value="false" />
+</map>

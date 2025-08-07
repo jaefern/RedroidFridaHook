@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="RPC_last_state_ts" value="0" />
+    <int name="RPC_last_state_count" value="0" />
+</map>

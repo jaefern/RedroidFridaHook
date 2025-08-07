@@ -1,0 +1,8 @@
+isPrevious: true
+Build: redroid/redroid_x86_64/redroid_x86_64:11/RD2A.211001.002/eng.frank.20240527.144006:userdebug/test-keys
+Hardware: unknown
+Revision: 0
+Bootloader: unknown
+Radio: null
+Kernel: Linux version 6.8.0-71-generic (buildd@lcy02-amd64-053) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #71-Ubuntu SMP PREEMPT_DYNAMIC Tue Jul 22 16:52:38 UTC 2025
+

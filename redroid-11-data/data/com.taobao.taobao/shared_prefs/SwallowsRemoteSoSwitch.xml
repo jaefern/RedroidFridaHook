@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="key_prefetch_retry_count">5</string>
+    <string name="switch_common_lib_uc_enabled">true</string>
+    <string name="multi_resolve_disabled">false</string>
+</map>

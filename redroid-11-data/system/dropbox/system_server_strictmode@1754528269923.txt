@@ -1,0 +1,31 @@
+Process: unknown
+Build: redroid/redroid_x86_64/redroid_x86_64:11/RD2A.211001.002/eng.frank.20240527.144006:userdebug/test-keys
+System-App: true
+Uptime-Millis: 2683637
+Loop-Violation-Number: 10
+Duration-Millis: 1
+
+android.os.strictmode.DiskReadViolation
+	at android.os.StrictMode$AndroidBlockGuardPolicy.onReadFromDisk(StrictMode.java:1596)
+	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:249)
+	at libcore.io.IoBridge.open(IoBridge.java:478)
+	at java.io.FileInputStream.<init>(FileInputStream.java:160)
+	at com.android.server.appop.HistoricalRegistry$Persistence.readHistoricalOpsLocked(HistoricalRegistry.java:1186)
+	at com.android.server.appop.HistoricalRegistry$Persistence.readHistoricalOpsLocked(HistoricalRegistry.java:1170)
+	at com.android.server.appop.HistoricalRegistry$Persistence.collectHistoricalOpsRecursiveDLocked(HistoricalRegistry.java:948)
+	at com.android.server.appop.HistoricalRegistry$Persistence.collectHistoricalOpsRecursiveDLocked(HistoricalRegistry.java:959)
+	at com.android.server.appop.HistoricalRegistry$Persistence.collectHistoricalOpsRecursiveDLocked(HistoricalRegistry.java:959)
+	at com.android.server.appop.HistoricalRegistry$Persistence.collectHistoricalOpsBaseDLocked(HistoricalRegistry.java:914)
+	at com.android.server.appop.HistoricalRegistry$Persistence.collectHistoricalOpsDLocked(HistoricalRegistry.java:888)
+	at com.android.server.appop.HistoricalRegistry$Persistence.access$100(HistoricalRegistry.java:748)
+	at com.android.server.appop.HistoricalRegistry.getHistoricalOps(HistoricalRegistry.java:437)
+	at com.android.server.appop.-$$Lambda$9PbhNRcJKpFejdnfSDhPa_VHrMY.accept(Unknown Source:57)
+	at com.android.internal.util.function.pooled.PooledLambdaImpl.doInvoke(PooledLambdaImpl.java:423)
+	at com.android.internal.util.function.pooled.PooledLambdaImpl.invoke(PooledLambdaImpl.java:201)
+	at com.android.internal.util.function.pooled.OmniFunction.run(OmniFunction.java:97)
+	at android.os.Handler.handleCallback(Handler.java:938)
+	at android.os.Handler.dispatchMessage(Handler.java:99)
+	at android.os.Looper.loop(Looper.java:223)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+	at com.android.server.ServiceThread.run(ServiceThread.java:44)
+

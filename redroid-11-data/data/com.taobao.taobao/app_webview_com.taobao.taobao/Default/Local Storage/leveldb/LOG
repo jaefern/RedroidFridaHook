@@ -1,0 +1,11 @@
+2025/07/29-07:08:19.884 66db Creating DB /data/user/0/com.taobao.taobao/app_webview_com.taobao.taobao/Default/Local Storage/leveldb since it was missing.
+2025/07/29-07:08:19.895 66db Reusing MANIFEST /data/user/0/com.taobao.taobao/app_webview_com.taobao.taobao/Default/Local Storage/leveldb/MANIFEST-000001
+2025/07/29-07:08:22.284 66dc Level-0 table #5: started
+2025/07/29-07:08:22.286 66dc Level-0 table #5: 84219 bytes OK
+2025/07/29-07:08:22.287 66dc Delete type=0 #3
+2025/07/29-07:08:23.285 66c8 Level-0 table #7: started
+2025/07/29-07:08:23.290 66c8 Level-0 table #7: 85537 bytes OK
+2025/07/29-07:08:23.292 66c8 Delete type=0 #4
+2025/07/29-07:08:27.665 66c8 Level-0 table #9: started
+2025/07/29-07:08:27.671 66c8 Level-0 table #9: 84824 bytes OK
+2025/07/29-07:08:27.672 66c8 Delete type=0 #6

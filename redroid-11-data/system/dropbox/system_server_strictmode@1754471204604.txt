@@ -1,0 +1,15 @@
+Process: unknown
+Build: redroid/redroid_x86_64/redroid_x86_64:11/RD2A.211001.002/eng.frank.20240527.144006:userdebug/test-keys
+System-App: true
+Uptime-Millis: 12915418
+
+android.os.strictmode.LeakedClosableViolation: A resource was acquired at attached stack trace but never released. See java.io.Closeable for information on avoiding resource leaks. Callsite: TaskOrganizerController.onTaskAppeared
+	at android.os.StrictMode$AndroidCloseGuardReporter.report(StrictMode.java:1929)
+	at dalvik.system.CloseGuard.warnIfOpen(CloseGuard.java:305)
+	at android.view.SurfaceControl.finalize(SurfaceControl.java:1104)
+	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:291)
+	at java.lang.Daemons$FinalizerDaemon.runInternal(Daemons.java:278)
+	at java.lang.Daemons$Daemon.run(Daemons.java:139)
+	at java.lang.Thread.run(Thread.java:923)
+
+A resource was acquired at attached stack trace but never released. See java.io.Closeable for information on avoiding resource leaks. Callsite: TaskOrganizerController.onTaskAppeared

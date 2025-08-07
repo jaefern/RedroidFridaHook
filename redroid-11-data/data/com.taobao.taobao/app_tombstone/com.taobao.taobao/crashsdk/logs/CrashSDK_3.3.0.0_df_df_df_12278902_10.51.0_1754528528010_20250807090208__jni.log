@@ -1,0 +1,8 @@
+[DEBUG] Opened file: 62
+[DEBUG] Create tag: 1
+[DEBUG] Filter callback returned
+[DEBUG] Call GenerateDump
+[DEBUG] pipes: 51 52, 53 54
+[DEBUG] After sys_clone, pid: 39578, tid: 40088
+
+[DEBUG] process 40136 GenerateDump timeout in 15850 ms!

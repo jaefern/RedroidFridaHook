@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="com.android.settings/com.android.settings.wallpaper.WallpaperSuggestionActivity_setup_time" value="1753763947504" />
+    <long name="com.android.settings.suggested.category.HIGH_PRIORITY_setup_time" value="1753763947501" />
+    <long name="com.android.settings/com.android.settings.notification.zen.ZenSuggestionActivity_setup_time" value="1753763947504" />
+    <long name="com.android.settings/com.android.settings.wallpaper.StyleSuggestionActivity_setup_time" value="1753763947504" />
+    <long name="com.android.settings.suggested.category.FIRST_IMPRESSION_setup_time" value="1753763947502" />
+    <boolean name="com.android.settings/com.android.settings.notification.zen.ZenSuggestionActivity_is_dismissed" value="false" />
+    <long name="com.android.settings/com.android.settings.password.ScreenLockSuggestionActivity_setup_time" value="1753763947504" />
+    <long name="com.android.settings.suggested.category.DEFERRED_SETUP_setup_time" value="1753763947499" />
+    <long name="com.android.settings/com.android.settings.wifi.calling.WifiCallingSuggestionActivity_setup_time" value="1753763947504" />
+</map>

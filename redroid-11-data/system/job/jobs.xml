@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<job-info version="0">
+    <job jobid="546378950" package="android" class="com.android.server.usage.UsageStatsIdleService" sourcePackageName="android" sourceUserId="0" uid="1000" priority="0" flags="0" lastSuccessfulRunTime="0" lastFailedRunTime="0">
+        <constraints />
+        <one-off deadline="1754700770368" delay="1754614370368" />
+        <extras />
+    </job>
+    <job jobid="1" package="com.android.providers.settings" class="com.android.providers.settings.WriteFallbackSettingsFilesJobService" sourcePackageName="com.android.providers.settings" sourceUserId="0" uid="1000" priority="0" flags="0" lastSuccessfulRunTime="1754468999194" lastFailedRunTime="0">
+        <constraints charging="true" />
+        <periodic period="86400000" flex="86400000" deadline="1754641798840" delay="1754555398840" />
+        <extras>
+            <string name="config">/data/system/users/0/settings_config.xml</string>
+            <string name="global">/data/system/users/0/settings_global.xml</string>
+            <string name="secure">/data/system/users/0/settings_secure.xml</string>
+            <string name="system">/data/system/users/0/settings_system.xml</string>
+            <string name="ssaid">/data/system/users/0/settings_ssaid.xml</string>
+        </extras>
+    </job>
+    <job jobid="2131427341" package="com.android.settings" class="com.android.settings.fuelgauge.batterytip.AnomalyCleanupJobService" sourcePackageName="com.android.settings" sourceUserId="0" uid="1000" priority="0" flags="0" lastSuccessfulRunTime="0" lastFailedRunTime="0">
+        <constraints idle="true" charging="true" />
+        <periodic period="86400000" flex="86400000" deadline="1754527969846" delay="1754527969846" />
+        <extras />
+    </job>
+    <job jobid="2131427342" package="com.android.settings" class="com.android.settings.fuelgauge.batterytip.AnomalyConfigJobService" sourcePackageName="com.android.settings" sourceUserId="0" uid="1000" priority="0" flags="0" lastSuccessfulRunTime="0" lastFailedRunTime="0">
+        <constraints idle="true" charging="true" />
+        <periodic period="86400000" flex="86400000" deadline="1754527969846" delay="1754527969846" />
+        <extras />
+    </job>
+</job-info>

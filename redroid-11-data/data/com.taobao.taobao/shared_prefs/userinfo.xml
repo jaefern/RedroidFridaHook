@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="auto_login"></string>
+    <string name="oldsid"></string>
+    <string name="userId"></string>
+    <string name="sid"></string>
+    <string name="ecode"></string>
+    <string name="havanaSsoToken"></string>
+    <string name="encrypted_sid"></string>
+    <string name="loginServiceExt_json"></string>
+    <boolean name="newSession" value="true" />
+    <string name="subSid"></string>
+    <string name="eventTrace">{&quot;apiName&quot;:&quot;mtop.wireless.skin.atmosphere.info&quot;,&quot;appBackGround&quot;:false,&quot;eventName&quot;:&quot;SESSION_INVALID&quot;,&quot;msgCode&quot;:&quot;FAIL_SYS_SESSION_EXPIRED&quot;,&quot;processName&quot;:&quot;com.taobao.taobao&quot;,&quot;v&quot;:&quot;1.0&quot;}{&quot;eventName&quot;:&quot;autoLoginToken=null|trySdkLogin&quot;}{&quot;apiName&quot;:&quot;mtop.wireless.skin.atmosphere.info&quot;,&quot;appBackGround&quot;:false,&quot;eventName&quot;:&quot;SESSION_INVALID&quot;,&quot;msgCode&quot;:&quot;FAIL_SYS_SESSION_EXPIRED&quot;,&quot;processName&quot;:&quot;com.taobao.taobao&quot;,&quot;v&quot;:&quot;1.0&quot;}{&quot;eventName&quot;:&quot;autoLoginToken=null|trySdkLogin&quot;}{&quot;apiName&quot;:&quot;mtop.wireless.skin.atmosphere.info&quot;,&quot;appBackGround&quot;:false,&quot;eventName&quot;:&quot;SESSION_INVALID&quot;,&quot;msgCode&quot;:&quot;FAIL_SYS_SESSION_EXPIRED&quot;,&quot;processName&quot;:&quot;com.taobao.taobao&quot;,&quot;v&quot;:&quot;1.0&quot;}{&quot;eventName&quot;:&quot;autoLoginToken=null|trySdkLogin&quot;}{&quot;apiName&quot;:&quot;mtop.wireless.skin.atmosphere.info&quot;,&quot;appBackGround&quot;:false,&quot;eventName&quot;:&quot;SESSION_INVALID&quot;,&quot;msgCode&quot;:&quot;FAIL_SYS_SESSION_EXPIRED&quot;,&quot;processName&quot;:&quot;com.taobao.taobao&quot;,&quot;v&quot;:&quot;1.0&quot;}{&quot;eventName&quot;:&quot;autoLoginToken=null|trySdkLogin&quot;}</string>
+    <string name="email"></string>
+    <boolean name="commentTokenUsed" value="true" />
+</map>

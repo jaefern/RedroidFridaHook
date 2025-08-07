@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="bucket">ad_ifs_disk_filter&amp;ad_ifs_disk_filter_new&amp;ad_nav_hook_enable&amp;adv_anti_cheating_enable&amp;adv_cpm_component_switch_on&amp;adv_cpm_crop_bitmap&amp;adv_forward_with_fetch&amp;adv_new_cps_param_e&amp;adv_new_ifs&amp;adv_view_opt&amp;cpcClickBucketNew&amp;cpmClickBucketNew&amp;eadtEnable&amp;externalFlowIntercept</string>
+    <string name="tk_cps_cross_e_config">{&quot;enable_cross_e&quot;:0,&quot;flux_disperse_config&quot;:0}</string>
+    <set name="disk_filter_namespace">
+        <string>all</string>
+    </set>
+    <set name="mama_ad_succeed_exposure_urls">
+        <string>510b73acdd16abb40c2a538fae610b41</string>
+    </set>
+    <int name="disk_max_filter" value="50" />
+</map>

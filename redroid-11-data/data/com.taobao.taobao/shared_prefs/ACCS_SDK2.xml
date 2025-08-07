@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="opt_x_device">true</string>
+    <string name="block_service_ids">powermsg3</string>
+    <string name="normal_changes_v2">false</string>
+    <string name="allow_loss_service_id">eventCollect</string>
+    <string name="smart_hb_range">18-18</string>
+    <string name="smart_hb_max_interval">600</string>
+    <string name="keep_alive_prefix"></string>
+    <string name="smart_hb_min_interval">60</string>
+    <string name="keep_alive_report_interval">86400000</string>
+    <string name="keep_alive_report_range">95-96</string>
+    <string name="normal_changes">true</string>
+    <string name="opt_overseas_monitor">true</string>
+    <string name="opt_bind_app_0616">false</string>
+    <string name="agoo_optimization_range">-1,-1</string>
+    <string name="connect_to_pull_ids">powermsg3</string>
+    <string name="opt_bc_biz_ack">false</string>
+    <string name="opt_performance_0616">false</string>
+    <string name="normal_changes_v1">true</string>
+</map>

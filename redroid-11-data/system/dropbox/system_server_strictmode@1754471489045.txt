@@ -1,0 +1,36 @@
+Process: unknown
+Build: redroid/redroid_x86_64/redroid_x86_64:11/RD2A.211001.002/eng.frank.20240527.144006:userdebug/test-keys
+System-App: true
+Uptime-Millis: 13199856
+Loop-Violation-Number: 7
+Duration-Millis: 3
+
+android.os.strictmode.DiskReadViolation
+	at android.os.StrictMode$AndroidBlockGuardPolicy.onReadFromDisk(StrictMode.java:1596)
+	at libcore.io.BlockGuardOs.read(BlockGuardOs.java:304)
+	at libcore.io.IoBridge.read(IoBridge.java:509)
+	at java.io.FileInputStream.read(FileInputStream.java:320)
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:291)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:355)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:181)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at com.android.org.kxml2.io.KXmlParser.fillBuffer(KXmlParser.java:1516)
+	at com.android.org.kxml2.io.KXmlParser.peekCharacter(KXmlParser.java:1470)
+	at com.android.org.kxml2.io.KXmlParser.setInput(KXmlParser.java:1746)
+	at com.android.server.appop.HistoricalRegistry$Persistence.readHistoricalOpsLocked(HistoricalRegistry.java:1188)
+	at com.android.server.appop.HistoricalRegistry$Persistence.readHistoricalOpsLocked(HistoricalRegistry.java:1170)
+	at com.android.server.appop.HistoricalRegistry$Persistence.collectHistoricalOpsRecursiveDLocked(HistoricalRegistry.java:948)
+	at com.android.server.appop.HistoricalRegistry$Persistence.collectHistoricalOpsBaseDLocked(HistoricalRegistry.java:914)
+	at com.android.server.appop.HistoricalRegistry$Persistence.collectHistoricalOpsDLocked(HistoricalRegistry.java:888)
+	at com.android.server.appop.HistoricalRegistry$Persistence.access$100(HistoricalRegistry.java:748)
+	at com.android.server.appop.HistoricalRegistry.getHistoricalOps(HistoricalRegistry.java:437)
+	at com.android.server.appop.-$$Lambda$9PbhNRcJKpFejdnfSDhPa_VHrMY.accept(Unknown Source:57)
+	at com.android.internal.util.function.pooled.PooledLambdaImpl.doInvoke(PooledLambdaImpl.java:423)
+	at com.android.internal.util.function.pooled.PooledLambdaImpl.invoke(PooledLambdaImpl.java:201)
+	at com.android.internal.util.function.pooled.OmniFunction.run(OmniFunction.java:97)
+	at android.os.Handler.handleCallback(Handler.java:938)
+	at android.os.Handler.dispatchMessage(Handler.java:99)
+	at android.os.Looper.loop(Looper.java:223)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+	at com.android.server.ServiceThread.run(ServiceThread.java:44)
+

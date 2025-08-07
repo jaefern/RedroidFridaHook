@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<package name="com.android.contacts" call-count="0" last-reset="0">
+<package-info version="10731" last_udpate_time="1716820866000" shadow="0" allow-backup="0" allow-backup-initialized="0" bk_src_version="-1" bk_src_backup-allowed="0" />
+<shortcut id="shortcut-add-contact" activity="com.android.contacts/com.android.contacts.activities.PeopleActivity" title="添加联系人" titleid="2131755526" titlename="shortcut_add_contact" textid="0" dmessageid="0" disabled-reason="0" timestamp="1753764657703" rank="0" flags="420" icon-res="2131230839" icon-resname="drawable/ic_add_contact_shortcut">
+<intent intent-base="content://com.android.contacts/contacts#Intent;action=android.intent.action.INSERT;launchFlags=0x1000c000;component=com.android.contacts/.activities.ContactEditorActivity;end" />
+</shortcut>
+</package>

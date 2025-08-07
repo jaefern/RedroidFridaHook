@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <set name="actions">
+        <string>com.android.systemui.action.PLUGIN_OVERLAY</string>
+        <string>com.android.systemui.action.PEOPLE_HUB_PERSON_EXTRACTOR</string>
+        <string>com.android.systemui.action.PLUGIN_QS</string>
+        <string>com.android.systemui.action.PLUGIN_GLOBAL_ACTIONS_PANEL</string>
+        <string>com.android.systemui.action.PLUGIN_NOTIFICATION_MENU_ROW</string>
+        <string>com.android.systemui.action.PLUGIN_GLOBAL_ACTIONS</string>
+        <string>com.android.systemui.action.PLUGIN_CLOCK</string>
+        <string>com.android.systemui.action.PLUGIN_QS_FACTORY</string>
+        <string>com.android.systemui.action.PLUGIN_VOLUME</string>
+        <string>com.android.systemui.action.FALSING_PLUGIN</string>
+        <string>com.android.systemui.action.PLUGIN_SENSOR_MANAGER</string>
+        <string>com.android.systemui.action.PLUGIN_LOCKSCREEN_RIGHT_BUTTON</string>
+        <string>com.android.systemui.action.PLUGIN_NOTIFICATION_ASSISTANT</string>
+        <string>com.android.systemui.action.PLUGIN_LOCKSCREEN_LEFT_BUTTON</string>
+    </set>
+</map>

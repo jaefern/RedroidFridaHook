@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<package-restrictions>
+    <pkg name="com.android.cts.priv.ctsshim" ceDataInode="44187684" />
+    <pkg name="com.android.internal.display.cutout.emulation.corner" ceDataInode="44187692" />
+    <pkg name="com.android.internal.display.cutout.emulation.double" ceDataInode="44187700" />
+    <pkg name="com.android.providers.telephony" ceDataInode="44187532" />
+    <pkg name="com.android.dynsystem" ceDataInode="44187708" />
+    <pkg name="com.android.theme.color.amethyst" ceDataInode="44187717" />
+    <pkg name="com.android.theme.icon.pebble" ceDataInode="44187725" />
+    <pkg name="com.android.providers.calendar" ceDataInode="44187733" />
+    <pkg name="com.android.providers.media" ceDataInode="44187742" />
+    <pkg name="com.android.internal.systemui.navbar.gestural_wide_back" ceDataInode="44187751" />
+    <pkg name="com.android.theme.color.sand" ceDataInode="44187759" />
+    <pkg name="com.android.wallpapercropper" ceDataInode="44187767" />
+    <pkg name="com.android.theme.icon.vessel" ceDataInode="44187776" />
+    <pkg name="com.android.theme.color.cinnamon" ceDataInode="44187784" />
+    <pkg name="com.android.theme.icon_pack.victor.settings" ceDataInode="44187792" />
+    <pkg name="com.android.theme.icon_pack.rounded.systemui" ceDataInode="44187800" />
+    <pkg name="com.android.theme.icon.taperedrect" ceDataInode="44187808" />
+    <pkg name="com.android.documentsui" ceDataInode="44187816" />
+    <pkg name="com.android.externalstorage" ceDataInode="44187825" />
+    <pkg name="com.android.htmlviewer" ceDataInode="44187834" />
+    <pkg name="com.android.companiondevicemanager" ceDataInode="44187843" />
+    <pkg name="com.android.quicksearchbox" ceDataInode="44187852" />
+    <pkg name="com.android.mms.service" ceDataInode="44187538" />
+    <pkg name="com.android.providers.downloads" ceDataInode="44187861" />
+    <pkg name="com.android.theme.icon_pack.rounded.android" ceDataInode="44187870" />
+    <pkg name="com.android.theme.icon_pack.victor.systemui" ceDataInode="44187878" />
+    <pkg name="com.android.theme.icon_pack.circular.themepicker" ceDataInode="44187886" />
+    <pkg name="com.android.theme.color.tangerine" ceDataInode="44187894" />
+    <pkg name="com.android.providers.downloads.ui" ceDataInode="44187902" />
+    <pkg name="com.android.pacprocessor" ceDataInode="44187911" />
+    <pkg name="com.android.simappdialog" ceDataInode="44187920" />
+    <pkg name="com.android.networkstack" ceDataInode="44187932" />
+    <pkg name="com.android.theme.color.aquamarine" ceDataInode="44187938" />
+    <pkg name="com.android.internal.display.cutout.emulation.hole" ceDataInode="44187946" />
+    <pkg name="com.android.internal.display.cutout.emulation.tall" ceDataInode="44187954" />
+    <pkg name="com.android.modulemetadata" ceDataInode="44187962" />
+    <pkg name="com.android.certinstaller" ceDataInode="44187970" />
+    <pkg name="com.android.theme.color.black" ceDataInode="44187979" />
+    <pkg name="com.android.theme.color.green" ceDataInode="44187987" />
+    <pkg name="com.android.theme.color.ocean" ceDataInode="44187995" />
+    <pkg name="com.android.theme.color.space" ceDataInode="44188003" />
+    <pkg name="com.android.internal.systemui.navbar.threebutton" ceDataInode="44188011" />
+    <pkg name="android" ceDataInode="44187550" />
+    <pkg name="com.android.contacts" ceDataInode="44188019" />
+    <pkg name="com.android.camera2" ceDataInode="44188028">
+        <disabled-components>
+            <item name="com.android.camera.DisableCameraReceiver" />
+            <item name="com.android.camera.CameraLauncher" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.android.theme.icon_pack.rounded.launcher" ceDataInode="44188037" />
+    <pkg name="com.android.theme.icon_pack.kai.settings" ceDataInode="44188045" />
+    <pkg name="com.android.egg" ceDataInode="44188053" />
+    <pkg name="com.android.mtp" ceDataInode="44188062" />
+    <pkg name="com.android.nfc" ceDataInode="44188071" enabled="2" enabledCaller="com.android.nfc" />
+    <pkg name="com.android.launcher3" ceDataInode="44188080" />
+    <pkg name="com.android.backupconfirm" ceDataInode="44188089" />
+    <pkg name="com.android.provision" ceDataInode="44188098">
+        <disabled-components>
+            <item name="com.android.provision.DefaultActivity" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.android.statementservice" ceDataInode="44188107" />
+    <pkg name="com.android.theme.icon_pack.sam.settings" ceDataInode="44188116" />
+    <pkg name="com.android.settings.intelligence" ceDataInode="44188124" />
+    <pkg name="com.android.calendar" ceDataInode="44188133">
+        <disabled-components>
+            <item name="com.android.calendar.UpgradeReceiver" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.android.internal.systemui.navbar.gestural_extra_wide_back" ceDataInode="44188142" />
+    <pkg name="com.android.theme.icon_pack.kai.themepicker" ceDataInode="44188150" />
+    <pkg name="com.android.providers.settings" ceDataInode="44187558" />
+    <pkg name="com.android.sharedstoragebackup" ceDataInode="44188158" />
+    <pkg name="com.android.theme.icon_pack.victor.launcher" ceDataInode="44188167" />
+    <pkg name="com.android.printspooler" ceDataInode="44188175" />
+    <pkg name="com.android.theme.icon_pack.filled.settings" ceDataInode="44188184" />
+    <pkg name="com.android.dreams.basic" ceDataInode="44188192" />
+    <pkg name="com.android.theme.icon_pack.kai.systemui" ceDataInode="44188201" />
+    <pkg name="com.android.webview" ceDataInode="44188209" />
+    <pkg name="com.android.se" ceDataInode="44188219" />
+    <pkg name="com.android.inputdevices" ceDataInode="44187567" />
+    <pkg name="com.android.bips" ceDataInode="44188228" />
+    <pkg name="com.android.theme.icon_pack.circular.settings" ceDataInode="44188237" />
+    <pkg name="com.android.musicfx" ceDataInode="44188245" />
+    <pkg name="com.android.theme.icon_pack.sam.systemui" ceDataInode="44188254" />
+    <pkg name="com.android.theme.icon.teardrop" ceDataInode="44188262" />
+    <pkg name="android.ext.shared" ceDataInode="44187576" />
+    <pkg name="com.android.onetimeinitializer" ceDataInode="44188270" />
+    <pkg name="com.android.server.telecom" ceDataInode="44187585" />
+    <pkg name="com.android.theme.icon_pack.rounded.themepicker" ceDataInode="44188279" />
+    <pkg name="com.android.keychain" ceDataInode="44188287" />
+    <pkg name="com.android.printservice.recommendation" ceDataInode="44188296" />
+    <pkg name="com.android.gallery3d" ceDataInode="44188305">
+        <disabled-components>
+            <item name="com.android.camera.DisableCameraReceiver" />
+            <item name="com.android.camera.CameraLauncher" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.android.theme.icon_pack.filled.systemui" ceDataInode="44188314" />
+    <pkg name="android.ext.services" ceDataInode="44187594" />
+    <pkg name="com.android.wifi.resources" ceDataInode="44187603" />
+    <pkg name="com.android.localtransport" ceDataInode="44188322" />
+    <pkg name="com.android.packageinstaller" ceDataInode="44188334" />
+    <pkg name="com.android.theme.icon_pack.sam.android" ceDataInode="44188340" />
+    <pkg name="com.android.theme.font.notoserifsource" ceDataInode="44188348" />
+    <pkg name="com.android.theme.icon_pack.filled.android" ceDataInode="44188356" />
+    <pkg name="com.android.proxyhandler" ceDataInode="44187611" />
+    <pkg name="com.android.internal.display.cutout.emulation.waterfall" ceDataInode="44188364" />
+    <pkg name="com.android.theme.icon_pack.circular.systemui" ceDataInode="44188372" />
+    <pkg name="com.android.inputmethod.latin" ceDataInode="44187620">
+        <disabled-components>
+            <item name="com.android.inputmethod.latin.setup.SetupActivity" />
+        </disabled-components>
+    </pkg>
+    <pkg name="org.chromium.webview_shell" ceDataInode="44188380" />
+    <pkg name="com.android.theme.icon_pack.kai.android" ceDataInode="44188389" />
+    <pkg name="com.android.managedprovisioning" ceDataInode="44188397" />
+    <pkg name="com.android.networkstack.tethering" ceDataInode="44188409" />
+    <pkg name="com.android.soundpicker" ceDataInode="44188415" />
+    <pkg name="com.android.dreams.phototable" ceDataInode="44188424" />
+    <pkg name="com.android.theme.icon_pack.kai.launcher" ceDataInode="44188433" />
+    <pkg name="com.android.smspush" ceDataInode="44188441" />
+    <pkg name="com.android.wallpaper.livepicker" ceDataInode="44188450" />
+    <pkg name="com.android.theme.icon_pack.sam.launcher" ceDataInode="44188459" />
+    <pkg name="com.android.theme.icon.squircle" ceDataInode="44188467" />
+    <pkg name="com.android.theme.icon_pack.victor.android" ceDataInode="44188475" />
+    <pkg name="com.android.storagemanager" ceDataInode="44188483" />
+    <pkg name="com.android.theme.color.palette" ceDataInode="44188492" />
+    <pkg name="com.android.bookmarkprovider" ceDataInode="44188500" />
+    <pkg name="com.android.settings" ceDataInode="44187629">
+        <enabled-components>
+            <item name="com.android.settings.Settings$ConnectedDeviceDashboardActivity" />
+            <item name="com.android.settings.Settings$PowerUsageSummaryActivity" />
+            <item name="com.android.settings.Settings$BluetoothSettingsActivity" />
+            <item name="com.android.settings.Settings$WifiSettingsActivity" />
+            <item name="com.android.settings.WebViewImplementation" />
+            <item name="com.android.settings.Settings$DataUsageSummaryActivity" />
+        </enabled-components>
+        <disabled-components>
+            <item name="com.android.settings.CryptKeeper" />
+            <item name="com.android.settings.Settings$WifiDisplaySettingsActivity" />
+            <item name="com.android.settings.Settings$DevelopmentSettingsDashboardActivity" />
+            <item name="com.android.settings.Settings$UserSettingsActivity" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.android.theme.icon_pack.filled.launcher" ceDataInode="44188509" />
+    <pkg name="com.android.networkstack.permissionconfig" ceDataInode="44188517" />
+    <pkg name="com.android.cts.ctsshim" ceDataInode="44188526" />
+    <pkg name="com.android.theme.color.carbon" ceDataInode="44188534" />
+    <pkg name="com.android.theme.icon_pack.circular.launcher" ceDataInode="44188542" />
+    <pkg name="com.android.vpndialogs" ceDataInode="44188550" />
+    <pkg name="com.android.music" ceDataInode="44188559" />
+    <pkg name="com.android.phone" ceDataInode="44187638" />
+    <pkg name="com.android.shell" ceDataInode="44187647" />
+    <pkg name="com.android.theme.icon_pack.filled.themepicker" ceDataInode="44188568" />
+    <pkg name="com.android.wallpaperbackup" ceDataInode="44188576" />
+    <pkg name="com.android.providers.blockednumber" ceDataInode="44188588" />
+    <pkg name="com.android.providers.userdictionary" ceDataInode="44188594" />
+    <pkg name="com.android.providers.media.module" ceDataInode="44188603" />
+    <pkg name="com.android.hotspot2.osulogin" ceDataInode="44188612" />
+    <pkg name="com.android.internal.systemui.navbar.gestural" ceDataInode="44188621" />
+    <pkg name="com.android.location.fused" ceDataInode="44187656" />
+    <pkg name="com.android.theme.icon_pack.victor.themepicker" ceDataInode="44188629" />
+    <pkg name="com.android.theme.color.orchid" ceDataInode="44188637" />
+    <pkg name="com.android.deskclock" ceDataInode="44188645" />
+    <pkg name="com.android.systemui" ceDataInode="44187665">
+        <disabled-components>
+            <item name="com.android.systemui.tuner.TunerActivity" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.android.theme.color.purple" ceDataInode="44188654" />
+    <pkg name="com.android.bluetoothmidiservice" ceDataInode="44188662" />
+    <pkg name="com.android.permissioncontroller" ceDataInode="44187674">
+        <disabled-components>
+            <item name="com.android.permissioncontroller.role.ui.SpecialAppAccessListActivity" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.android.traceur" ceDataInode="44188671">
+        <disabled-components>
+            <item name="com.android.traceur.StorageProvider" />
+            <item name="com.android.traceur.QsService" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.taobao.taobao" ceDataInode="44187681">
+        <enabled-components>
+            <item name="com.taobao.accs.ChannelService" />
+        </enabled-components>
+        <disabled-components>
+            <item name="com.taobao.desktop.widget.template.combine.WidgetCombineMiuiReceiver" />
+            <item name="com.taobao.keepalive.account.AccountProvider" />
+            <item name="com.taobao.keepalive.account.SyncService" />
+            <item name="com.taobao.desktop.widget.template.standard.WidgetStandardMiuiReceiver" />
+            <item name="com.taobao.desktop.widget.template.gold.WidgetTaoGoldReceiver" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.android.theme.icon_pack.sam.themepicker" ceDataInode="44188680" />
+    <pkg name="com.android.bluetooth" ceDataInode="44188691" />
+    <pkg name="com.android.providers.contacts" ceDataInode="44188697" />
+    <pkg name="com.android.captiveportallogin" ceDataInode="44188706" />
+    <pkg name="com.android.theme.icon.roundedrect" ceDataInode="44188715" />
+    <pkg name="com.android.internal.systemui.navbar.gestural_narrow_back" ceDataInode="44188723" />
+    <pkg name="com.android.theme.icon_pack.rounded.settings" ceDataInode="44188731" />
+    <pkg name="com.android.theme.icon_pack.circular.android" ceDataInode="44188739" />
+    <preferred-activities>
+        <item name="com.android.launcher3/.uioverrides.QuickstepLauncher" match="100000" always="true" set="2">
+            <set name="com.android.launcher3/.uioverrides.QuickstepLauncher" />
+            <set name="com.android.settings/.FallbackHome" />
+            <filter>
+                <action name="android.intent.action.MAIN" />
+                <cat name="android.intent.category.HOME" />
+                <cat name="android.intent.category.DEFAULT" />
+            </filter>
+        </item>
+    </preferred-activities>
+    <persistent-preferred-activities />
+    <crossProfile-intent-filters />
+    <default-apps />
+</package-restrictions>

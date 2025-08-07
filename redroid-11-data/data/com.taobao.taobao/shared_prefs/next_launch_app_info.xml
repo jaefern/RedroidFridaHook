@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="com.taobao.taobao:channel" value="40300" />
+    <int name="com.taobao.taobao" value="39578" />
+</map>

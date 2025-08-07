@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="data_roaming_is_user_setting_key" value="false" />
+    <boolean name="button_enable_video_calling" value="true" />
+    <string name="build_fingerprint">redroid/redroid_x86_64/redroid_x86_64:11/RD2A.211001.002/eng.frank.20240527.144006:userdebug/test-keys</string>
+</map>

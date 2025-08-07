@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<package name="com.taobao.taobao" call-count="1" last-reset="1754455063973">
+<package-info version="734" last_udpate_time="1753764440627" shadow="0" allow-backup="0" allow-backup-initialized="0" bk_src_version="-1" bk_src_backup-allowed="0" />
+<shortcut id="searchEntry" activity="com.taobao.taobao/com.taobao.tao.welcome.Welcome" title="搜索" titleid="0" text="搜索" textid="0" dmessage="该应用已失效，长按可删除图标" dmessageid="0" disabled-reason="0" timestamp="1754469004940" rank="2" flags="137" icon-res="0" bitmap-path="/data/system_ce/0/shortcut_service/bitmaps/com.taobao.taobao/1754469004935.png">
+<intent intent-base="tbopen://m.taobao.com/tbopen/index.html?action=ali.open.nav&amp;module=h5&amp;bootImage=0&amp;sLaunch=0&amp;h5Url=https%3A%2F%2Fs.m.taobao.com%2Fh5entry%3FforbidRefineType%3Dhomepage&amp;bc_fl_src=growth_dhh_2200803434487_android-shortcuts-1069565676-android_default-biz_null-mfP_1338_null_default_searchEntry_915142#Intent;launchFlags=0x10008000;end" />
+</shortcut>
+<shortcut id="diskClean" activity="com.taobao.taobao/com.taobao.tao.welcome.Welcome" title="空间清理" titleid="0" text="空间清理" textid="0" dmessage="该应用已失效，长按可删除图标" dmessageid="0" disabled-reason="0" timestamp="1754469004940" rank="1" flags="137" icon-res="0" bitmap-path="/data/system_ce/0/shortcut_service/bitmaps/com.taobao.taobao/1754469004939.png">
+<intent intent-base="tbopen://m.taobao.com/tbopen/index.html?action=ali.open.nav&amp;module=h5&amp;bootImage=0&amp;sLaunch=0&amp;h5Url=https%3A%2F%2Fdisk.storage.clean.taobao.com%3FforbidRefineType%3Dhomepage&amp;bc_fl_src=growth_dhh_2200803434487_android-shortcuts-1069565676-android_default-biz_null-mfP_1338_null_default_diskClean_915142#Intent;launchFlags=0x10008000;end" />
+</shortcut>
+<shortcut id="widgetCenter" activity="com.taobao.taobao/com.taobao.tao.welcome.Welcome" title="自定义" titleid="0" text="自定义" textid="0" dmessage="该应用已失效，长按可删除图标" dmessageid="0" disabled-reason="0" timestamp="1754469004940" rank="0" flags="137" icon-res="0" bitmap-path="/data/system_ce/0/shortcut_service/bitmaps/com.taobao.taobao/1754469004939_1.png">
+<intent intent-base="tbopen://m.taobao.com/tbopen/index.html?action=ali.open.nav&amp;module=h5&amp;bootImage=0&amp;sLaunch=0&amp;h5Url=https%3A%2F%2Fweb.m.taobao.com%2Fapp%2Fug%2Fwidget-square-weex%2Fhome%3Fwh_weex%3Dtrue%26weex_mode%3Ddom%26activeTab%3DSHORTCUTS&amp;bc_fl_src=growth_dhh_2200803434487_android-shortcuts-1069565676-android_default-biz_null-mfP_1338_null_default_widgetCenter_915142#Intent;launchFlags=0x10008000;end" />
+</shortcut>
+<shortcut id="pailitao" activity="com.taobao.taobao/com.taobao.tao.welcome.Welcome" title="拍立淘" titleid="0" text="拍立淘" textid="0" dmessage="该应用已失效，长按可删除图标" dmessageid="0" disabled-reason="0" timestamp="1754469004940" rank="3" flags="137" icon-res="0" bitmap-path="/data/system_ce/0/shortcut_service/bitmaps/com.taobao.taobao/1754469004940.png">
+<intent intent-base="tbopen://m.taobao.com/tbopen/index.html?action=ali.open.nav&amp;module=h5&amp;bootImage=0&amp;sLaunch=0&amp;h5Url=https%3A%2F%2Fh5.m.taobao.com%2Ftusou%2Findex.html%3Fpssource%3Dshortcuts&amp;bc_fl_src=growth_dhh_2200803434487_android-shortcuts-1069565676-android_default-biz_null-mfP_1338_null_default_pailitao_915142#Intent;launchFlags=0x10008000;end" />
+</shortcut>
+</package>

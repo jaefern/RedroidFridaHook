@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="debug_mode" value="0" />
+    <string name="ipc_to_listener_ids">accs-impaas</string>
+    <int name="connect_timeout" value="10000" />
+    <int name="main_create_pid" value="39578" />
+    <string name="notification_state">true</string>
+    <string name="languageTag">zh_CN</string>
+    <int name="appVersionCode" value="734" />
+    <boolean name="switch" value="true" />
+    <string name="bg_msg_filter_ids">eventCollect</string>
+    <long name="last_launch_time" value="1754528528383" />
+    <boolean name="bg_limit_switch" value="true" />
+    <string name="down_msg_ids">powermsg</string>
+    <boolean name="accs_normal_switch" value="true" />
+    <boolean name="keep_alive_init_enable" value="false" />
+    <string name="regid">reg0sOhM0abuSjTii6PbzqwC0BumiLSA</string>
+    <string name="connection_service_type_v1">2</string>
+    <boolean name="mass_switch" value="true" />
+    <string name="defaultAppkey">21646297</string>
+    <string name="utdid">aIhwhjOJRr0DACGQN0aznSsK</string>
+    <string name="keep_alive_range_v1">3,96</string>
+    <string name="eventCollectStrategy">{&quot;reportInterval&quot;:1200000,&quot;randomTimeLimit&quot;:100,&quot;eventIdList&quot;:[1,2,3,5,10,11,12,13,14,15],&quot;switch&quot;:true}</string>
+    <int name="tokenReportStatus" value="1" />
+    <boolean name="control" value="false" />
+    <string name="appVersionName">10.51.0</string>
+    <int name="version" value="302" />
+    <string name="up_retry">powermsg3</string>
+    <string name="new_wv_ids">hd-doudizhu</string>
+    <string name="site">CN</string>
+    <string name="appkey">21646297</string>
+    <string name="cb_listener_ids">powermsg</string>
+    <boolean name="asp_enable" value="true" />
+    <string name="down_rtt_ids">hd-doudizhu</string>
+</map>

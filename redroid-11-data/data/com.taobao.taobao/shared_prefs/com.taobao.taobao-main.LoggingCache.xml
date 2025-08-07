@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="curUploadDaypay" value="20307" />
+    <string name="clientID">250729065610463|250729065610463</string>
+    <string name="utdid">aIhwhjOJRr0DACGQN0aznSsK</string>
+    <int name="curUploadTraficMISC" value="0" />
+    <long name="curUploadDayMISC" value="20307" />
+    <int name="curUploadTraficpay" value="0" />
+</map>

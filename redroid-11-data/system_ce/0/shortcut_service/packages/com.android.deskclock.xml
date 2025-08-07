@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<package name="com.android.deskclock" call-count="4" last-reset="1754455063973">
+<package-info version="30" last_udpate_time="1716820866000" shadow="0" allow-backup="0" allow-backup-initialized="0" bk_src_version="-1" bk_src_backup-allowed="0" />
+<shortcut id="Alarm_Create" activity="com.android.deskclock/com.android.deskclock.DeskClock" title="新闹钟" titleid="0" text="设置新闹钟" textid="0" dmessageid="0" disabled-reason="0" timestamp="1754527970484" rank="0" flags="133" icon-res="2131230934" icon-resname="drawable/shortcut_new_alarm">
+<intent intent-base="#Intent;action=android.intent.action.SET_ALARM;launchFlags=0x10000000;component=com.android.deskclock/.HandleApiCalls;end">
+<extras>
+<int name="com.android.deskclock.extra.EVENT_LABEL" value="2131821033" />
+</extras>
+</intent>
+</shortcut>
+<shortcut id="Stopwatch" activity="com.android.deskclock/com.android.deskclock.DeskClock" title="启动" titleid="0" text="启动秒表" textid="0" dmessageid="0" disabled-reason="0" timestamp="1754527970484" rank="2" flags="133" icon-res="2131230937" icon-resname="drawable/shortcut_stopwatch">
+<intent intent-base="#Intent;action=com.android.deskclock.action.START_STOPWATCH;launchFlags=0x10000000;component=com.android.deskclock/.HandleShortcuts;end">
+<extras>
+<int name="com.android.deskclock.extra.EVENT_LABEL" value="2131821033" />
+</extras>
+</intent>
+</shortcut>
+<shortcut id="Screensaver_Show" activity="com.android.deskclock/com.android.deskclock.DeskClock" title="屏保" titleid="0" text="启动屏保" textid="0" dmessageid="0" disabled-reason="0" timestamp="1754527970484" rank="3" flags="133" icon-res="2131230936" icon-resname="drawable/shortcut_screensaver">
+<intent intent-base="#Intent;action=android.intent.action.MAIN;launchFlags=0x10000000;component=com.android.deskclock/.ScreensaverActivity;end">
+<extras>
+<int name="com.android.deskclock.extra.EVENT_LABEL" value="2131821033" />
+</extras>
+</intent>
+</shortcut>
+<shortcut id="Timer_Create" activity="com.android.deskclock/com.android.deskclock.DeskClock" title="新定时器" titleid="0" text="设置新定时器" textid="0" dmessageid="0" disabled-reason="0" timestamp="1754527970484" rank="1" flags="133" icon-res="2131230935" icon-resname="drawable/shortcut_new_timer">
+<intent intent-base="#Intent;action=android.intent.action.SET_TIMER;launchFlags=0x10000000;component=com.android.deskclock/.HandleApiCalls;end">
+<extras>
+<int name="com.android.deskclock.extra.EVENT_LABEL" value="2131821033" />
+</extras>
+</intent>
+</shortcut>
+</package>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="last_check_time" value="1754469009945" />
+    <string name="last_permission_status">{&quot;android.permission.SEND_SMS&quot;:2,&quot;android.permission.RECEIVE_SMS&quot;:2,&quot;android.permission.READ_CONTACTS&quot;:2,&quot;android.permission.WRITE_CONTACTS&quot;:2,&quot;android.permission.WRITE_CALENDAR&quot;:2,&quot;android.permission.CAMERA&quot;:2,&quot;android.permission.RECORD_AUDIO&quot;:2,&quot;android.permission.CALL_PHONE&quot;:2,&quot;android.permission.READ_CALL_LOG&quot;:2,&quot;android.permission.WRITE_CALL_LOG&quot;:2,&quot;android.permission.READ_PHONE_STATE&quot;:2,&quot;android.permission.READ_EXTERNAL_STORAGE&quot;:2,&quot;android.permission.WRITE_EXTERNAL_STORAGE&quot;:2,&quot;android.permission.ACCESS_FINE_LOCATION&quot;:2,&quot;android.permission.ACCESS_COARSE_LOCATION&quot;:2}</string>
+    <long name="last_commit_time" value="1753772379332" />
+</map>

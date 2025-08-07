@@ -1,0 +1,1 @@
+{"version":"6.7.250602","hasso":true,"pluginname":"main","pluginclass":"com.alibaba.wireless.security.mainplugin.SecurityGuardMainPlugin","dependencies":"","weakdependencies":"","weakdependenciesNotDelay":"","reversedependencies":"misc:6.5.0;nocaptcha:6.5.0","thirdpartyso":false,"keepaliveprocs":"com.taobao.taobao:channel;com.alibaba.wireless.securityguard:channel2"}

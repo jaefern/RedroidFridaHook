@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="dinamic_enable_enable_life_cycle_monitor">true</string>
+    <string name="dinamic_original_widget_cache_white_list"></string>
+    <string name="dinamic_enable_low_memory_callback">true</string>
+    <string name="dinamic_enable_low_memory_monitor">true</string>
+    <string name="dx_butter_enable">true</string>
+</map>

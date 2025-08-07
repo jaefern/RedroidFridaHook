@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="account_sync_range">36-36</string>
+    <string name="prevent_rt_kill_receiver_delay">20</string>
+    <string name="r_e_kill_delay">2880</string>
+    <string name="normal_switch">true</string>
+    <string name="speed_switch">true</string>
+    <string name="adj_adjust_range"></string>
+    <string name="prevent_rt_kill_receiver_range"></string>
+    <string name="recent_entrance_range">38-38</string>
+    <string name="reduce_account_range">39-39</string>
+</map>

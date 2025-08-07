@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="launch_crash_enable" value="true" />
+    <boolean name="normal_crash_enable" value="true" />
+    <boolean name="launch_crash" value="false" />
+</map>

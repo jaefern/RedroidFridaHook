@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="change_app_icon_can_init" value="true" />
+    <boolean name="safemode_change_to_default_icon" value="false" />
+    <string name="orange_last_version">2120240321171047605</string>
+    <long name="auto_repair_more_icons_in_bg_interval" value="86400000" />
+    <int name="change_app_icon_init_report" value="0" />
+    <boolean name="redress_default_icon_enable" value="false" />
+    <int name="auto_repair_more_icons_in_bg_max_attempt_count" value="2" />
+    <boolean name="change_to_default_in_bg" value="false" />
+    <boolean name="auto_repair_more_icons_in_bg" value="true" />
+    <boolean name="check_is_restart_report" value="true" />
+    <boolean name="change_app_icon_in_bg_open" value="true" />
+</map>

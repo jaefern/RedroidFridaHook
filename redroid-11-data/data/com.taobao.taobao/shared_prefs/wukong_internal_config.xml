@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="bootstrap_log_interval">-1</string>
+    <string name="key_config_disk_cache_switch">1</string>
+    <string name="log_switch">true</string>
+    <string name="ccrc_wangwang_chat_switch">0</string>
+    <string name="rule_engine_type">1</string>
+    <string name="configVersion">2120250807002955032</string>
+    <string name="ccrc_taobao_swindle_risk_switch">1</string>
+    <string name="cro_rpsdk_identity_switch">0</string>
+    <string name="wukong_log_mtop_switch">0</string>
+    <string name="ccrc_taobao_crawler_risk_switch">0</string>
+    <string name="key_mrt_start_switch">0</string>
+    <string name="ccrc_ut_switch">0</string>
+</map>

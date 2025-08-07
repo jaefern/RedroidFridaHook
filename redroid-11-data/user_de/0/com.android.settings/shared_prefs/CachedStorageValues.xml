@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="external_audio_bytes" value="0" />
+    <long name="last_query_timestamp" value="1753764687506" />
+    <long name="video_apps_size" value="0" />
+    <long name="photo_apps_size" value="0" />
+    <long name="external_video_bytes" value="0" />
+    <long name="external_total_bytes" value="5263360" />
+    <long name="external_image_bytes" value="110592" />
+    <long name="external_apps_bytes" value="5054464" />
+    <int name="user_id" value="0" />
+    <long name="total_bytes" value="4000000000000" />
+    <long name="music_apps_size" value="0" />
+    <long name="free_bytes" value="477210923008" />
+    <long name="other_apps_size" value="341430272" />
+    <long name="game_apps_size" value="0" />
+    <long name="cache_apps_size" value="0" />
+</map>

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="privacy_config">{&quot;minors_protect_enable_list&quot;:&quot;[\&quot;HUAWEI\&quot;,\&quot;VIVO\&quot;,\&quot;OPPO\&quot;,\&quot;HONOR\&quot;,\&quot;REDMI\&quot;,\&quot;XIAOMI\&quot;,\&quot;ONEPLUS\&quot;,\&quot;SAMSUNG\&quot;,\&quot;REALME\&quot;,\&quot;HINOVA\&quot;,\&quot;MEIZU\&quot;]&quot;,&quot;private_guard_rule_config&quot;:&quot;{\&quot;enable\&quot;:\&quot;false\&quot;,\&quot;abComponent\&quot;:\&quot;\&quot;,\&quot;hashRate\&quot;:\&quot;5_0_5\&quot;,\&quot;reportStack\&quot;:\&quot;true\&quot;,\&quot;permissionCheckInterval\&quot;:\&quot;86401\&quot;,\&quot;reportParams\&quot;:\&quot;true\&quot;,\&quot;stackLevel\&quot;:\&quot;8\&quot;}&quot;,&quot;strategy_control_config_android&quot;:&quot;{}&quot;,&quot;strategy_control_switch_android&quot;:&quot;false&quot;}</string>
+</map>

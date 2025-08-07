@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="enableWindowTypeNewStandard">true</string>
+    <string name="foldDeviceList">TAH-AN00;TAH-N29;TAH-AN00m;TAH-N29m;TET-AN00;TET-AN10;TET-AL00;TET-AN50;TET-NX9;PAL-AL00;PAL-LX9;ALT-AL00;ALT-L29</string>
+    <string name="phoneDeviceList">2106118C;Mi 10;23116PN5BC;M2102J2SC;M2104K10AC;M2011K2C;XT2201-2;23049RAD8C;M2012K10C;22041211AC;Mi 10 Pro;M2012K11C;M2102K1AC;2304FPN6DC;M2007J1SC;XT2175-2;M2006J10C;23113RKC6C;ASUS_AI2201_B;V2073A;M2101K9C</string>
+    <string name="flipDeviceList">BAL-AL00;BAL-L49;BAL-AL80;BAL-AL60;XT2321-2</string>
+</map>

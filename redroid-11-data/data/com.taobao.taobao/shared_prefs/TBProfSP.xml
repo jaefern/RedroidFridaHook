@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="tbp_is_enable" value="false" />
+    <string name="tbp_dump_heap">{&quot;isEnable&quot;:true,&quot;sample&quot;:40,&quot;graySample&quot;:2000,&quot;selfGraySample&quot;:0,&quot;integrationSample&quot;:10000,&quot;otherSample&quot;:10000,&quot;upload&quot;:true}</string>
+</map>

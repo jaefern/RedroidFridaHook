@@ -1,0 +1,33 @@
+2025-08-07 00:52:49.918 319 Loaded 0 items
+2025-08-07 00:52:49.919 319 Sync manager initialized: redroid/redroid_x86_64/redroid_x86_64:11/RD2A.211001.002/eng.frank.20240527.144006:userdebug/test-keys
+2025-08-07 00:52:49.978 319 onStartUser: user=0
+2025-08-07 00:52:50.077 319 scheduleSync: no accounts configured, dropping
+2025-08-07 00:52:50.082 319 scheduleSync: no accounts configured, dropping
+2025-08-07 00:52:50.082 319 scheduleSync: no accounts configured, dropping
+2025-08-07 00:52:50.107 319 scheduleSync: no accounts configured, dropping
+2025-08-07 00:52:50.110 319 scheduleSync: no accounts configured, dropping
+2025-08-07 00:52:50.127 319 scheduleSync: no accounts configured, dropping
+2025-08-07 00:52:50.148 319 scheduleSync: no accounts configured, dropping
+2025-08-07 00:52:50.186 319 scheduleSync: no accounts configured, dropping
+2025-08-07 00:52:50.206 319 scheduleSync: no accounts configured, dropping
+2025-08-07 00:52:50.265 319 scheduleSync: no accounts configured, dropping
+2025-08-07 00:52:50.321 319 rescheduleSyncs() ep=ALL ACCS/ALL PDRS:u-1 why=network reconnect
+2025-08-07 00:52:50.321 319 Loaded persisted syncs: 0 periodic syncs, 0 oneshot syncs, 13 total system server jobs, JobStats: FirstLoad: 4/4/0 LastSave: -1/-1/-1
+2025-08-07 00:52:50.366 319 onUnlockUser: user=0
+2025-08-07 00:52:50.409 319 updateRunningAccountsH: []
+2025-08-07 00:52:50.409 319 scheduleSync: no accounts configured, dropping
+2025-08-07 00:52:50.424 319 scheduleSync: no accounts configured, dropping
+2025-08-07 00:52:50.501 319 scheduleSync: no accounts configured, dropping
+2025-08-07 00:52:50.502 319 scheduleSync: no accounts configured, dropping
+2025-08-07 00:52:51.468 319 scheduleSync: no accounts configured, dropping
+2025-08-07 00:52:51.468 319 scheduleSync: no accounts configured, dropping
+2025-08-07 00:52:51.469 319 scheduleSync: no accounts configured, dropping
+2025-08-07 00:52:51.469 319 scheduleSync: no accounts configured, dropping
+2025-08-07 00:52:51.502 319 scheduleSync: no accounts configured, dropping
+2025-08-07 00:52:51.502 319 scheduleSync: no accounts configured, dropping
+2025-08-07 00:52:51.520 319 scheduleSync: no accounts configured, dropping
+2025-08-07 00:52:51.586 319 scheduleSync: no accounts configured, dropping
+2025-08-07 00:52:51.586 319 scheduleSync: no accounts configured, dropping
+2025-08-07 00:52:51.600 319 scheduleSync: no accounts configured, dropping
+2025-08-07 00:52:51.642 319 scheduleSync: no accounts configured, dropping
+2025-08-07 00:52:51.642 319 scheduleSync: no accounts configured, dropping

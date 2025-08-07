@@ -1,0 +1,15 @@
+FDSize:	128
+VmPeak:	63888184 kB
+VmSize:	30563560 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	  177180 kB
+VmRSS:	  177180 kB
+VmData:	17890016 kB
+VmStk:	    8192 kB
+VmExe:	      16 kB
+VmLib:	  135944 kB
+VmPTE:	    1248 kB
+VmSwap:	       0 kB
+Threads:	24
+

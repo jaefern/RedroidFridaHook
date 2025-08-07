@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="ANRPercent">1</string>
+    <string name="SendPercent">1</string>
+    <string name="addMoreBlackInfo">true</string>
+    <string name="OpenCSwitcher">true</string>
+    <string name="ignoreAnr">true</string>
+    <string name="shortDump">true</string>
+    <string name="LongMainThreadDuration">true</string>
+    <string name="dumpNativeStack">false</string>
+    <string name="supportTCrash2">true</string>
+    <string name="OptAppExitAnr">true</string>
+    <string name="UseNewTCrashAb">true</string>
+    <string name="autoReleaseMemory">true</string>
+    <string name="forbid-jsi-dump">true</string>
+    <string name="maxKeepActivity">5</string>
+    <string name="delDupAnr">false</string>
+    <string name="supportNewAnr">true</string>
+    <string name="forbidRunningAppProcesses">true</string>
+    <string name="OpenLogcatCrash">false</string>
+    <string name="dumpHeap">false</string>
+    <string name="supportTCrash2Again">true</string>
+    <string name="OpenLitSafe">true</string>
+</map>

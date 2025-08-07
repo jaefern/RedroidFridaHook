@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="env_os">android</string>
+    <string name="env_osver">11</string>
+    <string name="env_sdkver">24.8.2.2</string>
+    <string name="env_model">redroid11_x86_64</string>
+    <string name="env_packagename">com.taobao.taobao</string>
+</map>

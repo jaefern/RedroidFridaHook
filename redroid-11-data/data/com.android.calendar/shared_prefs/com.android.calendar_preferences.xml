@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="preferences_week_start_day">-1</string>
+    <string name="preferences_default_reminder">10</string>
+    <boolean name="preferences_hide_declined" value="false" />
+    <string name="preferences_alerts_ringtone">content://settings/system/notification_sound</string>
+    <boolean name="preferences_alerts" value="true" />
+    <boolean name="preferences_show_week_num" value="false" />
+    <boolean name="preferences_alerts_popup" value="false" />
+    <boolean name="preferences_home_tz_enabled" value="false" />
+    <boolean name="preferences_alerts_vibrate" value="false" />
+</map>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="tb_bucket_type">test</string>
+    <string name="Home_Page_ExperimentBucketId">753951</string>
+    <string name="Home_Page_ExperimentId">221460</string>
+    <string name="tb_start_bucket_id">20014</string>
+    <string name="tb_start_test_id">tb_start_exp</string>
+</map>

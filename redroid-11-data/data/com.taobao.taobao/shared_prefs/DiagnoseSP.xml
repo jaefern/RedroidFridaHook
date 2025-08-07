@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="apm_collect_interval" value="2" />
+    <string name="snapshotid">80ac7712349e8cbee09f27a19549b71e</string>
+    <string name="scene_action_tlog_upload">{&quot;needWifi&quot;:true,&quot;maxLimit&quot;:20,&quot;uploadInterval&quot;:60}</string>
+    <boolean name="snapshot_upload_enable" value="true" />
+    <string name="ut_collect_config">{&quot;isEnable&quot;:false,&quot;isClickEnable&quot;:false,&quot;clickPageWhiteList&quot;:[]}</string>
+    <boolean name="is_inner_user" value="false" />
+    <long name="osTypeTime" value="1754469010804" />
+    <string name="scene_available_list">[&quot;scene_screenshot&quot;,&quot;scene_java_crash&quot;,&quot;scene_mtop_error&quot;,&quot;scene_launch&quot;,&quot;scene_change_config&quot;,&quot;scene_custom&quot;,&quot;scene_mem_exhaust&quot;,&quot;scene_white_h5&quot;,&quot;scene_white_native&quot;,&quot;scene_white_weex&quot;,&quot;scene_native_crash&quot;,&quot;scene_anr&quot;]</string>
+    <boolean name="scene_enable" value="true" />
+    <boolean name="apm_enable" value="true" />
+    <string name="abnormal_config">{&quot;abnormalEnable&quot;:true,&quot;monitorMtopError&quot;:true,&quot;monitorMtopTime&quot;:false,&quot;monitorLag&quot;:true,&quot;monitorH5White&quot;:true,&quot;monitorNativeWhite&quot;:true,&quot;monitorBizError&quot;:true,&quot;mtopFilterMap&quot;:{},&quot;mtopTimeout&quot;:3000,&quot;monitorWeexWhite&quot;:true}</string>
+    <boolean name="diagnose_is_enable" value="true" />
+    <string name="runtime_monitor_config">{&quot;memExhaustLevel&quot;:95,&quot;memCheckSample&quot;:10000}</string>
+    <int name="user_type" value="0" />
+    <int name="snapshot_expire_day" value="7" />
+    <boolean name="channel_enable" value="true" />
+    <boolean name="exception_monitor_enable" value="true" />
+    <string name="info_last_launch">time=2025-08-07 01:02:07;pid=39578;appVer=10.51.0;os=os;osVer=11;osDisplay=redroid_x86_64-userdebug 11 RD2A.211001.002 eng.frank.20240527.144006 test-keys</string>
+</map>

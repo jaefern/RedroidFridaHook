@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<package-watchdog version="1">
+<observer name="rescue-party-observer" />
+<observer name="rollback-observer" />
+</package-watchdog>

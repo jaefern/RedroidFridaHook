@@ -1,0 +1,43 @@
+Process: com.taobao.taobao
+PID: 24270
+UID: 10116
+Flags: 0x30b83e44
+Package: com.taobao.taobao v734 (10.51.0)
+Foreground: Yes
+Process-Runtime: 20163
+Build: redroid/redroid_x86_64/redroid_x86_64:11/RD2A.211001.002/eng.frank.20240527.144006:userdebug/test-keys
+
+*** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+Build fingerprint: 'redroid/redroid_x86_64/redroid_x86_64:11/RD2A.211001.002/eng.frank.20240527.144006:userdebug/test-keys'
+Revision: '0'
+ABI: 'x86_64'
+Timestamp: 2025-08-06 09:13:03+0000
+pid: 24270, tid: 24765, name: ubw_thread  >>> com.taobao.taobao <<<
+uid: 10116
+signal 6 (SIGABRT), code -1 (SI_QUEUE), fault addr --------
+Abort message: 'vendor/unbundled_google/libs/ndk_translation/runtime/guest_call_arm64.cc:76: CHECK failed: 135903290435376 == 135902592429952'
+    rax 0000000000000000  rbx 0000000000005ece  rcx 00007ba1adc5f6c8  rdx 0000000000000006
+    r8  0000000000000001  r9  0000000000000001  r10 00007b9a79109590  r11 0000000000000246
+    r12 00007b9a7359a730  r13 00007b9a7c09e160  r14 00007b9a79109588  r15 00000000000060bd
+    rdi 0000000000005ece  rsi 00000000000060bd
+    rbp 00007ba02d80b300  rsp 00007b9a79109578  rip 00007ba1adc5f6c8
+
+backtrace:
+      #00 pc 000000000005a6c8  /apex/com.android.runtime/lib64/bionic/libc.so (syscall+24) (BuildId: 367a43aefd68123bf118851437b2730e)
+      #01 pc 000000000005d632  /apex/com.android.runtime/lib64/bionic/libc.so (abort+194) (BuildId: 367a43aefd68123bf118851437b2730e)
+      #02 pc 0000000000634aa7  /apex/com.android.art/lib64/libart.so (art::Runtime::Abort(char const*)+2375) (BuildId: bed3d54c6ba67824d67edb3d6d8f028e)
+      #03 pc 0000000000019cfc  /system/lib64/libbase.so (android::base::SetAborter(std::__1::function<void (char const*)>&&)::$_3::__invoke(char const*)+60) (BuildId: 57a25d3b12cb351c70780a20000ea489)
+      #04 pc 0000000000007e88  /system/lib64/liblog.so (__android_log_assert+376) (BuildId: 8209228312a47a9d8fd4cc4e859b9b6d)
+      #05 pc 0000000000116ca4  /system/lib64/libndk_translation.so (ndk_translation::RunGuestCall(unsigned long, ndk_translation::GuestArgumentBuffer*)+340) (BuildId: 8d5bb5ddeee9364830ea3d7d46ef98b9)
+      #06 pc 0000000000111a02  /system/lib64/libndk_translation.so (ndk_translation::GuestThread::ProcessPendingSignalsImpl()+754) (BuildId: 8d5bb5ddeee9364830ea3d7d46ef98b9)
+      #07 pc 000000000011201b  /system/lib64/libndk_translation.so (ndk_translation::(anonymous namespace)::HandleHostSignal(int, siginfo*, void*)+299) (BuildId: 8d5bb5ddeee9364830ea3d7d46ef98b9)
+      #08 pc 00000000000059e7  /system/bin/app_process64 (art::SignalChain::Handler(int, siginfo*, void*)+359) (BuildId: ea15f2c9ee6a02dd4827862d4842450d)
+      #09 pc 000000000005a50f  /apex/com.android.runtime/lib64/bionic/libc.so (BuildId: 367a43aefd68123bf118851437b2730e)
+      #10 pc 000000000005a6c7  /apex/com.android.runtime/lib64/bionic/libc.so (syscall+23) (BuildId: 367a43aefd68123bf118851437b2730e)
+      #11 pc 0000000000170c50  /system/lib64/libndk_translation.so (ndk_translation_HandleNoExec+208) (BuildId: 8d5bb5ddeee9364830ea3d7d46ef98b9)
+      #12 pc 0000000000116a22  /system/lib64/libndk_translation.so (ndk_translation::ExecuteGuest(ndk_translation::ProcessState*)+434) (BuildId: 8d5bb5ddeee9364830ea3d7d46ef98b9)
+      #13 pc 0000000000116c15  /system/lib64/libndk_translation.so (ndk_translation::RunGuestCall(unsigned long, ndk_translation::GuestArgumentBuffer*)+197) (BuildId: 8d5bb5ddeee9364830ea3d7d46ef98b9)
+      #14 pc 0000000000116d15  /system/lib64/libndk_translation.so (ndk_translation::GuestCall::RunResInt64(unsigned long)+21) (BuildId: 8d5bb5ddeee9364830ea3d7d46ef98b9)
+      #15 pc 00000000001143ed  /system/lib64/libndk_translation.so (ndk_translation::(anonymous namespace)::RunGuestThread(void*)+237) (BuildId: 8d5bb5ddeee9364830ea3d7d46ef98b9)
+      #16 pc 00000000000c815a  /apex/com.android.runtime/lib64/bionic/libc.so (__pthread_start(void*)+58) (BuildId: 367a43aefd68123bf118851437b2730e)
+      #17 pc 000000000005f4e7  /apex/com.android.runtime/lib64/bionic/libc.so (__start_thread+55) (BuildId: 367a43aefd68123bf118851437b2730e)

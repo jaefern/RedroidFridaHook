@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="action_close_text">跳过动画</string>
+    <string name="enableCheckDXBeforeShow">true</string>
+    <string name="isBizTrigger">false</string>
+    <string name="app_launch_count">{&quot;2025-08-07&quot;:32}</string>
+    <string name="enableAddToCartAnim">true</string>
+    <string name="topshow_reservation_show_alert">true</string>
+</map>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<gs version="1">
+<p pkg="com.android.quicksearchbox" cl="com.android.quicksearchbox.SearchWidgetProvider" tag="4" />
+<h pkg="com.android.launcher3" id="402" tag="0" />
+<g id="2" rid="0" h="0" p="4" min_width="14c" min_height="50" max_width="1da" max_height="6d" host_category="1" restore_completed="false" />
+</gs>

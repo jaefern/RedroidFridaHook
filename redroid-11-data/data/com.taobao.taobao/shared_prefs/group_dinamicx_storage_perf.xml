@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="dinamic_enable_storage_perf">false</string>
+    <string name="dinamic_storage_perf_dirty_biztype_white_list">homepage,informationFlow</string>
+    <string name="dinamic_storage_perf_white_list">subscription,rateFeedList,guess,live_channel,live_channel_flexaremote,alimp_message,orderdetail,live,mytaobao</string>
+    <string name="dinamic_storage_perf_black_list">[{&quot;bizType&quot;:&quot;orderdetail&quot;,&quot;templateName&quot;:&quot;babel_orderdetail_award&quot;},{&quot;bizType&quot;:&quot;alimp_message&quot;,&quot;templateName&quot;:&quot;alimp_bottom_res_menu_cell&quot;},{&quot;bizType&quot;:&quot;alimp_message&quot;,&quot;templateName&quot;:&quot;alimp_operating_area_header_top_location_v3&quot;},{&quot;bizType&quot;:&quot;guess&quot;,&quot;templateName&quot;:&quot;recommend_m_r_item_universal_ump_2024&quot;},{&quot;bizType&quot;:&quot;live&quot;,&quot;templateName&quot;:&quot;taolive_gl_item3_buttonprice_presale&quot;},{&quot;bizType&quot;:&quot;alimp_message&quot;,&quot;templateName&quot;:&quot;alimp_message_aftersale_2023&quot;},{&quot;bizType&quot;:&quot;live&quot;,&quot;templateName&quot;:&quot;taolive_gl_rights_v2&quot;},{&quot;bizType&quot;:&quot;mytaobao&quot;,&quot;templateName&quot;:&quot;mtb_2022_vip&quot;},{&quot;bizType&quot;:&quot;mytaobao&quot;,&quot;templateName&quot;:&quot;mtb_2022_collection&quot;},{&quot;bizType&quot;:&quot;mytaobao&quot;,&quot;templateName&quot;:&quot;mtb_2022_order&quot;},{&quot;bizType&quot;:&quot;mytaobao&quot;,&quot;templateName&quot;:&quot;Template_Fetch&quot;},{&quot;bizType&quot;:&quot;informationFlow&quot;,&quot;templateName&quot;:&quot;recommend_newface_main_sub_separator&quot;},{&quot;bizType&quot;:&quot;informationFlow&quot;,&quot;templateName&quot;:&quot;recommend_m_newbie_single_row_item_v2_edler_home&quot;}]</string>
+    <string name="dinamic_global_config">{&quot;deleteInterval&quot;:0}</string>
+    <string name="dinamic_filter_dirty_template">true</string>
+    <string name="dinamic_storage_template_report_size">20</string>
+    <string name="dinamic_template_clear_white_list">[{&quot;bizType&quot;:&quot;alimp_message&quot;,&quot;templateName&quot;:&quot;alimp_biz_pure_text_card&quot;},{&quot;bizType&quot;:&quot;homepage&quot;,&quot;templateName&quot;:&quot;homeintl_htao_homev4_search_normal&quot;}]</string>
+    <string name="dinamic_storage_perf_clean">false</string>
+</map>

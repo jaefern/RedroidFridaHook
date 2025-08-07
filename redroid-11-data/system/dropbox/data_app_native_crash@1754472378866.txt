@@ -1,0 +1,33 @@
+Process: com.taobao.taobao
+PID: 8951
+UID: 10116
+Flags: 0x30b83e44
+Package: com.taobao.taobao v734 (10.51.0)
+Foreground: Yes
+Process-Runtime: 20056
+Build: redroid/redroid_x86_64/redroid_x86_64:11/RD2A.211001.002/eng.frank.20240527.144006:userdebug/test-keys
+
+*** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+Build fingerprint: 'redroid/redroid_x86_64/redroid_x86_64:11/RD2A.211001.002/eng.frank.20240527.144006:userdebug/test-keys'
+Revision: '0'
+ABI: 'x86_64'
+Timestamp: 2025-08-06 09:26:18+0000
+pid: 8951, tid: 9476, name: ubw_thread  >>> com.taobao.taobao <<<
+uid: 10116
+signal 11 (SIGSEGV), code 2 (SEGV_ACCERR), fault addr 0x7ba1aed39db0
+Abort message: 'vendor/unbundled_google/libs/ndk_translation/runtime/guest_call_arm64.cc:76: CHECK failed: 135902930141056 == 135902796941104'
+    rax 0000000000000000  rbx 00007b9abb34f000  rcx 00007ba1adc5f6c8  rdx 000000000000000b
+    r8  000000000000000b  r9  000000000000000b  r10 00007b9a4cda59c0  r11 0000000000000246
+    r12 00007b9f15794468  r13 00000000007ba1ae  r14 00000000007ba101  r15 00007b9abb34f050
+    rdi 00000000000022f7  rsi 0000000000002504
+    rbp 00000000000022f7  rsp 00007b9a4cda59b8  rip 00007ba1adc5f6c8
+
+backtrace:
+      #00 pc 000000000005a6c8  /apex/com.android.runtime/lib64/bionic/libc.so (syscall+24) (BuildId: 367a43aefd68123bf118851437b2730e)
+      #01 pc 0000000000170c50  /system/lib64/libndk_translation.so (ndk_translation_HandleNoExec+208) (BuildId: 8d5bb5ddeee9364830ea3d7d46ef98b9)
+      #02 pc 0000000000116a22  /system/lib64/libndk_translation.so (ndk_translation::ExecuteGuest(ndk_translation::ProcessState*)+434) (BuildId: 8d5bb5ddeee9364830ea3d7d46ef98b9)
+      #03 pc 0000000000116c15  /system/lib64/libndk_translation.so (ndk_translation::RunGuestCall(unsigned long, ndk_translation::GuestArgumentBuffer*)+197) (BuildId: 8d5bb5ddeee9364830ea3d7d46ef98b9)
+      #04 pc 0000000000116d15  /system/lib64/libndk_translation.so (ndk_translation::GuestCall::RunResInt64(unsigned long)+21) (BuildId: 8d5bb5ddeee9364830ea3d7d46ef98b9)
+      #05 pc 00000000001143ed  /system/lib64/libndk_translation.so (ndk_translation::(anonymous namespace)::RunGuestThread(void*)+237) (BuildId: 8d5bb5ddeee9364830ea3d7d46ef98b9)
+      #06 pc 00000000000c815a  /apex/com.android.runtime/lib64/bionic/libc.so (__pthread_start(void*)+58) (BuildId: 367a43aefd68123bf118851437b2730e)
+      #07 pc 000000000005f4e7  /apex/com.android.runtime/lib64/bionic/libc.so (__start_thread+55) (BuildId: 367a43aefd68123bf118851437b2730e)

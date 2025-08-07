@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="com.vivo.push.secure_sub_key">33,34,35,36,37,38,39,40,41,32,38,37,33,35,34,33</string>
+    <string name="com.vivo.push.secure_cache_key">33,34,35,36,37,38,39,40,41,32,38,37,36,35,34,33</string>
+    <string name="com.vivo.push.secure_sub_iv">34,32,33,37,33,34,32,33,33,33,34,41,35,35,32,32</string>
+    <string name="com.vivo.push.secure_cache_iv">34,32,33,37,33,34,32,33,33,33,34,41,35,32,32,32</string>
+</map>

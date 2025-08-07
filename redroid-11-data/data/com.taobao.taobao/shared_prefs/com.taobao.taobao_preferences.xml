@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="NETWORK_WIFI_FG_FORCE_CELL_OPT_ENABLE" value="true" />
+    <string name="network_okhttp_white_list">[&quot;g.alicdn.com&quot;,&quot;gm.mmstat.com&quot;,&quot;heic.alicdn.com&quot;,&quot;market.m.taobao.com&quot;,&quot;miniapp-package-zcache.taobao.com&quot;,&quot;cdn.rantu.com&quot;,&quot;ynuf.aliapp.org&quot;,&quot;log.mmstat.com&quot;,&quot;s-gm.mmstat.com&quot;,&quot;honghuang.zqygame.com&quot;,&quot;tblifecdn.taobao.com&quot;,&quot;h5api.m.tmall.com&quot;,&quot;gjusp.alicdn.com&quot;,&quot;odin.re.taobao.com&quot;,&quot;mo.m.taobao.com&quot;,&quot;mo.m.tmall.com&quot;,&quot;uland.taobao.com&quot;,&quot;ai.m.taobao.com&quot;,&quot;temai.m.taobao.com&quot;,&quot;gaia-ssr.m.taobao.com&quot;,&quot;ssr-wormhole-yuanshen.taobao.com&quot;]</string>
+    <string name="network_amdc_strategy_threshold_list">[&quot;604800000&quot;,&quot;172800000&quot;,&quot;2073600000&quot;,&quot;1209600000&quot;]</string>
+    <int name="10.51.0_bit_runtime" value="8" />
+    <string name="ngConcurrencyEnable">false</string>
+    <int name="deviceTypeCache" value="0" />
+    <string name="PREF_KEY_LAST_REAL_EDITION_CODE">CN</string>
+    <boolean name="CHANNEL_LOCAL_INSTANCE_ENABLE" value="true" />
+    <boolean name="NETWORK_RETRY_USE_LONG_LINK_ENABLE" value="true" />
+    <boolean name="WIDGET_LOCAL_INSTANCE_ENABLE" value="true" />
+    <string name="ngPhenixNet">false</string>
+    <boolean name="NETWORK_OVERSEA_PRE_HOST_STRATEGY_ENABLE" value="false" />
+    <string name="instantpatch_effective_version"></string>
+    <string name="network_url_monitor_request_white_list">[&quot;h5.ele.me&quot;,&quot;orange-dc.m.taobao.com/api/config&quot;,&quot;trade-acs.m.taobao.com/gw/mtop.taobao.newbuy.data.adjust&quot;,&quot;trade-acs.m.taobao.com/gw/mtop.trade.order.build&quot;,&quot;trade-acs.m.taobao.com/gw/mtop.trade.update.bag&quot;,&quot;trade-acs.m.taobao.com/gw/mtop.taobao.order.queryboughtlistv2&quot;,&quot;trade-acs.m.taobao.com/gw/mtop.taobao.order.query.detailv2&quot;,&quot;pages-fast.m.taobao.com&quot;,&quot;pages-g.m.taobao.com&quot;,&quot;trade-acs.m.taobao.com/gw/mtop.trade.query.bag&quot;,&quot;trade-acs.m.taobao.com/gw/mtop.trade.order.create&quot;,&quot;trade-acs.m.taobao.com/gw/mtop.com.alibaba.refundface2.disputeservice.renderlist.noultron&quot;,&quot;trade-acs.m.taobao.com/gw/mtop.order.dopay&quot;,&quot;trade-acs.m.taobao.com/gw/mtop.trade.addbag&quot;,&quot;trade-acs.m.taobao.com/gw/mtop.trade.order.adjust&quot;,&quot;trade-acs.m.taobao.com/gw/mtop.com.alibaba.refundface2.select.render.initzerorefundv4&quot;,&quot;trade-acs.m.taobao.com/gw/mtop.order.doop&quot;,&quot;trade-acs.m.taobao.com/gw/mtop.com.taobao.wireless.catapult.cancel.reason.render&quot;,&quot;trade-acs.m.taobao.com/gw/mtop.com.alibaba.refundface2.select.render.applyRouter&quot;,&quot;am.m.taobao.com&quot;]</string>
+    <boolean name="tlog_intercept" value="true" />
+    <int name="network_session_wait_time" value="2000" />
+    <string name="network_connect_opt_domain_write_list">[&quot;pages-fast.m.taobao.com&quot;,&quot;gw.alicdn.com&quot;]</string>
+    <string name="inlinepatch_effective_version"></string>
+    <boolean name="network_ipv6_detect" value="true" />
+    <string name="homepage_search_detail_data">{&quot;displayText&quot;:&quot;迪卡轩衬衫&quot;,&quot;searchText&quot;:&quot;迪卡轩衬衫&quot;,&quot;searchparams&quot;:[],&quot;iconHeight&quot;:&quot;&quot;,&quot;iconWidth&quot;:&quot;&quot;,&quot;suggest_rn&quot;:&quot;bucketid_42-rn_671B7616C9B2C5AFCDB0E96AEA7C3C87-tpp_atlas&quot;,&quot;iconName&quot;:&quot;&quot;,&quot;darkIconUrl&quot;:&quot;&quot;,&quot;utParams&quot;:{&quot;tag_info&quot;:&quot;%23%23%2311&quot;},&quot;iconUrl&quot;:&quot;&quot;}</string>
+    <set name="http3_detector_hosts">
+        <string>mtlexternal.alibabausercontent.com</string>
+        <string>nr-op.elemecdn.com</string>
+    </set>
+    <boolean name="NETWORK_PRE_SESSION_OPT_ENABLE" value="true" />
+    <string name="PREF_KEY_REAL_CITY_NAME">清远市</string>
+    <string name="PREF_KEY_REAL_EDITION_CODE">CN</string>
+    <string name="flexaLastInstalledVersionName">10.51.0</string>
+    <int name="tlog_file_statistics_sample" value="8000" />
+    <string name="instantpatch_mainversion">10.51.0</string>
+    <string name="network_uplink_compress_host_white_list">[&quot;guide-acs.m.taobao.com&quot;,&quot;trade-acs.m.taobao.com&quot;]</string>
+    <string name="ngNotPhone">false</string>
+    <string name="network_http_cache_config">[{&quot;biz&quot;:&quot;hudong&quot;,&quot;size&quot;:&quot;52428800&quot;,&quot;url&quot;:[&quot;g.alicdn.com/tbddz/assets/&quot;]},{&quot;biz&quot;:&quot;tblife&quot;,&quot;ab&quot;:&quot;tblife&quot;,&quot;size&quot;:&quot;103809024&quot;,&quot;url&quot;:[&quot;g.alicdn.com/wireless-platform/c6_seclife_res/&quot;]}]</string>
+    <boolean name="NETWORK_IPV6_DETECT_OPT_OPENED" value="true" />
+    <long name="tlog_file_size" value="50" />
+    <boolean name="tlog_scan_upload" value="true" />
+    <string name="MULTI_PATH_WHITE_URL">{&quot;trade-acs.m.taobao.com&quot;:[&quot;/gw/mtop.taobao.detail.data.get/1.0/&quot;,&quot;/gw/mtop.trade.query.bag/5.0/&quot;],&quot;guide-acs.m.taobao.com&quot;:[&quot;/gw/mtop.taobao.wireless.home.newface.awesome.get/1.0/&quot;,&quot;/gw/mtop.relationrecommend.mtoprecommend.recommend/1.0/&quot;,&quot;/gw/mtop.taobao.rate.detaillist.get/5.0/&quot;,&quot;/gw/mtop.taobao.rate.component.render/1.0/&quot;,&quot;/gw/mtop.taobao.rate.append.render/2.0/&quot;,&quot;/gw/mtop.taobao.afc.linkinfo.get/1.0/&quot;,&quot;/gw/mtop.cogman.container.nologin/1.0/&quot;,&quot;/gw/mtop.taobao.volvo.mytaobao/1.0/&quot;,&quot;/gw/mtop.relationrecommend.wirelessrecommend.recommend/2.0/&quot;],&quot;heic.alicdn.com&quot;:&quot;*&quot;,&quot;gw.alicdn.com&quot;:&quot;*&quot;,&quot;img.alicdn.com&quot;:&quot;*&quot;,&quot;g.alicdn.com&quot;:&quot;*&quot;,&quot;pages.tmall.com&quot;:&quot;*&quot;,&quot;market.m.taobao.com&quot;:&quot;*&quot;,&quot;huodong.taobao.com&quot;:&quot;*&quot;,&quot;guangguang.cloudvideocdn.taobao.com&quot;:&quot;*&quot;,&quot;h5.ele.me&quot;:&quot;*&quot;,&quot;cube.elemecdn.com&quot;:&quot;*&quot;}</string>
+    <string name="ttid">231200</string>
+    <int name="tlog_statistics_sample" value="10000" />
+    <string name="inlinepatch_effective_type"></string>
+    <int name="tlog_file_version" value="9" />
+    <boolean name="NETWORK_VPN_DETECT_RACING_ENABLE" value="true" />
+    <string name="PREF_KEY_REAL_EXT">{}</string>
+    <boolean name="tlog_destroy" value="false" />
+    <string name="network_zstd_dict_white_list">{&quot;amdc.m.taobao.com/amdc/mobileDispatch&quot;:[&quot;&quot;],&quot;guide-acs.m.taobao.com/gw/mtop.taobao.wireless.home.newface.awesome.get&quot;:[&quot;&quot;],&quot;guide-acs.m.taobao.com/gw/mtop.taobao.wireless.home.newface.awesome.newget&quot;:[&quot;&quot;],&quot;guide-acs.m.taobao.com/gw/mtop.relationrecommend.mtoprecommend.recommend/1.0&quot;:[&quot;&quot;],&quot;guide-acs.m.taobao.com/gw/mtop.relationrecommend.wirelessrecommend.recommend/2.0&quot;:[&quot;&quot;]}</string>
+    <string name="ngAndroidXStartupEnable">false</string>
+    <string name="networksdk_http3_history_records">[{&quot;networkUniqueId&quot;:&quot;def.NONE.100017_441800&quot;,&quot;time&quot;:1754527975310,&quot;enable&quot;:true}]</string>
+    <long name="MULTI_PATH_TRIGGER_TIME" value="1000" />
+    <boolean name="NETWORK_CONNECT_OPT_ENABLE" value="true" />
+    <string name="network_req_fec_size_white_list">{&quot;0&quot;:[&quot;mtop.relationrecommend.mtoprecommend.recommend/1.0&quot;,&quot;mtop.taobao.wireless.home.newface.awesome.get&quot;,&quot;mtop.taobao.wireless.home.newface.awesome.newget&quot;]};</string>
+    <string name="COUNTRY_CODE">CN</string>
+    <boolean name="tlog_use_zstd" value="true" />
+    <boolean name="NETWORK_ALLOW_NET_FULL_LOW_LATENCY_ENABLE" value="true" />
+    <boolean name="ALLOW_ADD_AB_HEADER_IN_MTOP" value="true" />
+    <boolean name="NETWORK_VPN_OPT_ENABLE" value="true" />
+    <string name="update_dialog_ui_v2">true</string>
+    <boolean name="tlog_real_time" value="true" />
+    <string name="MULTI_PATH_WHITE_BIZ">[&quot;15&quot;,&quot;53&quot;,&quot;51&quot;]</string>
+    <string name="network_low_latency_url_white_list_key">{&quot;url&quot;:[&quot;trade-acs.m.taobao.com&quot;,&quot;am.m.taobao.com&quot;,&quot;pages-fast.m.taobao.com&quot;],&quot;mncBlack&quot;:[&quot;&quot;],&quot;ping&quot;:[&quot;150&quot;]}</string>
+    <string name="network_falco_id_white_list">[&quot;video-nt.cloudvideocdn.taobao.com&quot;,&quot;video-zb.cloudvideocdn.taobao.com&quot;,&quot;tbm-auth.alicdn.com&quot;,&quot;pingjia.alicdn.com&quot;,&quot;daren-auth.alicdn.com&quot;,&quot;guangguang.cloudvideocdn.taobao.com&quot;,&quot;csearch.cloudvideocdn.taobao.com&quot;,&quot;mamasearchad.cloudvideocdn.taobao.com&quot;,&quot;cloud.video.taobao.com&quot;,&quot;live-segment.cloudvideocdn.taobao.com&quot;,&quot;alimama.cloudvideocdn.taobao.com&quot;,&quot;bizsec-auth.alicdn.com&quot;,&quot;tbsvideo.cloudvideocdn.taobao.com&quot;,&quot;tbexpand.alicdn.com&quot;,&quot;a1.alicdn.com&quot;,&quot;pages-fast.m.taobao.com&quot;]</string>
+    <boolean name="tlog_main_opt" value="true" />
+    <set name="http_detector_host">
+        <string>tbm-auth.alicdn.com</string>
+    </set>
+    <boolean name="tlog_switch" value="true" />
+    <boolean name="NETWORK_REQ_FEC_SIZE_OPT_ENABLE" value="true" />
+    <string name="PREF_KEY_REAL_CITY_CODE">441800</string>
+    <boolean name="NETWORK_HEADER_IGNORE_CASE_ENABLE" value="true" />
+    <string name="ngPhenixSpeed">false</string>
+    <boolean name="network_ipv6_rectification" value="true" />
+    <boolean name="NETWORK_MULTI_CONNECT_ENABLE" value="true" />
+    <string name="network_mtop_interceptor_host_white_list">[&quot;guide-acs.m.taobao.com&quot;,&quot;trade-acs.m.taobao.com&quot;,&quot;acs.m.taobao.com&quot;,&quot;h5api.m.tmall.com&quot;,&quot;h5api.m.taobao.com&quot;,&quot;pmbee.alicdn.com&quot;,&quot;global.alicdn.com&quot;,&quot;waimai-guide.ele.me&quot;]</string>
+    <string name="network_req_fec_up_size_white_list">{&quot;4&quot;:[&quot;mtop.relationrecommend.mtoprecommend.recommend/1.0&quot;,&quot;mtop.taobao.wireless.home.newface.awesome.get&quot;,&quot;mtop.taobao.wireless.home.newface.awesome.newget&quot;]};</string>
+    <boolean name="NETWORK_ZSTD_DICT_DECOMPRESS_ENABLE" value="true" />
+    <string name="instantpatch_effective_type"></string>
+    <string name="MULTI_PATH_WHITE_AB">[{&quot;ab&quot;:&quot;hudong&quot;,&quot;url&quot;:{&quot;guide-acs.m.taobao.com&quot;:[&quot;/gw/mtop.coingame.town.index.get/&quot;,&quot;/gw/mtop.coingame.town.res.list/&quot;,&quot;/gw/mtop.coingame.collect.reward/&quot;,&quot;/gw/mtop.taobao.taocoin.fix.fantomas/&quot;,&quot;/gw/mtop.coingame.town.coinchest.gather/&quot;,&quot;/gw/mtop.tmall.farm.orchard.main.get/&quot;,&quot;/gw/mtop.tmall.farm.orchard.extra.get/&quot;,&quot;/gw/mtop.tmall.farm.orchard.plant.watering/&quot;,&quot;/gw/mtop.tmall.farm.orchard.main.refresh/&quot;,&quot;/gw/mtop.tmall.farm.orchard.main.account/&quot;,&quot;/gw/mtop.tmall.jiuxi.activity.farm.user.getmainfarm/&quot;,&quot;/gw/mtop.tmall.jiuxi.activity.farm.energy.collect/&quot;,&quot;/gw/mtop.tmall.camp.olympic.mainproject/&quot;,&quot;/gw/mtop.tmall.camp.olympic.go/&quot;,&quot;/gw/mtop.taobao.tblife.request/&quot;,&quot;/gw/mtop.aplatform.taobaolife.get/&quot;,&quot;/gw/mtop.aplatform.ddz.get/&quot;,&quot;/gw/mtop.taobao.aplatform.pet.get/&quot;,&quot;/gw/mtop.taobao.pentaprism.scene.query/&quot;,&quot;/gw/mtop.taobao.pentaprism.scene.queryitem/&quot;,&quot;/gw/mtop.taobao.pentaprism.scene.trigger/&quot;,&quot;/gw/mtop.taobao.irises.hbqd.majorpage/&quot;,&quot;/gw/mtop.tmall.farm.orchard.task.gettaskentrylist/&quot;,&quot;/gw/mtop.tmall.farm.orchard.watering.ratio/&quot;,&quot;/gw/mtop.coingame.town.interact.bubble/&quot;,&quot;/gw/mtop.taobao.irises.shake.queryluckybagmajorpageinfo/&quot;],&quot;pages.tmall.com&quot;:[&quot;/wow/z/tmtjb/town/home&quot;,&quot;/wow/hdwk/act/2020nhj-single&quot;,&quot;/wow/z/hdwk/hdsolution2/game2020&quot;,&quot;/wow/z/tblife/solution2/game-tblife&quot;,&quot;/wow/z/tblife/achievement/nfcFHNzbzbAcJ8CBm3Am&quot;,&quot;/wow/z/hdwk/doudizhu/sX78ziQH2ar7ax6DKZF2-doudizhu&quot;,&quot;/wow/z/hdwk/2022d11/singlegame&quot;,&quot;/wow/z/hdwk/2022d11/multi-player&quot;,&quot;/wow/z/hdwk/2022d11/guess&quot;],&quot;market.m.taobao.com&quot;:[&quot;/app/tmall-wireless/tmallfarm&quot;],&quot;huodong.taobao.com&quot;:[&quot;/wow/z/petgame/default/pet&quot;]},&quot;biz&quot;:[]},{&quot;ab&quot;:&quot;dimensions&quot;,&quot;url&quot;:{&quot;guide-acs.m.taobao.com&quot;:[&quot;/gw/mtop.cogman.guangguang.redpoint/1.0/&quot;,&quot;/gw/mtop.com.taobao.wireless.amp.newsync/1.0/&quot;,&quot;/gw/mtop.client.mudp.update/1.0/&quot;,&quot;/gw/mtop.fortress.csp.friend.icon/1.0/&quot;,&quot;/gw/mtop.taobao.cloudvideo.video.query/3.0/&quot;,&quot;/gw/mtop.taobao.upp.service.gateway/2.0/&quot;,&quot;/gw/mtop.taobao.pagani.api.huntingnew.hongbao.precheck/1.0/&quot;,&quot;/gw/mtop.taobao.pagani.api.open.benefit.touch/1.0/&quot;,&quot;/gw/mtop.taobao.wireless.home.location/1.0/&quot;,&quot;/gw/mtop.taobao.wireless.home.awesome.recommend/1.0/&quot;,&quot;/gw/mtop.taobao.afc.linkinfo.get/2.0/&quot;,&quot;/gw/mtop.taobao.miniapp.fusion.appinfo.get/1.0/&quot;,&quot;/gw/mtop.taobao.miniapp.top.get/1.0/&quot;,&quot;/gw/mtop.taobao.lbs.posservice/1.0/&quot;,&quot;/gw/mtop.taobao.crowd.neo.findallmobilizecrowd/1.0/&quot;,&quot;/gw/mtop.taobao.volvo.secondfloor.getconfig/1.0/&quot;,&quot;/gw/mtop.taobao.sharepassword.checkistaopassword/1.0/&quot;,&quot;/gw/mtop.taobao.family.getfamilyrelation/1.0/&quot;,&quot;/gw/mtop.taobao.wireless.shop.route.process/1.0/&quot;,&quot;/gw/mtop.alisite.taobao.datacenter.get/1.0/&quot;,&quot;/gw/mtop.data.item.get/1.0/&quot;,&quot;/gw/mtop.alibaba.mum.citem.get/1.0/&quot;,&quot;/gw/mtop.common.gettimestamp/&quot;,&quot;/gw/mtop.taobao.search.highway.upload/1.0/&quot;,&quot;/gw/mtop.alibaba.emas.publish.update.resource.get/1.0/&quot;,&quot;/gw/mtop.dsm.compliance.external.privacy.switch.get/1.0/&quot;,&quot;/gw/mtop.gaia.nodejs.gaia.arkact.handler.vip/1.0/&quot;,&quot;/gw/mtop.taobao.vipshop.blackvip.channel.module.get/1.0/&quot;,&quot;/gw/mtop.taobao.vipshop.black.open.card.render/1.0/&quot;,&quot;/gw/mtop.alibaba.member.point.lottery.detail/&quot;,&quot;/gw/mtop.alibaba.member.point.normal.benefit.render/&quot;,&quot;/gw/mtop.taobao.vipshop.sqyk.home.page.get/1.0/&quot;,&quot;/gw/mtop.taobao.vipshop.sqyk.gift.card.get/1.0/&quot;,&quot;/gw/mtop.taobao.vipshop.sqyk.invite.showhomepage/1.0/&quot;,&quot;/gw/mtop.taobao.tlens.month.card.cart.collect.ipv.feeds/1.0/&quot;,&quot;/gw/mtop.taobao.vipshop.sqyk.common.module.page.get/1.0/&quot;,&quot;/gw/mtop.taobao.tlens.month.card.navigatortabs.query/1.0/&quot;,&quot;/gw/mtop.taobao.vipshop.sqyk.common.module.page.get/1.0/&quot;,&quot;/gw/mtop.taobao.vipshop.sqyk.user.asset.query/1.0/&quot;,&quot;/gw/mtop.taobao.tlens.member.commercial.month.card.general.feeds/1.0/&quot;,&quot;/gw/mtop.taobao.vipshop.sqyk.channel.benefit.query/1.0/&quot;,&quot;/gw/mtop.taobao.vipshop.sqyk.renew.admin.page.get/1.0/&quot;,&quot;/gw/mtop.taobao.vipshop.sqyk.benefit.record.show/1.0/&quot;,&quot;/gw/mtop.alibaba.member.point.point.details.list/&quot;,&quot;/gw/mtop.alibaba.member.point.benefit.details.list/&quot;,&quot;/gw/mtop.alibaba.member.point.channel.pointdata/&quot;,&quot;/gw/mtop.taobao.vipshop.black.channel.privilege.list/1.0/&quot;,&quot;/gw/mtop.taobao.vipshop.black.user.get/1.0/&quot;,&quot;/gw/mtop.alibaba.member.point.channel.pointdata/&quot;,&quot;/gw/mtop.alibaba.member.point.lottery.list/&quot;,&quot;/gw/mtop.alibaba.member.point.lottery.redpacket.render/&quot;,&quot;/gw/mtop.lotus.point.item.list/&quot;],&quot;trade-acs.m.taobao.com&quot;:[&quot;/gw/mtop.taobao.order.queryboughtlistv2/1.0/&quot;,&quot;/gw/mtop.taobao.order.query.detailv2/1.0/&quot;],&quot;alisitecdn.m.taobao.com&quot;:[&quot;/minidata/shop/index2&quot;,&quot;/minidata/shop/index/downgrade.htm&quot;],&quot;guide-acs4miniapp-inner.m.taobao.com&quot;:[&quot;/gw/mtop.alisite.taobao.datacenter.get/1.0/&quot;,&quot;/gw/mtop.data.item.get/1.0/&quot;]},&quot;biz&quot;:[&quot;70&quot;,&quot;10086&quot;,&quot;666&quot;,&quot;87&quot;,&quot;0&quot;,&quot;8910&quot;,&quot;30&quot;,&quot;5120&quot;,&quot;9001&quot;,&quot;32&quot;,&quot;31&quot;,&quot;10062&quot;,&quot;10061&quot;]}]</string>
+    <string name="network_dns_opt_white_list">[{&quot;matchKey&quot;:&quot;https://taocaicai.m.taobao.com/render/app/mmc-youxuan/taocaicai-ssr/index.html&quot;,&quot;matchType&quot;:&quot;url-prefix&quot;,&quot;preConnectHost&quot;:[&quot;taocaicai.m.taobao.com&quot;],&quot;preDnsHost&quot;:[&quot;&quot;]},{&quot;matchKey&quot;:&quot;https://taocaicai.m.taobao.com/render-wh/app/mmc-youxuan/tbmc-shop/xsd-home.html&quot;,&quot;matchType&quot;:&quot;url-prefix&quot;,&quot;preConnectHost&quot;:[&quot;taocaicai.m.taobao.com&quot;],&quot;preDnsHost&quot;:[&quot;&quot;]}]</string>
+    <string name="network_uplink_compress_url_white_list">{&quot;zstd&quot;:[&quot;trade-acs.m.taobao.com/gw/mtop.trade.update.bag/4.0&quot;,&quot;trade-acs.m.taobao.com/gw/mtop.trade.query.bag/5.0&quot;,&quot;trade-acs.m.taobao.com/gw/mtop.trade.update.structure&quot;,&quot;trade-acs.m.taobao.com/gw/mtop.taobao.newbuy.data.adjust/1.0&quot;,&quot;guide-acs.m.taobao.com/gw/mtop.taobao.wireless.home.newface.awesome.get&quot;,&quot;guide-acs.m.taobao.com/gw/mtop.taobao.wireless.home.newface.awesome.newget&quot;]}</string>
+    <string name="network_http3_1rtt_write_list">[&quot;guide-acs.m.taobao.com&quot;,&quot;trade-acs.m.taobao.com&quot;,&quot;gw.alicdn.com&quot;,&quot;heic.alicdn.com&quot;,&quot;video-zb.cloudvideocdn.taobao.com&quot;,&quot;video-sh.cloudvideocdn.taobao.com&quot;,&quot;guangguang.cloudvideocdn.taobao.com&quot;,&quot;pages-fast.m.taobao.com&quot;]</string>
+    <string name="homepage_ab_test_info">null</string>
+    <string name="PREF_KEY_OVS_EXT">{&quot;ovsExpDaysCount&quot;:1,&quot;ovsExpTime&quot;:7,&quot;ovsExpTotalCount&quot;:1,&quot;ovsRemindCountDown&quot;:0,&quot;ovsRemindKind&quot;:0}</string>
+    <long name="NETWORK_INTERCEPTOR_OPT_TYPE" value="3" />
+    <boolean name="NETWORK_DECOMPRESS_ENABLE" value="true" />
+    <string name="inlinepatch_mainversion">10.51.0</string>
+    <boolean name="NETWORK_ZSTD_DICT_DECOMPRESS_MTOP_ENABLE" value="true" />
+    <string name="networksdk_ipv6_history_records">[{&quot;networkUniqueId&quot;:&quot;def.NONE.100017_441800&quot;,&quot;time&quot;:1754528528240,&quot;enable&quot;:false}]</string>
+    <boolean name="NETWORK_SMOOTH_RECONNECT_OPT_OPENED" value="true" />
+    <long name="tlog_buffer_size" value="600" />
+    <boolean name="NETWORK_HTTP3_PRE_HOST_ENABLE" value="true" />
+    <boolean name="NETWORK_UPLINK_ENCODE_ENABLE" value="true" />
+    <boolean name="NETWORK_ZSTD_DICT_DECOMPRESS_CHANNEL_ENABLE" value="true" />
+    <boolean name="NETWORK_PROCESS_NAME_UPDATE_ENABLE" value="true" />
+    <int name="tlog_mini_blocks" value="10" />
+    <string name="tlog_slice_config">true:5:400:4:2</string>
+    <boolean name="is_yuzhuang_state_recovered" value="true" />
+    <string name="zstd_dict_threshold_key">[&quot;10&quot;,&quot;10&quot;,&quot;4194304&quot;,&quot;256000&quot;,&quot;3600000&quot;,&quot;300000&quot;]</string>
+    <string name="tlog_level">ERROR</string>
+</map>

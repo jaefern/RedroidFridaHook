@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="network_unique_id_enable_key" value="true" />
+    <string name="network_pre_oversea_strategy_white_list">{&quot;guide-acs.m.taobao.com&quot;:[&quot;acs&quot;],&quot;trade-acs.m.taobao.com&quot;:[&quot;acs&quot;]}</string>
+    <long name="OVERSEA_SESSION_CONNECT_WAIT_TIME" value="2000" />
+    <boolean name="NETWORK_STRATEGY_COMPARE_ENABLE" value="true" />
+    <boolean name="NETWORK_PRE_HOST_AMDC_BATCH_ENABLE" value="true" />
+    <boolean name="network_stack_unknown_build_strategy_enable_key" value="true" />
+    <boolean name="network_h3_strategy_filter_enable_key" value="true" />
+    <boolean name="network_cancel_hard_expiry_enable_key" value="true" />
+    <boolean name="NETWORK_REPEAT_THREAD_VIRTUAL_ENABLE" value="true" />
+    <string name="multi_path_harmony_white_list">[&quot;2.0.0&quot;,&quot;3.0.0&quot;,&quot;4.0.0&quot;,&quot;4.2.0&quot;]</string>
+    <boolean name="quic_0rtt_rate_opt_enable" value="true" />
+    <boolean name="network_oversea_racing_enable_key" value="true" />
+    <boolean name="network_amdc_parcelable_key" value="true" />
+    <boolean name="network_build_protocol_opt_enable_key" value="true" />
+    <boolean name="network_strategy_optimize_enable_key" value="true" />
+    <boolean name="NETWORK_COOKIE_OPT_V2_OPENED" value="true" />
+    <string name="network_pre_hot_str">{&quot;network_launch_opt_open&quot;:true,&quot;network_launch_opt_v1_open&quot;:true,&quot;network_launch_opt_v2_open&quot;:true}</string>
+    <boolean name="NETWORK_AMDC_STRATEGY_OPT_ENABLE" value="true" />
+    <string name="ALLOW_RETRY_USE_LONG_LINK_WHITE_LIST_KEY">[&quot;guide-acs.m.taobao.com&quot;,&quot;trade-acs.m.taobao.com&quot;,&quot;gw.alicdn.com&quot;,&quot;heic.alicdn.com&quot;,&quot;img.alicdn.com&quot;,&quot;pages-fast.m.taobao.com&quot;,&quot;pages-g.m.taobao.com&quot;]</string>
+    <boolean name="NETWORK_AMDC_STRATEGY_UPDATE_ENABLE" value="false" />
+    <string name="network_pre_host_http3_white_list">{&quot;guide-acs.m.taobao.com&quot;:[&quot;acs&quot;,&quot;true&quot;,&quot;0&quot;],&quot;trade-acs.m.taobao.com&quot;:[&quot;acs&quot;,&quot;true&quot;,&quot;0&quot;],&quot;gw.alicdn.com&quot;:[&quot;cdn&quot;,&quot;true&quot;,&quot;2&quot;],&quot;heic.alicdn.com&quot;:[&quot;cdn&quot;,&quot;true&quot;,&quot;2&quot;],&quot;pages-fast.m.taobao.com&quot;:[&quot;cdn&quot;,&quot;true&quot;,&quot;2&quot;],&quot;pages-g.m.taobao.com&quot;:[&quot;cdn&quot;,&quot;true&quot;,&quot;2&quot;],&quot;img.alicdn.com&quot;:[&quot;cdn&quot;,&quot;true&quot;,&quot;2&quot;],&quot;huodong.taobao.com&quot;:[&quot;cdn&quot;,&quot;true&quot;,&quot;2&quot;],&quot;acs.m.taobao.com&quot;:[&quot;acs&quot;,&quot;true&quot;,&quot;0&quot;]}</string>
+    <boolean name="NETWORK_REQ_CONFIG_ENABLE" value="true" />
+    <boolean name="NETWORK_COOKIE_OPT_ENABLE" value="false" />
+    <boolean name="NETWORK_ALLOW_FORCE_AMDC_ENABLE" value="true" />
+    <string name="NETWORK_LIMIT_AMDC_ENABLE">[&quot;true&quot;,&quot;0.5&quot;]</string>
+    <boolean name="network_strategy_retry_enable_key" value="true" />
+    <string name="recv_body_opt_config">{&quot;sendmmsg_enable&quot;: &quot;true&quot;,&quot;direct_enable&quot;: &quot;true&quot;,&quot;resize_host&quot;: [&quot;img.alicdn.com&quot;,&quot;heic.alicdn.com&quot;,&quot;gw.alicdn.com&quot;,&quot;guide-acs.m.taobao.com&quot;,&quot;trade-acs.m.taobao.com&quot;,&quot;pages-fast.m.taobao.com&quot;,&quot;mtlexternal.alibabausercontent.com&quot;]}</string>
+</map>

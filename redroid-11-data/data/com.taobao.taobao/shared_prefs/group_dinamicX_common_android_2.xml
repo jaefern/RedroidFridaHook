@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="dinamicAsyncMeasureOpt">true</string>
+    <string name="dinamic_video_view_switch_control_list">all</string>
+    <string name="dinamicFixRLInsertUserId">true</string>
+    <string name="dinamicLanguageOpt">false</string>
+    <string name="dinamicFixRepeatRender">true</string>
+    <string name="dinamicPreDownloadOpen">true</string>
+    <string name="dinamic_enable_measurecache">true</string>
+    <string name="dinamic_bugfixForSearch">true</string>
+    <string name="dinamic_dxappmonitor_sample">0.01</string>
+    <string name="dinamicAsyncLayoutOpt">true</string>
+    <string name="renderingAnrThresholdTime">1000000000</string>
+    <string name="dinamicThrowImageCrash">true</string>
+    <string name="dinamic_target_performance_template_list">m_home_horizontal_uone_gongge,m_h_v5_slider_icons_tag_bindingx_d3,icart_mix_item,icart_invalid_item,recommend_m_r_item_universal_ump_2024,taolive_discovery_head_card_2024,recommend_m_r_item_video_2024_d3,recommend_m_home_horizontal_uone_gongge,recommend_big_card_title_and_four_pool_2023_1111,detail_v3_content,m_r_item_universal_ump_2024,m_r_universal_card_2024_d3,m_r_gou_ad_ketuo_d3</string>
+    <string name="dinamicLayoutOpt">true</string>
+    <string name="dinamicLanguagebugfix">true</string>
+    <string name="dinamicOpenGrayOpt">true</string>
+    <string name="dinamicFlattenOpt">true</string>
+    <string name="dinamicLanguageLoaderSwitch">true</string>
+    <string name="enableImageHeightScaleBizTypeList">tt_new_detail</string>
+    <string name="dinamic_image_black_list">informationFlow,homepage,live_channel_flexalocal,live_channel_flexaremote</string>
+    <string name="dinamicRemoveAKDependency">true</string>
+    <string name="dinamicFixScrollChildVideo">true</string>
+    <string name="closeAsynRenderPrefetch">true</string>
+    <string name="dinamic_fix_mega_thread">true</string>
+    <string name="closeDinamicV2">true</string>
+    <string name="dinamic_uikit_iconfont_mapping">true</string>
+    <string name="dinamicFixSliderExpose">true</string>
+    <string name="dinamicUseDeviceTypeCache">true</string>
+    <string name="dinamicLanguagePerfOpt">false</string>
+    <string name="dinamic_target_performance_template_sample">0.5</string>
+    <string name="dinamicOpenTmpLifecycle">true</string>
+    <string name="dinamic_zoomable_imageview_control">true</string>
+    <string name="dinamicDataExpressionOpt">false</string>
+    <string name="removeWhenFileIsInvalid">true</string>
+    <string name="dinamicPortraitLayoutUseActivity">true</string>
+    <string name="dinamicLanguageLogSwitch">true</string>
+</map>

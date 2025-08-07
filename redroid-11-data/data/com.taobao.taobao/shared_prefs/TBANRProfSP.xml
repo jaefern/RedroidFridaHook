@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="tbp_anr_profiler">{&quot;minSDK&quot;:29,&quot;monitorTimeScope&quot;:30000,&quot;runningInfoCollectConfig&quot;:{&quot;isEnable&quot;:true,&quot;releaseSample&quot;:1000}}</string>
+</map>

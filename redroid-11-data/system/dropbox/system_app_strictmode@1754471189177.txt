@@ -1,0 +1,42 @@
+Process: com.android.launcher3
+PID: 850
+UID: 10106
+Flags: 0x24cbbe45
+Package: com.android.launcher3 v30 (11)
+Build: redroid/redroid_x86_64/redroid_x86_64:11/RD2A.211001.002/eng.frank.20240527.144006:userdebug/test-keys
+System-App: true
+Uptime-Millis: 12899996
+
+android.os.strictmode.CredentialProtectedWhileLockedViolation: Accessed credential protected path /data/user/0/com.android.launcher3/files while user 0 was locked
+	at android.os.StrictMode.onCredentialProtectedPathAccess(StrictMode.java:2226)
+	at android.os.StrictMode.access$2000(StrictMode.java:153)
+	at android.os.StrictMode$5.onPathAccess(StrictMode.java:1858)
+	at libcore.io.BlockGuardOs.access(BlockGuardOs.java:72)
+	at libcore.io.ForwardingOs.access(ForwardingOs.java:72)
+	at android.app.ActivityThread$AndroidOs.access(ActivityThread.java:7541)
+	at java.io.UnixFileSystem.checkAccess(UnixFileSystem.java:281)
+	at java.io.File.exists(File.java:815)
+	at android.app.ContextImpl.ensurePrivateDirExists(ContextImpl.java:681)
+	at android.app.ContextImpl.ensurePrivateDirExists(ContextImpl.java:672)
+	at android.app.ContextImpl.getFilesDir(ContextImpl.java:717)
+	at android.content.ContextWrapper.getFilesDir(ContextWrapper.java:253)
+	at com.android.quickstep.util.ProtoTracer.getTraceFile(ProtoTracer.java:64)
+	at com.android.systemui.shared.tracing.FrameProtoTracer.<init>(FrameProtoTracer.java:96)
+	at com.android.quickstep.util.ProtoTracer.<init>(ProtoTracer.java:59)
+	at com.android.quickstep.util.-$$Lambda$f6zey7bILc876-t6yU086C9SqQE.get(Unknown Source:2)
+	at com.android.launcher3.util.MainThreadInitializedObject.lambda$get$0$MainThreadInitializedObject(MainThreadInitializedObject.java:50)
+	at com.android.launcher3.util.-$$Lambda$MainThreadInitializedObject$31I13NSyZWlVLw9-SvduyHO4fhM.get(Unknown Source:4)
+	at com.android.launcher3.util.TraceHelper.allowIpcs(TraceHelper.java:84)
+	at com.android.launcher3.util.MainThreadInitializedObject.get(MainThreadInitializedObject.java:49)
+	at com.android.quickstep.TouchInteractionService.onCreate(TouchInteractionService.java:303)
+	at android.app.ActivityThread.handleCreateService(ActivityThread.java:4186)
+	at android.app.ActivityThread.access$1500(ActivityThread.java:237)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1932)
+	at android.os.Handler.dispatchMessage(Handler.java:106)
+	at android.os.Looper.loop(Looper.java:223)
+	at android.app.ActivityThread.main(ActivityThread.java:7664)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:592)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:947)
+
+Accessed credential protected path /data/user/0/com.android.launcher3/files while user 0 was locked

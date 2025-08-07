@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="dns_netchange_begin" value="1753772170505" />
+    <long name="http_dns_last_time" value="1754528529436" />
+    <int name="http_dns_netchangecount" value="0" />
+    <boolean name="amdc_https" value="true" />
+    <boolean name="oversea" value="false" />
+</map>

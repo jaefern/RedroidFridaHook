@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="diagnosis_v2_enable" value="true" />
+    <int name="slow_server_threshold" value="3000" />
+    <set name="server_exception_list">
+        <string>pages.tmall.com</string>
+    </set>
+</map>

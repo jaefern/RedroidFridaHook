@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="falco_scroll_gc_enable" value="true" />
+    <string name="ut_high_sample_rules">[{&quot;_module&quot;:&quot;falco_load&quot;,&quot;techStack&quot;:&quot;canvas&quot;},{&quot;_module&quot;:&quot;themis_load&quot;,&quot;techStack&quot;:&quot;canvas&quot;}]</string>
+    <boolean name="falco_env_enable" value="true" />
+    <boolean name="falco_weak_gc_enable" value="true" />
+    <long name="env_last_cold_launch_time" value="1754528529612" />
+    <boolean name="falco_enable" value="true" />
+    <boolean name="falco_lifecycle_enable" value="true" />
+    <boolean name="falco_diagnose_report_enable" value="true" />
+    <boolean name="falco_um_perception_enable" value="true" />
+    <boolean name="load_hook_activity_enable" value="false" />
+    <long name="falco_diagnose_trigger_threshold" value="6000" />
+    <string name="env_report_whitelist">[&quot;visit&quot;,&quot;network&quot;,&quot;sysload&quot;]</string>
+    <string name="log_module_whitelist">[&quot;Page_Detail&quot;,&quot;MainSearch&quot;,&quot;OrderList&quot;,&quot;OrderDetail&quot;,&quot;subscription&quot;,&quot;BrowserActivity&quot;,&quot;windvanePage&quot;,&quot;windvaneSubPage&quot;,&quot;MiniAppLaunch&quot;,&quot;IM&quot;,&quot;MsgCenter&quot;,&quot;Chat&quot;,&quot;AVSDK&quot;]</string>
+    <long name="falco_diagnose_trigger_period" value="3600000" />
+    <boolean name="env_cpu_report_v2_enable" value="true" />
+    <boolean name="falco_gc_monitor_enable" value="true" />
+    <boolean name="falco_exception_reporter_enable" value="true" />
+    <boolean name="load_hook_window_global_enable" value="true" />
+    <string name="log_scene_whitelist">[&quot;Network_UnknownScene&quot;,&quot;MTOP_UnknownScene&quot;,&quot;Picture_UnknownScene&quot;,&quot;Network_App_Status&quot;,&quot;ShortVideoPage_Page&quot;,&quot;ShortVideoPage_Card&quot;,&quot;ShortVideoPage_Preload&quot;,&quot;tap&quot;,&quot;touch&quot;,&quot;env&quot;,&quot;ShowErrorView&quot;,&quot;gc&quot;,&quot;lifecycle&quot;]</string>
+    <boolean name="env_inject_enable" value="true" />
+    <boolean name="falco_load_enable" value="true" />
+    <string name="ut_scene_whitelist">[&quot;tap&quot;,&quot;touch&quot;,&quot;lifecycle&quot;]</string>
+</map>

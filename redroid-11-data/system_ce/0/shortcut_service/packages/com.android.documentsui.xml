@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<package name="com.android.documentsui" call-count="0" last-reset="0">
+<package-info version="30" last_udpate_time="1716820866000" shadow="0" allow-backup="0" allow-backup-initialized="0" bk_src_version="-1" bk_src_backup-allowed="0" />
+<shortcut id="content://com.android.providers.media.documents/root/images_root" activity="com.android.documentsui/com.android.documentsui.LauncherActivity" title="图片" titleid="2131755158" titlename="images_shortcut_label" textid="0" dmessageid="0" disabled-reason="0" timestamp="1753764657703" rank="0" flags="420" icon-res="2131165333" icon-resname="drawable/ic_images_shortcut">
+<intent intent-base="content://com.android.providers.media.documents/root/images_root#Intent;launchFlags=0x1000c000;end" />
+</shortcut>
+</package>

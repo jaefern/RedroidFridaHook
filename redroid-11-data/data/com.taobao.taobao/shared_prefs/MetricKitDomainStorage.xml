@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="memoryMetrics^peakNativeHeapSize" value="181448704" />
+    <long name="memoryMetrics^peakPss" value="582394880" />
+    <string name="valid_storage_date">2025-08-07</string>
+    <long name="memoryMetrics^blocking-gc-count" value="0" />
+    <long name="memoryMetrics^blocking-gc-time-max" value="0" />
+    <long name="memoryMetrics^peakJavaMemoryUsage" value="207271384" />
+    <long name="memoryMetrics^gc-count-max" value="0" />
+    <long name="memoryMetrics^blocking-gc-time" value="0" />
+    <long name="memoryMetrics^gcCollectTimes" value="1" />
+    <long name="memoryMetrics^gc-time-max" value="0" />
+    <long name="memoryMetrics^bytes-freed-max" value="0" />
+    <long name="memoryMetrics^gc-count" value="0" />
+    <int name="valid_storage_pid" value="39578" />
+    <long name="memoryMetrics^launchInteractivePss" value="582394880" />
+    <long name="memoryMetrics^bytes-freed" value="0" />
+    <long name="applicationTimeMetrics^processStartTime" value="2941715" />
+    <long name="valid_storage_launch_session" value="2942031" />
+    <long name="memoryMetrics^peakNativeHeapAllocated" value="172575760" />
+    <long name="memoryMetrics^bytes-allocated" value="86111344" />
+    <long name="memoryMetrics^blocking-gc-count-max" value="0" />
+    <long name="applicationTimeMetrics^appLauncherStartTime" value="2941723" />
+    <long name="memoryMetrics^javaMax" value="536870912" />
+    <long name="memoryMetrics^gc-time" value="0" />
+    <long name="applicationTimeMetrics^startupTimestampInterval" value="1754525586271" />
+    <long name="memoryMetrics^bytes-allocated-max" value="86111344" />
+</map>

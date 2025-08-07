@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="dinamic_new_pipeline_cache_white_list">alimp_message,industry_detail,purchase,confirmOrder</string>
+    <string name="dinamic_sub_biztype_config">{&quot;alimp_message&quot;:{&quot;subBiz&quot;:{&quot;message_tab&quot;:null,&quot;message_chat&quot;:null,&quot;message_chat_compat&quot;:null}}}</string>
+    <string name="dinamic_enable_open_pipline_cache">false</string>
+</map>

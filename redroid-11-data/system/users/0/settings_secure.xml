@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<settings version="191">
+  <setting id="22" name="lock_screen_show_notifications" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="47" name="aware_lock_enabled" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="31" name="unknown_sources_default_reversed" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="72" name="sysui_volume_up_silent" package="com.android.systemui" />
+  <setting id="19" name="immersive_mode_confirmations" value="" package="android" defaultValue="" defaultSysSet="true" />
+  <setting id="43" name="location_mode" value="3" package="android" defaultValue="3" defaultSysSet="true" />
+  <setting id="102" name="default_input_method" value="com.android.inputmethod.latin/.LatinIME" package="android" defaultValue="com.android.inputmethod.latin/.LatinIME" defaultSysSet="true" />
+  <setting id="38" name="show_zen_settings_suggestion" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="24" name="sleep_timeout" value="-1" package="android" defaultValue="-1" defaultSysSet="true" />
+  <setting id="104" name="zen_settings_updated" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="55" name="location_providers_allowed" value="gps" package="android" defaultValue="gps" defaultSysSet="true" />
+  <setting id="23" name="lock_screen_allow_private_notifications" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="26" name="double_tap_to_wake" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="9" name="speak_password" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="21" name="wake_gesture_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="13" name="screensaver_activate_on_sleep" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="34" name="volume_hush_gesture" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="76" name="sysui_qs_fancy_anim" package="com.android.systemui" />
+  <setting id="48" name="adaptive_sleep" package="android" />
+  <setting id="1" name="backup_enabled" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="85" name="sysui_keyguard_right" package="com.android.systemui" />
+  <setting id="83" name="sysui_qs_move_whole_rows" package="com.android.systemui" />
+  <setting id="69" name="user_setup_complete" value="1" package="com.android.provision" defaultValue="1" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="84" name="sysui_volume_down_silent" package="com.android.systemui" />
+  <setting id="79" name="show_media_when_bypassing" package="com.android.systemui" />
+  <setting id="36" name="manual_ringer_toggle_count" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="77" name="sysui_do_not_disturb" package="com.android.systemui" />
+  <setting id="44" name="aware_enabled" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="59" name="trust_agents_initialized" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="74" name="notification_dismiss_rtl" package="com.android.systemui" />
+  <setting id="10" name="lockscreen.disabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="50" name="enabled_notification_assistant" value="android.ext.services/android.ext.services.notification.Assistant" package="android" defaultValue="android.ext.services/android.ext.services.notification.Assistant" defaultSysSet="true" />
+  <setting id="52" name="lock_screen_owner_info_enabled" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="42" name="charging_vibration_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="73" name="accessibility_display_inversion_enabled" package="com.android.systemui" />
+  <setting id="64" name="selected_spell_checker_subtype" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="7" name="long_press_timeout" value="400" package="android" defaultValue="400" defaultSysSet="true" />
+  <setting id="53" name="sysui_tuner_version" value="4" package="com.android.systemui" defaultValue="4" defaultSysSet="true" />
+  <setting id="37" name="zen_duration" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="97" name="voice_recognition_service" value="" package="android" defaultValue="" defaultSysSet="true" />
+  <setting id="89" name="high_priority" package="com.android.systemui" />
+  <setting id="49" name="power_menu_locked_show_content" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="33" name="notification_badging" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="14" name="screensaver_components" value="com.google.android.deskclock/com.android.deskclock.Screensaver" package="android" defaultValue="com.google.android.deskclock/com.android.deskclock.Screensaver" defaultSysSet="true" />
+  <setting id="96" name="voice_interaction_service" value="" package="android" defaultValue="" defaultSysSet="true" />
+  <setting id="17" name="accessibility_display_magnification_scale" value="2.0" package="android" defaultValue="2.0" defaultSysSet="true" />
+  <setting id="41" name="charging_sounds_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="35" name="hush_gesture_used" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="12" name="screensaver_activate_on_dock" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="2" name="backup_transport" value="com.android.localtransport/.LocalTransport" package="android" defaultValue="com.android.localtransport/.LocalTransport" defaultSysSet="true" />
+  <setting id="99" name="input_methods_subtype_history" value="com.android.inputmethod.latin/.LatinIME;-921088104" package="android" defaultValue="com.android.inputmethod.latin/.LatinIME;-921088104" defaultSysSet="true" />
+  <setting id="0" name="mock_location" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="56" name="bluetooth_name" value="redroid11_x86_64" package="android" defaultValue="redroid11_x86_64" defaultSysSet="true" />
+  <setting id="32" name="autofill_service" value="" package="android" defaultValue="" defaultSysSet="true" />
+  <setting id="86" name="sysui_keyguard_left" package="com.android.systemui" />
+  <setting id="71" name="sync_parent_sounds" value="0" package="android" defaultValue="0" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="11" name="screensaver_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="105" name="snoozed_schedule_condition_provider" value="" package="android" defaultValue="" defaultSysSet="true" />
+  <setting id="3" name="mount_play_not_snd" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="82" name="doze_tap_gesture" package="com.android.systemui" />
+  <setting id="6" name="mount_ums_notify_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="46" name="silence_gesture" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="87" name="icon_blacklist" package="com.android.systemui" />
+  <setting id="25" name="android_id" value="d7657f9b97b01837" package="android" defaultValue="d7657f9b97b01837" defaultSysSet="true" />
+  <setting id="8" name="touch_exploration_enabled" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="70" name="sysui_qs_tiles" value="wifi,bt,dnd,flashlight,rotation,battery,cell,airplane,cast,screenrecord,dbg:mem" package="com.android.systemui" defaultValue="wifi,bt,dnd,flashlight,rotation,battery,cell,airplane,cast,screenrecord,dbg:mem" defaultSysSet="true" />
+  <setting id="40" name="zen_settings_suggestion_viewed" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="81" name="sysui_qqs_count" package="com.android.systemui" />
+  <setting id="88" name="qs_show_brightness" package="com.android.systemui" />
+  <setting id="98" name="navigation_mode" value="0" package="com.android.systemui" defaultValue="0" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="90" name="doze_pulse_on_double_tap" package="com.android.systemui" />
+  <setting id="51" name="enabled_notification_policy_access_packages" value="com.android.camera2" package="android" defaultValue="com.android.camera2" defaultSysSet="true" />
+  <setting id="103" name="selected_input_method_subtype" value="-1" package="android" defaultValue="-1" defaultSysSet="true" />
+  <setting id="45" name="skip_gesture" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="5" name="mount_ums_prompt" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="78" name="notification_history_enabled" package="com.android.systemui" />
+  <setting id="63" name="selected_spell_checker" value="com.android.inputmethod.latin/.spellcheck.AndroidSpellCheckerService" package="android" defaultValue="com.android.inputmethod.latin/.spellcheck.AndroidSpellCheckerService" defaultSysSet="true" />
+  <setting id="95" name="assistant" value="" package="android" defaultValue="" defaultSysSet="true" />
+  <setting id="15" name="screensaver_default_component" value="com.google.android.deskclock/com.android.deskclock.Screensaver" package="android" defaultValue="com.google.android.deskclock/com.android.deskclock.Screensaver" defaultSysSet="true" />
+  <setting id="4" name="mount_ums_autostart" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="30" name="install_non_market_apps" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="58" name="bluetooth_address" value="3C:5A:B4:01:02:03" package="android" defaultValue="3C:5A:B4:01:02:03" defaultSysSet="true" />
+  <setting id="75" name="keyguard_slice_uri" package="com.android.systemui" />
+  <setting id="27" name="show_ime_with_hard_keyboard" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="57" name="accessibility_enabled" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="28" name="multi_press_timeout" value="300" package="android" defaultValue="300" defaultSysSet="true" />
+  <setting id="16" name="accessibility_display_magnification_enabled" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="80" name="clock_seconds" package="com.android.systemui" />
+  <setting id="65" name="enabled_input_methods" value="com.android.inputmethod.latin/.LatinIME" package="android" defaultValue="com.android.inputmethod.latin/.LatinIME" defaultSysSet="true" />
+</settings>
+<namespaceHashes />

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="cloudimg_22_coverage">100</string>
+    <string name="cloudimg_38_coverage">100</string>
+    <string name="cloudimg_51_coverage">100</string>
+    <string name="cloudimg_15_permanent">0</string>
+    <string name="cloudimg_12_coverage">0</string>
+    <string name="cloudimg_57_height_scale_whitelist">15,1530,8900,53,1510</string>
+    <string name="cloudimg_17_api_blacklist">26,27</string>
+    <string name="cloudimg_17_permanent">0</string>
+    <string name="cloudimg_15_api_blacklist">18,19,20,21,22,23,24</string>
+    <string name="cloudimg_39_coverage">0</string>
+    <string name="cloudimg_41_coverage">100</string>
+    <string name="cloudimg_58_high_quality_whitelist">15</string>
+    <string name="cloudimg_11_permanent">1</string>
+    <string name="cloudimg_59_height_scale_priority_whitelist">dressup</string>
+    <string name="cloudimg_17_coverage">0</string>
+    <string name="cloudimg_33_coverage">100</string>
+    <string name="cloudimg_23_coverage">0</string>
+    <string name="cloudimg_29_coverage">0</string>
+    <string name="cloudimg_41_permanent">1</string>
+    <string name="cloudimg_37_coverage">100</string>
+    <string name="cloudimg_15_coverage">0</string>
+    <string name="cloudimg_11_coverage">0</string>
+    <string name="cloudimg_60_high_quality_priority_whitelist">dressup</string>
+</map>

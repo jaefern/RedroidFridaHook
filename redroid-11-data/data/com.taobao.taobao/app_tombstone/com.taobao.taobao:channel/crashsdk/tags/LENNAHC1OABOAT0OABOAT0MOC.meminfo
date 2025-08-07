@@ -1,0 +1,15 @@
+MemTotal:       32371700 kB
+MemFree:         1165588 kB
+MemAvailable:   22039784 kB
+Buffers:         1954968 kB
+Cached:         17564600 kB
+
+JavaMax:    524288 kB
+JavaTotal:  524288 kB
+JavaFree:   518144 kB
+NativeHeap: 11176 kB
+NativeAllocated: 4541 kB
+NativeFree: 2085 kB
+availMem:   18730188 kB
+threshold:  221184 kB
+lowMemory:  false

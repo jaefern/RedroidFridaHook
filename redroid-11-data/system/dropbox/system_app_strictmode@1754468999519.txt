@@ -1,0 +1,45 @@
+Process: com.android.launcher3
+PID: 869
+UID: 10106
+Flags: 0x24cbbe45
+Package: com.android.launcher3 v30 (11)
+Build: redroid/redroid_x86_64/redroid_x86_64:11/RD2A.211001.002/eng.frank.20240527.144006:userdebug/test-keys
+System-App: true
+Uptime-Millis: 10710336
+
+android.os.strictmode.IncorrectContextUseViolation: Visual services, such as WindowManager, WallpaperService or LayoutInflater should be accessed from Activity or other visual Context. Use an Activity or a Context created with Context#createWindowContext(int, Bundle), which are adjusted to the configuration and visual bounds of an area on screen.
+	at android.os.StrictMode.onIncorrectContextUsed(StrictMode.java:2192)
+	at android.app.ContextImpl.getSystemService(ContextImpl.java:1915)
+	at android.content.ContextWrapper.getSystemService(ContextWrapper.java:803)
+	at android.content.Context.getSystemService(Context.java:3705)
+	at com.android.launcher3.uioverrides.WallpaperColorInfo.<init>(WallpaperColorInfo.java:55)
+	at com.android.launcher3.uioverrides.WallpaperColorInfo.lambda$tLetMNUhFw-gX6-W-n47DqKz3p0(Unknown Source:2)
+	at com.android.launcher3.uioverrides.-$$Lambda$WallpaperColorInfo$tLetMNUhFw-gX6-W-n47DqKz3p0.get(Unknown Source:0)
+	at com.android.launcher3.util.MainThreadInitializedObject.lambda$get$0$MainThreadInitializedObject(MainThreadInitializedObject.java:50)
+	at com.android.launcher3.util.-$$Lambda$MainThreadInitializedObject$31I13NSyZWlVLw9-SvduyHO4fhM.get(Unknown Source:4)
+	at com.android.launcher3.util.TraceHelper.allowIpcs(TraceHelper.java:84)
+	at com.android.launcher3.util.MainThreadInitializedObject.get(MainThreadInitializedObject.java:49)
+	at com.android.launcher3.BaseDraggingActivity.onCreate(BaseDraggingActivity.java:90)
+	at com.android.launcher3.Launcher.onCreate(Launcher.java:368)
+	at com.android.launcher3.BaseQuickstepLauncher.onCreate(BaseQuickstepLauncher.java:83)
+	at com.android.launcher3.uioverrides.QuickstepLauncher.onCreate(QuickstepLauncher.java:98)
+	at android.app.Activity.performCreate(Activity.java:7994)
+	at android.app.Activity.performCreate(Activity.java:7978)
+	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1309)
+	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3404)
+	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3595)
+	at android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:85)
+	at android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:135)
+	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:95)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2066)
+	at android.os.Handler.dispatchMessage(Handler.java:106)
+	at android.os.Looper.loop(Looper.java:223)
+	at android.app.ActivityThread.main(ActivityThread.java:7664)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:592)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:947)
+Caused by: java.lang.IllegalAccessException: Tried to access visual service WallpaperManager from a non-visual Context:android.app.Application@73c090d
+	at android.app.ContextImpl.getSystemService(ContextImpl.java:1914)
+	... 28 more
+
+Visual services, such as WindowManager, WallpaperService or LayoutInflater should be accessed from Activity or other visual Context. Use an Activity or a Context created with Context#createWindowContext(int, Bundle), which are adjusted to the configuration and visual bounds of an area on screen.

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="autoExposure">{&quot;turnOn&quot;:1,&quot;timeThreshold&quot;:500,&quot;areaThreshold&quot;:0.5}</string>
+    <string name="MainProcessUpload">10000</string>
+    <string name="channel">231200@taobao_android_10.51.0</string>
+    <string name="CipherOptimize">10000</string>
+    <string name="ut_seq">{&quot;spm_seq&quot;:{&quot;count&quot;:4,&quot;page&quot;:[&quot;Page_Detail&quot;,&quot;Page_DetailComments&quot;],&quot;key&quot;:&quot;spm-url&quot;}}</string>
+</map>

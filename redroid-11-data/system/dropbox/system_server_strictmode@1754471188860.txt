@@ -1,0 +1,27 @@
+Process: unknown
+Build: redroid/redroid_x86_64/redroid_x86_64:11/RD2A.211001.002/eng.frank.20240527.144006:userdebug/test-keys
+System-App: true
+Uptime-Millis: 12899674
+Loop-Violation-Number: 4
+Duration-Millis: 2
+
+android.os.strictmode.DiskReadViolation
+	at android.os.StrictMode$AndroidBlockGuardPolicy.onReadFromDisk(StrictMode.java:1596)
+	at libcore.io.BlockGuardOs.access(BlockGuardOs.java:71)
+	at java.io.UnixFileSystem.checkAccess(UnixFileSystem.java:281)
+	at java.io.File.exists(File.java:815)
+	at android.util.AtomicFile.openRead(AtomicFile.java:229)
+	at com.android.server.wm.DisplayWindowSettings$AtomicFileStorage.openRead(DisplayWindowSettings.java:678)
+	at com.android.server.wm.DisplayWindowSettings.readSettings(DisplayWindowSettings.java:419)
+	at com.android.server.wm.DisplayWindowSettings.<init>(DisplayWindowSettings.java:159)
+	at com.android.server.wm.DisplayWindowSettings.<init>(DisplayWindowSettings.java:152)
+	at com.android.server.wm.WindowManagerService.<init>(WindowManagerService.java:1182)
+	at com.android.server.wm.WindowManagerService.lambda$main$1(WindowManagerService.java:1122)
+	at com.android.server.wm.-$$Lambda$WindowManagerService$qCWPyJrU0wwX4tP-_QpfmersCVc.run(Unknown Source:18)
+	at android.os.Handler$BlockingRunnable.run(Handler.java:961)
+	at android.os.Handler.handleCallback(Handler.java:938)
+	at android.os.Handler.dispatchMessage(Handler.java:99)
+	at android.os.Looper.loop(Looper.java:223)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+	at com.android.server.ServiceThread.run(ServiceThread.java:44)
+

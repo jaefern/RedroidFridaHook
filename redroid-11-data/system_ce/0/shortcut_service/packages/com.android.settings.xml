@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<package name="com.android.settings" call-count="0" last-reset="1753763863973">
+<package-info version="30" last_udpate_time="1716820867000" shadow="0" allow-backup="0" allow-backup-initialized="0" bk_src_version="-1" bk_src_backup-allowed="0" />
+<shortcut id="manifest-shortcut-wifi" activity="com.android.settings/com.android.settings.Settings" title="WLAN" titleid="2131890958" titlename="wifi_settings" textid="0" dmessageid="0" disabled-reason="0" timestamp="1753764657703" rank="0" flags="420" icon-res="2131231346" icon-resname="drawable/ic_shortcut_wireless">
+<intent intent-base="#Intent;action=android.settings.WIFI_SETTINGS;launchFlags=0x1000c000;end" />
+</shortcut>
+<shortcut id="manifest-shortcut-battery" activity="com.android.settings/com.android.settings.Settings" title="电池" titleid="2131889220" titlename="power_usage_summary_title" textid="0" dmessageid="0" disabled-reason="0" timestamp="1753764657703" rank="2" flags="420" icon-res="2131231344" icon-resname="drawable/ic_shortcut_battery">
+<intent intent-base="#Intent;action=android.intent.action.POWER_USAGE_SUMMARY;launchFlags=0x1000c000;end" />
+</shortcut>
+<shortcut id="manifest-shortcut-data-usage" activity="com.android.settings/com.android.settings.Settings" title="流量使用情况" titleid="2131887524" titlename="data_usage_summary_title" textid="0" dmessageid="0" disabled-reason="0" timestamp="1753764657703" rank="1" flags="420" icon-res="2131231345" icon-resname="drawable/ic_shortcut_data_usage">
+<intent intent-base="#Intent;action=android.intent.action.MAIN;launchFlags=0x1000c000;component=com.android.settings/.Settings%24DataUsageSummaryActivity;end" />
+</shortcut>
+</package>

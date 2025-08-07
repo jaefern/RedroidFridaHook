@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="orange">{&quot;switch&quot;:{&quot;newFaceEnable&quot;:&quot;true&quot;,&quot;newContentEnable&quot;:&quot;true&quot;,&quot;newSubscribeEnable&quot;:&quot;true&quot;,&quot;newFaceEnableIntl&quot;:&quot;true&quot;,&quot;new2021UIEnable&quot;:&quot;true&quot;}}</string>
+    <string name="newDiscovery">true</string>
+    <string name="windvane">{&quot;urls&quot;:[&quot;tesi.m.taobao.com&quot;,&quot;tesi.wapa.taobao.com&quot;,&quot;tesi-assets.m.taobao.com&quot;]}</string>
+</map>

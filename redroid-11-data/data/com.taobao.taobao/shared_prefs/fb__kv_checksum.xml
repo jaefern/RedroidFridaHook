@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="fb__tpl_storage_default____QUICKPAY@cashier-common-sign-flex">4249334870</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@cashier-nfc-activity-flex">1607542829</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@cashier-card-select-bank-flex">3864218350</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@cashier-card-no-flex">1138972894</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@cashier-channel-logo-flex">2464964386</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@cashier-wk-card-new-flex">3602329860</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@cashier-unify-activity-flex">1608380529</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@cashier-card-no-recorrect-flex">80286559</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@afterpay-recommend-flex">1588464268</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@select-country-and-area-enhance-flex">2331584321</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@deduct-pre-confirm-flex">4024426498</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@cashier-setspwd-flex">1682109002</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@cashier-credit-sign-flex">738374550</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@cashier-common-dialog-flex">2619998801</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@cashier-paycode-result-flex">3943506488</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@cashier-sms-flex">1021773321</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@waika-select-country-and-area-flex">265459744</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@cashier-channel-priority-flex">1831726876</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@frontpay-limit-query-flex">3234195067</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@bizapp-store-pay">4289098540</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@pwd-validate-flex">2176857897</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@cashier-setting-payments-flex">613040311</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@cashier-wkcard-billaddr-new-flex">3572229950</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@bizapp-collect-money">2992040014</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@paycode-guide-banner">1971841720</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@cashier-card-detail-flex">3774042668</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@cashier-card-no-unify-flex">1789046816</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@cashier-safeprotect-sms">91400699</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@waika-validate-flex">2955432250</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@cashier-pay-guide-flex">3015307940</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@afterpay-common-recommend-flex">4047604272</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@cashier-card-type-flex">3495250947</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@cashier-home-flex">332003569</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@cashier-transfer-detail-flex">1403983009</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@cashier-error-guide-action-flex">4053721043</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@deposit-index-flex">1719820792</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@cashier-newbie-flex">367882640</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@waika-select-usa-state-flex">2153577418</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@mdeduct-payandsign-flex">3494804497</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@trust-logon-auth-code">1211430645</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@cashier-pay-confirm-flex">581550139</string>
+    <string name="fb__tpl_storage_default____QUICKPAY@afterpay-guide-flex">501317097</string>
+</map>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="enableRegisterUTPlugin">true</string>
+    <string name="enableSwitchFirst">true</string>
+    <string name="enableUppHubRequest">true</string>
+    <string name="enableAllData">true</string>
+    <string name="enableChangeUTListener">true</string>
+</map>

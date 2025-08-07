@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="patch_restart_switch" value="false" />
+    <string name="home_page_to_bg">com.taobao.tao.TBMainActivity</string>
+    <int name="boost_cpu_freq_limit" value="5" />
+    <int name="cpu_dump_level" value="20000" />
+    <int name="work_max_time" value="30" />
+    <string name="boost_cpu_brand">vivo,Xiaomi,Redmi,OPPO</string>
+    <int name="ac_svc_times" value="5" />
+    <string name="main_proc_start_strategy">1|com.taobao.adaemon.TriggerService|0|23|20|0|0|3-96|true</string>
+    <int name="dump_period" value="100" />
+    <boolean name="stack_dump" value="true" />
+    <boolean name="channel_mem_art" value="true" />
+    <string name="forbid_clear_link_activity_switch">96-96</string>
+    <string name="calc_cpu_activity">com.taobao.android.layoutmanager.container.MultiPageTransparentContainerActivity,com.taobao.tao.welcome.Welcome,com.taobao.tao.TBMainActivity</string>
+    <boolean name="kill_self" value="false" />
+    <string name="power_collect_brand">OPPO</string>
+    <int name="push_svc_times" value="2" />
+    <boolean name="all_mem_record" value="false" />
+    <boolean name="lock_frame_rate" value="true" />
+    <string name="app_list">com.xingin.xhs,com.smile.gifmaker,com.eg.android.AlipayGphone,com.jingdong.app.mall,com.xunmeng.pinduoduo,com.lphtsccft,com.shizhuang.duapp,com.eastmoney.android.berlin,com.hexin.plat.android,com.lingan.seeyou,com.ss.android.ugc.aweme,com.ss.android.ugc.aweme.lite</string>
+    <string name="boost_cpu_forbid_model">CPH</string>
+    <int name="mem_monitor_interval" value="30" />
+    <string name="forbid_start_trigger_service_switch">39-39</string>
+    <string name="input_limit_device"></string>
+    <boolean name="normal_update" value="true" />
+    <int name="work_interval" value="120000" />
+    <string name="block_stack_strategy">tao,mtop,danmaku,alibaba,me.ele,tmall,com.uc</string>
+    <string name="clear_activity_block">com.taobao.message.activity.ChatActivity</string>
+    <boolean name="boost_frame_rate" value="true" />
+    <boolean name="clear_link_back_switch" value="true" />
+    <int name="work_background_delay" value="480000" />
+    <int name="triggerType" value="0" />
+    <int name="screen_off_delay" value="60000" />
+    <string name="anr_dump_timeout">11</string>
+</map>

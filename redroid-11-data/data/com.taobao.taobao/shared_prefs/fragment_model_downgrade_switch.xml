@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="randomThreshold">100000</string>
+    <string name="oppo_anr_opt">false</string>
+    <string name="fragment_enter_animation_async">true</string>
+</map>

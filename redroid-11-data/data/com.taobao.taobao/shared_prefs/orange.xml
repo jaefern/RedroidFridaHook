@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="keyQuerySentCount" value="8" />
+    <string name="appVersion">10.51.0</string>
+    <int name="enableI18n" value="1" />
+    <string name="osVersion">30</string>
+    <long name="keyQuerySentLastTimeSeconds" value="1754132434" />
+    <set name="key_used_list">
+        <string>adaemon</string>
+        <string>securityguard_orange_namespace</string>
+        <string>accs2</string>
+        <string>keepalive</string>
+        <string>amdc</string>
+        <string>ap_counter</string>
+        <string>remote_debug</string>
+        <string>network_diagnosis</string>
+        <string>utap_system</string>
+        <string>ut_sample</string>
+        <string>network_navigator_task</string>
+        <string>tlog_switch</string>
+        <string>ap_stat</string>
+        <string>ap_alarm</string>
+        <string>ut_realtime</string>
+        <string>orange</string>
+        <string>networkSdk</string>
+        <string>CrashReportSwitcher</string>
+        <string>falco</string>
+        <string>login4android</string>
+        <string>aranger</string>
+        <string>tnet4Android_sdk</string>
+        <string>ut_bussiness</string>
+        <string>accs</string>
+    </set>
+    <int name="enableFetchCriticalConfigs" value="1" />
+</map>

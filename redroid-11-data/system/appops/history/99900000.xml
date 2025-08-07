@@ -1,0 +1,553 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<history ver="2">
+  <ops beg="207506524" end="231107916">
+    <uid na="1000">
+      <pkg na="android">
+        <ftr>
+          <op na="43">
+            <st na="214748364801" rc="6" />
+          </op>
+          <op na="40">
+            <st na="214748364801" ac="30" du="20366" />
+          </op>
+        </ftr>
+        <ftr na="SensorNotificationService">
+          <op na="41">
+            <st na="214748364801" ac="1" />
+          </op>
+        </ftr>
+      </pkg>
+      <pkg na="com.android.server.telecom">
+        <ftr>
+          <op na="6">
+            <st na="214748364808" ac="4" />
+          </op>
+        </ftr>
+      </pkg>
+      <pkg na="com.android.settings">
+        <ftr>
+          <op na="43">
+            <st na="214748364801" rc="2" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="1001">
+      <pkg na="com.android.phone">
+        <ftr>
+          <op na="14">
+            <st na="214748364802" ac="1" />
+          </op>
+          <op na="40">
+            <st na="214748364801" ac="3" du="84" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="1002">
+      <pkg na="com.android.bluetooth">
+        <ftr>
+          <op na="43">
+            <st na="214748364801" rc="2" />
+          </op>
+          <op na="4">
+            <st na="214748364808" ac="2" />
+          </op>
+          <op na="40">
+            <st na="214748364801" ac="116" du="41" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="1041">
+      <pkg na="audioserver">
+        <ftr>
+          <op na="43">
+            <st na="1503238553601" rc="1832" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="10060">
+      <pkg na="com.android.providers.userdictionary">
+        <ftr>
+          <op na="4">
+            <st na="1073741824002" ac="2" />
+          </op>
+          <op na="6">
+            <st na="1073741824002" ac="4" />
+            <st na="1288490188802" ac="1" />
+          </op>
+          <op na="7">
+            <st na="1288490188802" ac="1" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="10063">
+      <pkg na="com.android.providers.calendar">
+        <ftr>
+          <op na="8">
+            <st na="1288490188802" ac="3" />
+          </op>
+          <op na="40">
+            <st na="1288490188801" ac="1" du="1" />
+          </op>
+          <op na="9">
+            <st na="1288490188802" ac="1" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="10102">
+      <pkg na="com.android.deskclock">
+        <ftr>
+          <op na="63">
+            <st na="1288490188801" ac="1" />
+            <st na="1503238553601" ac="1" />
+          </op>
+          <op na="40">
+            <st na="1288490188801" ac="2" du="12" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="10109">
+      <pkg na="com.android.systemui">
+        <ftr>
+          <op na="92">
+            <st na="214748364801" rc="3" />
+          </op>
+          <op na="85">
+            <st na="214748364801" ac="3" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="10113">
+      <pkg na="com.android.providers.media.module">
+        <ftr>
+          <op na="60">
+            <st na="214748364801" ac="1" />
+          </op>
+          <op na="59">
+            <st na="214748364801" ac="2" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="10116">
+      <pkg na="com.taobao.taobao">
+        <ftr>
+          <op na="86">
+            <st na="429496729601" rc="1" />
+          </op>
+          <op na="82">
+            <st na="429496729601" rc="1" />
+          </op>
+          <op na="84">
+            <st na="429496729601" rc="1" />
+          </op>
+          <op na="23">
+            <st na="429496729601" rc="2987" />
+          </op>
+          <op na="99">
+            <st na="429496729601" rc="1" />
+          </op>
+          <op na="92">
+            <st na="429496729601" rc="1" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+  </ops>
+  <ops beg="399273283" end="423623167">
+    <uid na="1000">
+      <pkg na="android">
+        <ftr>
+          <op na="43">
+            <st na="214748364801" rc="12" />
+          </op>
+          <op na="40">
+            <st na="214748364801" ac="40" du="40518" />
+          </op>
+        </ftr>
+        <ftr na="SensorNotificationService">
+          <op na="41">
+            <st na="214748364801" ac="2" />
+          </op>
+        </ftr>
+      </pkg>
+      <pkg na="com.android.server.telecom">
+        <ftr>
+          <op na="6">
+            <st na="214748364808" ac="8" />
+          </op>
+        </ftr>
+      </pkg>
+      <pkg na="com.android.settings">
+        <ftr>
+          <op na="43">
+            <st na="214748364801" rc="3" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="1001">
+      <pkg na="com.android.phone">
+        <ftr>
+          <op na="14">
+            <st na="214748364802" ac="2" />
+          </op>
+          <op na="40">
+            <st na="214748364801" ac="6" du="78" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="1002">
+      <pkg na="com.android.bluetooth">
+        <ftr>
+          <op na="43">
+            <st na="214748364801" rc="4" />
+          </op>
+          <op na="4">
+            <st na="214748364808" ac="4" />
+          </op>
+          <op na="40">
+            <st na="214748364801" ac="116" du="14" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="1041">
+      <pkg na="audioserver">
+        <ftr>
+          <op na="43">
+            <st na="1503238553601" rc="453" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="10060">
+      <pkg na="com.android.providers.userdictionary">
+        <ftr>
+          <op na="4">
+            <st na="1073741824002" ac="4" />
+          </op>
+          <op na="6">
+            <st na="1073741824002" ac="8" />
+            <st na="1288490188802" ac="2" />
+          </op>
+          <op na="7">
+            <st na="1073741824002" ac="2" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="10063">
+      <pkg na="com.android.providers.calendar">
+        <ftr>
+          <op na="8">
+            <st na="1288490188802" ac="5" />
+          </op>
+          <op na="40">
+            <st na="1288490188801" ac="2" du="4" />
+          </op>
+          <op na="9">
+            <st na="1288490188802" ac="2" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="10102">
+      <pkg na="com.android.deskclock">
+        <ftr>
+          <op na="63">
+            <st na="1288490188801" ac="2" />
+            <st na="1503238553601" ac="2" />
+          </op>
+          <op na="40">
+            <st na="1288490188801" ac="4" du="15" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="10109">
+      <pkg na="com.android.systemui">
+        <ftr>
+          <op na="0">
+            <st na="214748364801" ac="1" />
+          </op>
+          <op na="92">
+            <st na="214748364801" rc="6" />
+          </op>
+          <op na="85">
+            <st na="214748364801" ac="6" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="10113">
+      <pkg na="com.android.providers.media.module">
+        <ftr>
+          <op na="60">
+            <st na="214748364801" ac="2" />
+          </op>
+          <op na="59">
+            <st na="214748364801" ac="4" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="10116">
+      <pkg na="com.taobao.taobao">
+        <ftr>
+          <op na="86">
+            <st na="429496729601" rc="2" />
+          </op>
+          <op na="82">
+            <st na="429496729601" rc="2" />
+          </op>
+          <op na="84">
+            <st na="429496729601" rc="2" />
+          </op>
+          <op na="23">
+            <st na="429496729601" rc="794" />
+          </op>
+          <op na="99">
+            <st na="429496729601" rc="2" />
+          </op>
+          <op na="92">
+            <st na="429496729601" rc="2" />
+          </op>
+          <op na="40">
+            <st na="429496729601" ac="2" du="1506" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+  </ops>
+  <ops beg="496022763" end="565601367">
+    <uid na="1000">
+      <pkg na="android">
+        <ftr>
+          <op na="43">
+            <st na="214748364801" rc="66" />
+          </op>
+          <op na="40">
+            <st na="214748364801" ac="210" du="232711" />
+          </op>
+        </ftr>
+        <ftr na="SensorNotificationService">
+          <op na="41">
+            <st na="214748364801" ac="11" />
+          </op>
+        </ftr>
+      </pkg>
+      <pkg na="com.android.providers.settings">
+        <ftr>
+          <op na="23">
+            <st na="214748364801" rc="3" />
+          </op>
+        </ftr>
+      </pkg>
+      <pkg na="com.android.server.telecom">
+        <ftr>
+          <op na="6">
+            <st na="214748364808" ac="44" />
+          </op>
+        </ftr>
+      </pkg>
+      <pkg na="com.android.settings">
+        <ftr>
+          <op na="43">
+            <st na="214748364801" rc="3224" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="1001">
+      <pkg na="com.android.phone">
+        <ftr>
+          <op na="14">
+            <st na="214748364802" ac="11" />
+          </op>
+          <op na="40">
+            <st na="214748364801" ac="33" du="489" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="1002">
+      <pkg na="com.android.bluetooth">
+        <ftr>
+          <op na="43">
+            <st na="214748364801" rc="22" />
+          </op>
+          <op na="4">
+            <st na="214748364808" ac="22" />
+          </op>
+          <op na="40">
+            <st na="214748364801" ac="595" du="68" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="1041">
+      <pkg na="audioserver">
+        <ftr>
+          <op na="43">
+            <st na="1503238553601" rc="1359" />
+          </op>
+          <op na="40">
+            <st na="1503238553601" ac="172" du="74987" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="2000">
+      <pkg na="com.android.shell">
+        <ftr>
+          <op na="86">
+            <st na="1503238553601" rc="1" />
+          </op>
+          <op na="84">
+            <st na="1503238553601" rc="1" />
+          </op>
+          <op na="60">
+            <st na="1503238553601" ac="1" />
+          </op>
+          <op na="27">
+            <st na="429496729601" ac="17" du="817" />
+            <st na="1503238553601" ac="17" du="26698" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="10060">
+      <pkg na="com.android.providers.userdictionary">
+        <ftr>
+          <op na="4">
+            <st na="1073741824002" ac="22" />
+          </op>
+          <op na="6">
+            <st na="1073741824002" ac="45" />
+            <st na="1288490188802" ac="10" />
+          </op>
+          <op na="7">
+            <st na="1073741824002" ac="1" />
+            <st na="1288490188802" ac="10" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="10063">
+      <pkg na="com.android.providers.calendar">
+        <ftr>
+          <op na="8">
+            <st na="1288490188802" ac="26" />
+            <st na="1503238553602" ac="10" />
+          </op>
+          <op na="40">
+            <st na="1288490188801" ac="11" du="13" />
+          </op>
+          <op na="9">
+            <st na="1288490188802" ac="11" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="10096">
+      <pkg na="com.android.calendar">
+        <ftr>
+          <op na="8">
+            <st na="1288490188808" ac="10" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="10102">
+      <pkg na="com.android.deskclock">
+        <ftr>
+          <op na="63">
+            <st na="1288490188801" ac="14" />
+            <st na="1503238553601" ac="14" />
+          </op>
+          <op na="40">
+            <st na="1288490188801" ac="25" du="105" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="10108">
+      <pkg na="com.android.storagemanager">
+        <ftr>
+          <op na="43">
+            <st na="429496729601" rc="41" />
+          </op>
+          <op na="92">
+            <st na="429496729601" rc="1" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="10109">
+      <pkg na="com.android.systemui">
+        <ftr>
+          <op na="0">
+            <st na="214748364801" ac="2" />
+          </op>
+          <op na="92">
+            <st na="214748364801" rc="34" />
+          </op>
+          <op na="85">
+            <st na="214748364801" ac="34" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="10113">
+      <pkg na="com.android.providers.media.module">
+        <ftr>
+          <op na="60">
+            <st na="214748364801" ac="11" />
+          </op>
+          <op na="59">
+            <st na="214748364801" ac="21" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+    <uid na="10116">
+      <pkg na="com.taobao.taobao">
+        <ftr>
+          <op na="86">
+            <st na="429496729601" rc="11" />
+          </op>
+          <op na="82">
+            <st na="429496729601" rc="11" />
+          </op>
+          <op na="84">
+            <st na="429496729601" rc="11" />
+          </op>
+          <op na="23">
+            <st na="429496729601" rc="2113" />
+            <st na="1073741824001" rc="3" />
+            <st na="1288490188801" rc="9" />
+            <st na="1503238553601" rc="1" />
+          </op>
+          <op na="99">
+            <st na="429496729601" rc="12" />
+          </op>
+          <op na="92">
+            <st na="429496729601" rc="12" />
+          </op>
+          <op na="40">
+            <st na="429496729601" ac="4" du="3009" />
+          </op>
+        </ftr>
+      </pkg>
+    </uid>
+  </ops>
+</history>

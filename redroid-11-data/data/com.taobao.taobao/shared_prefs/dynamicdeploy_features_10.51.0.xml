@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="tbsearch_remote">10.51.0.10005</string>
+    <string name="deploy_feature_version_10.51.0_taowise_android_aar">10.51.0@1.6.37</string>
+    <set name="features_10.51.0.10005">
+        <string>tbsearch_remote</string>
+        <string>taowise_android_aar</string>
+    </set>
+    <string name="deploy_feature_version_10.51.0_tbsearch_remote">10.51.0@6.11.84.3</string>
+    <set name="deploy_features">
+        <string>tbsearch_remote</string>
+        <string>taowise_android_aar</string>
+    </set>
+    <string name="taowise_android_aar">10.51.0.10005</string>
+    <boolean name="deployed_10.51.0.10005" value="true" />
+    <set name="deploy_versions">
+        <string>10.51.0.10005</string>
+    </set>
+    <boolean name="beta_10.51.0.10005" value="false" />
+</map>

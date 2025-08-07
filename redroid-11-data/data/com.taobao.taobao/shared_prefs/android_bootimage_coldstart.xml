@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="splashBusinessPriority">taobaoSplashAdv,taobaoSplashMarketing,taobaoCoupon</string>
+    <boolean name="disableFixLeak2" value="false" />
+    <boolean name="enableCouponDownLoad" value="true" />
+    <long name="backgroundStartTime" value="1753775670554" />
+    <boolean name="enableNewVideoPlayer" value="false" />
+    <boolean name="coldStartNewEnable" value="true" />
+    <int name="backgroundWaitSeconds" value="10" />
+    <boolean name="enableCoupon" value="true" />
+    <boolean name="enableUpdatePriority" value="true" />
+    <string name="sceneType"></string>
+    <int name="freezetime" value="30" />
+    <boolean name="enableCouponDxInitOnStart" value="true" />
+    <long name="video_Translate_Time" value="100" />
+    <string name="remoteGlobalFrequency">{&quot;advLimitInSingleDay&quot;:&quot;3&quot;,&quot;advLimitSeconds&quot;:&quot;21600&quot;,&quot;backgroundWaitSeconds&quot;:&quot;10&quot;,&quot;globalLimitInSingleDay&quot;:&quot;3&quot;,&quot;globalLimitSeconds&quot;:&quot;21600&quot;,&quot;globalPeriodSeconds&quot;:&quot;21600&quot;,&quot;isAdBizUpdateArch&quot;:&quot;true&quot;,&quot;isUpdateArch&quot;:&quot;true&quot;,&quot;splashBusinessPriority&quot;:&quot;taobaoSplashAdv,taobaoSplashMarketing,taobaoCoupon&quot;,&quot;topShowRule&quot;:&quot;dynamic&quot;}</string>
+</map>

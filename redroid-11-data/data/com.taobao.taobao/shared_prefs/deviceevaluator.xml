@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <float name="score" value="95.0" />
+    <boolean name="immutable" value="true" />
+    <long name="lasttimestamp" value="1754469008273" />
+    <long name="validperiod" value="168" />
+    <string name="report_rule">{&quot;brand&quot;:&quot;*&quot;,&quot;propMapping&quot;:{&quot;deviceName&quot;:[&quot;ro.vivo.market.name&quot;,&quot;ro.oppo.market.name&quot;,&quot;ro.vendor.oplus.market.name&quot;,&quot;ro.product.marketname&quot;,&quot;ro.config.marketing_name&quot;,&quot;ro.product.vendor.marketname&quot;,&quot;ro.product.system.marketname&quot;,&quot;ro.config.devicename&quot;,&quot;ro.product.vendor.model&quot;,&quot;ro.product.model&quot;],&quot;soc&quot;:[&quot;ro.board.platform&quot;,&quot;ro.boot.platform_name&quot;,&quot;ro.soc.model&quot;,&quot;ro.boot.hardware&quot;]}}</string>
+    <long name="report_validperiod" value="24" />
+    <boolean name="switch" value="true" />
+</map>

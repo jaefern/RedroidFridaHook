@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<roles version="-1" packagesHash="1A2ED72D793A369D45C2607E6B2EA9A20DA14B6C7633C2E360B9718FA4284175">
+  <role name="android.app.role.CALL_SCREENING" />
+  <role name="android.app.role.SYSTEM_GALLERY">
+    <holder name="com.android.gallery3d" />
+  </role>
+  <role name="android.app.role.SMS" />
+  <role name="android.app.role.DIALER" />
+  <role name="android.app.role.HOME">
+    <holder name="com.android.launcher3" />
+  </role>
+  <role name="android.app.role.ASSISTANT" />
+  <role name="android.app.role.EMERGENCY" />
+  <role name="android.app.role.CALL_REDIRECTION" />
+  <role name="android.app.role.BROWSER">
+    <holder name="org.chromium.webview_shell" />
+  </role>
+</roles>

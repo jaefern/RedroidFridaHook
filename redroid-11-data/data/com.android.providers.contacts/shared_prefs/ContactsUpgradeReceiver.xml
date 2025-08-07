@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="db_version" value="1400" />
+    <string name="os_version">RD2A.211001.002</string>
+    <string name="icu_version">66.1.0.0</string>
+</map>

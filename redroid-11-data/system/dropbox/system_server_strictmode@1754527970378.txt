@@ -1,0 +1,27 @@
+Process: unknown
+Build: redroid/redroid_x86_64/redroid_x86_64:11/RD2A.211001.002/eng.frank.20240527.144006:userdebug/test-keys
+System-App: true
+Uptime-Millis: 2384094
+Loop-Violation-Number: 1
+Duration-Millis: 8
+
+android.os.strictmode.DiskReadViolation
+	at android.os.StrictMode$AndroidBlockGuardPolicy.onReadFromDisk(StrictMode.java:1596)
+	at java.io.UnixFileSystem.getBooleanAttributes(UnixFileSystem.java:250)
+	at java.io.File.isDirectory(File.java:845)
+	at com.android.server.wm.LaunchParamsPersister.loadLaunchParams(LaunchParamsPersister.java:131)
+	at com.android.server.wm.LaunchParamsPersister.onUnlockUser(LaunchParamsPersister.java:121)
+	at com.android.server.wm.ActivityStackSupervisor.onUserUnlocked(ActivityStackSupervisor.java:442)
+	at com.android.server.wm.ActivityTaskManagerService$Lifecycle.onUnlockUser(ActivityTaskManagerService.java:1022)
+	at com.android.server.SystemService.onUnlockUser(SystemService.java:315)
+	at com.android.server.SystemService.onUserUnlocking(SystemService.java:336)
+	at com.android.server.SystemServiceManager.onUser(SystemServiceManager.java:346)
+	at com.android.server.SystemServiceManager.onUser(SystemServiceManager.java:302)
+	at com.android.server.SystemServiceManager.onUser(SystemServiceManager.java:297)
+	at com.android.server.SystemServiceManager.unlockUser(SystemServiceManager.java:265)
+	at com.android.server.am.UserController.handleMessage(UserController.java:2488)
+	at android.os.Handler.dispatchMessage(Handler.java:102)
+	at android.os.Looper.loop(Looper.java:223)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+	at com.android.server.ServiceThread.run(ServiceThread.java:44)
+

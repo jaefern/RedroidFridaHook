@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="flexa_enabled_10.51.0" value="true" />
+    <boolean name="disable_featureupdate_10.51.0" value="false" />
+    <boolean name="merge_history_feature_enabled_10.51.0" value="true" />
+    <set name="disabled_use_history_features_10.31.1">
+        <string>taopai_business</string>
+    </set>
+    <boolean name="download_feature_enabled_10.51.0" value="true" />
+</map>

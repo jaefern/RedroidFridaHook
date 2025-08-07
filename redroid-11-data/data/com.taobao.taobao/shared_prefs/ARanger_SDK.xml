@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="provider_retry_times">3</string>
+    <string name="async_receiver">true</string>
+    <string name="hook_services_v1">com.taobao.login4android.aidl.LoginService,anetwork.channel.aidl.NetworkService,com.alibaba.android.nextrpc.internal.accs.AccsReceiveService,com.alibaba.dingtalk.accs.connection.AccsBridgeService,com.taobao.calendar.bridge.service.CalendarServiceImpl,com.taobao.accs.data.MsgDistributeService,com.taobao.accs.AccsMainService,com.taobao.appfrmbundle.mkt.AccsReceiverService,com.taobao.orange.service.OrangeBindService,com.taobao.taobao.TaobaoIntentService,com.taobao.accs.ChannelService,org.android.agoo.accs.AgooService,com.alibaba.android.split.service.SplitInstallService</string>
+    <string name="normal_changes_enabled">true</string>
+</map>

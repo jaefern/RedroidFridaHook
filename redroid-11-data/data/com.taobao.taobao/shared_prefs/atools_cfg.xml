@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="adaemon_anr_hacker_v1">true</string>
+    <string name="atools_disable_hideapi">false</string>
+    <string name="aranger_hook_service">true</string>
+    <string name="atools_forbid_multi_sp">false</string>
+    <string name="aranger_service_ipc">true</string>
+    <string name="adaemon_anr_hacker">false</string>
+    <string name="accs_none_service">true</string>
+    <string name="adaemon_main_looper">false</string>
+    <string name="main_binder">true</string>
+    <string name="adaemon_rm_login_monitor">true</string>
+    <string name="anr_normal_change">true</string>
+</map>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="launcher.home_bounce_count" value="1" />
+    <boolean name="launcher.apps_view_shown" value="true" />
+    <int name="qsb_widget_id" value="2" />
+    <boolean name="pref_add_icon_to_home_initialized" value="true" />
+    <boolean name="pref_allowRotation" value="false" />
+    <boolean name="launcher.shelf_bounce_seen" value="true" />
+    <string name="migration_src_workspace_size">4,4</string>
+    <boolean name="pref_add_icon_to_home" value="true" />
+    <int name="migration_src_hotseat_count" value="4" />
+    <boolean name="pref_grid_options" value="false" />
+    <string name="idp_grid_name">4_by_4</string>
+    <int name="launcher.all_apps_visited_count" value="20" />
+    <int name="launcher.all_apps_count" value="5" />
+</map>

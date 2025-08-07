@@ -1,0 +1,33 @@
+Process: unknown
+Build: redroid/redroid_x86_64/redroid_x86_64:11/RD2A.211001.002/eng.frank.20240527.144006:userdebug/test-keys
+System-App: true
+Uptime-Millis: 12915418
+
+android.os.strictmode.LeakedClosableViolation: A resource was acquired at attached stack trace but never released. See java.io.Closeable for information on avoiding resource leaks.
+	at android.os.StrictMode$AndroidCloseGuardReporter.report(StrictMode.java:1924)
+	at dalvik.system.CloseGuard.warnIfOpen(CloseGuard.java:303)
+	at android.hardware.HardwareBuffer.finalize(HardwareBuffer.java:253)
+	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:291)
+	at java.lang.Daemons$FinalizerDaemon.runInternal(Daemons.java:278)
+	at java.lang.Daemons$Daemon.run(Daemons.java:139)
+	at java.lang.Thread.run(Thread.java:923)
+Caused by: java.lang.Throwable: Explicit termination method 'close' not called
+	at dalvik.system.CloseGuard.openWithCallSite(CloseGuard.java:259)
+	at dalvik.system.CloseGuard.open(CloseGuard.java:230)
+	at android.hardware.HardwareBuffer.<init>(HardwareBuffer.java:247)
+	at android.graphics.Bitmap.nativeGetHardwareBuffer(Native Method)
+	at android.graphics.Bitmap.getHardwareBuffer(Bitmap.java:2256)
+	at android.graphics.Bitmap.createGraphicBufferHandle(Bitmap.java:2243)
+	at com.android.server.wm.TaskSnapshotLoader.loadTask(TaskSnapshotLoader.java:177)
+	at com.android.server.wm.TaskSnapshotCache.tryRestoreFromDisk(TaskSnapshotCache.java:81)
+	at com.android.server.wm.TaskSnapshotCache.getSnapshot(TaskSnapshotCache.java:74)
+	at com.android.server.wm.TaskSnapshotController.getSnapshot(TaskSnapshotController.java:227)
+	at com.android.server.wm.WindowManagerService.getTaskSnapshot(WindowManagerService.java:3680)
+	at com.android.server.wm.Task.getSnapshot(Task.java:907)
+	at com.android.server.wm.ActivityTaskManagerService.getTaskSnapshot(ActivityTaskManagerService.java:4460)
+	at com.android.server.wm.ActivityTaskManagerService.getTaskSnapshot(ActivityTaskManagerService.java:4442)
+	at android.app.IActivityTaskManager$Stub.onTransact(IActivityTaskManager.java:3332)
+	at android.os.Binder.execTransactInternal(Binder.java:1154)
+	at android.os.Binder.execTransact(Binder.java:1123)
+
+A resource was acquired at attached stack trace but never released. See java.io.Closeable for information on avoiding resource leaks.

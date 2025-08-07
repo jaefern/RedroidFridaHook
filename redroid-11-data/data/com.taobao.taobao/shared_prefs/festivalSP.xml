@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="enableFestival" value="false" />
+    <string name="skinDowngrade"></string>
+    <string name="enableMtop">true</string>
+</map>

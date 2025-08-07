@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <set name="actions">
+        <string>com.android.systemui.action.PLUGIN_ALL_APPS_ACTIONS</string>
+        <string>com.android.systemui.action.PLUGIN_RECENTS_EXTRA_CARD</string>
+        <string>com.android.systemui.action.PLUGIN_APP_EVENTS</string>
+        <string>com.android.launcher3.action.PLUGIN_DYNAMIC_RESOURCE</string>
+        <string>com.android.systemui.action.PLUGIN_ALL_APPS_SEARCH_ACTIONS</string>
+        <string>com.android.systemui.action.PLUGIN_CUSTOM_WIDGET</string>
+        <string>com.android.systemui.action.PLUGIN_LAUNCHER_OVERSCROLL</string>
+        <string>com.android.systemui.action.PLUGIN_OVERVIEW_SCREENSHOT_ACTIONS</string>
+        <string>com.android.systemui.action.PLUGIN_LAUNCHER_OVERLAY</string>
+    </set>
+</map>

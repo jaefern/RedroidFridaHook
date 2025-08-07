@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<settings version="191">
+  <setting id="68" name="adb_wifi_enabled" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="41" name="low_battery_sound_timeout" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="33" name="car_undock_sound" value="/product/media/audio/ui/Undock.ogg" package="android" defaultValue="/product/media/audio/ui/Undock.ogg" defaultSysSet="true" />
+  <setting id="89" name="time_remaining_estimate_based_on_usage" value="0" package="com.android.systemui" defaultValue="0" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="10" name="window_animation_scale" value="1.0" package="android" defaultValue="1.0" defaultSysSet="true" />
+  <setting id="220" name="battery_estimates_last_update_time" value="1754142937544" package="com.android.systemui" defaultValue="1754142937544" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="9" name="mode_ringer" value="2" package="android" defaultValue="2" defaultSysSet="true" />
+  <setting id="36" name="default_install_location" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="22" name="wifi_display_on" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="44" name="device_name" value="redroid11_x86_64" package="android" defaultValue="redroid11_x86_64" defaultSysSet="true" />
+  <setting id="13" name="wifi_networks_available_notification_on" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="29" name="dock_sounds_enabled_when_accessbility" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="69" name="webview_fallback_logic_enabled" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="14" name="bluetooth_on" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="18" name="mobile_data" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="221" name="network_watchlist_last_report_time" value="1754438400000" package="android" defaultValue="1754438400000" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="46" name="database_creation_buildid" value="RD2A.211001.002" package="android" defaultValue="RD2A.211001.002" defaultSysSet="true" />
+  <setting id="37" name="emergency_tone" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="53" name="max_sound_trigger_detection_service_ops_per_day" value="1000" package="android" defaultValue="1000" defaultSysSet="true" />
+  <setting id="47" name="add_users_when_locked" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="34" name="dock_audio_media_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="67" name="adb_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="25" name="trusted_sound" value="/product/media/audio/ui/Trusted.ogg" package="android" defaultValue="/product/media/audio/ui/Trusted.ogg" defaultSysSet="true" />
+  <setting id="24" name="unlock_sound" value="/product/media/audio/ui/Unlock.ogg" package="android" defaultValue="/product/media/audio/ui/Unlock.ogg" defaultSysSet="true" />
+  <setting id="2" name="airplane_mode_radios" value="cell,bluetooth,wifi,nfc,wimax" package="android" defaultValue="cell,bluetooth,wifi,nfc,wimax" defaultSysSet="true" />
+  <setting id="21" name="wifi_max_dhcp_retry_count" value="9" package="android" defaultValue="9" defaultSysSet="true" />
+  <setting id="3" name="airplane_mode_toggleable_radios" value="bluetooth,wifi,nfc" package="android" defaultValue="bluetooth,wifi,nfc" defaultSysSet="true" />
+  <setting id="43" name="heads_up_notifications_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="81" name="low_power" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="58" name="charging_started_sound" value="/product/media/audio/ui/ChargingStarted.ogg" package="android" defaultValue="/product/media/audio/ui/ChargingStarted.ogg" defaultSysSet="true" />
+  <setting id="64" name="zen_mode_ringer_level" value="2" package="android" defaultValue="2" defaultSysSet="true" />
+  <setting id="39" name="preferred_network_mode" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="48" name="bluetooth_disabled_profiles" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="31" name="desk_undock_sound" value="/product/media/audio/ui/Undock.ogg" package="android" defaultValue="/product/media/audio/ui/Undock.ogg" defaultSysSet="true" />
+  <setting id="55" name="zen_duration" package="android" />
+  <setting id="51" name="mobile_data_always_on" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="8" name="wifi_sleep_policy" value="2" package="android" defaultValue="2" defaultSysSet="true" />
+  <setting id="28" name="dock_sounds_enabled" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="42" name="wifi_scan_always_enabled" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="78" name="network_recommendations_enabled" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="92" name="bluetooth_sanitized_exposure_notification_supported" value="1" package="com.android.bluetooth" defaultValue="1" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="32" name="car_dock_sound" value="/product/media/audio/ui/Dock.ogg" package="android" defaultValue="/product/media/audio/ui/Dock.ogg" defaultSysSet="true" />
+  <setting id="54" name="sound_trigger_detection_service_op_timeout" value="15000" package="android" defaultValue="15000" defaultSysSet="true" />
+  <setting id="26" name="power_sounds_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="7" name="stay_on_while_plugged_in" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="90" name="average_time_to_discharge" value="-1" package="com.android.systemui" defaultValue="-1" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="59" name="notification_bubbles" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="45" name="lid_behavior" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="76" name="isolated_storage_remote" package="android" preserve_in_restore="true" />
+  <setting id="213" name="zen_mode_config_etag" value="116395543" package="android" defaultValue="116395543" defaultSysSet="true" />
+  <setting id="35" name="set_install_location" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="62" name="zen_mode" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="11" name="transition_animation_scale" value="1.0" package="android" defaultValue="1.0" defaultSysSet="true" />
+  <setting id="16" name="data_roaming" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="1" name="theater_mode_on" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="15" name="cdma_cell_broadcast_sms" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="0" name="airplane_mode_on" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="50" name="default_restrict_background_data" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="27" name="low_battery_sound" value="/product/media/audio/ui/LowBattery.ogg" package="android" defaultValue="/product/media/audio/ui/LowBattery.ogg" defaultSysSet="true" />
+  <setting id="56" name="apply_ramping_ringer" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="19" name="netstats_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="49" name="wifi_wakeup_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="63" name="wifi_migration_completed" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="88" name="time_remaining_estimate_millis" value="-1" package="com.android.systemui" defaultValue="-1" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="40" name="subscription_mode" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="4" name="assisted_gps_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="23" name="lock_sound" value="/product/media/audio/ui/Lock.ogg" package="android" defaultValue="/product/media/audio/ui/Lock.ogg" defaultSysSet="true" />
+  <setting id="6" name="auto_time_zone" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="12" name="wifi_on" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="57" name="wireless_charging_started_sound" value="/product/media/audio/ui/WirelessChargingStarted.ogg" package="android" defaultValue="/product/media/audio/ui/WirelessChargingStarted.ogg" defaultSysSet="true" />
+  <setting id="82" name="device_provisioned" value="1" package="com.android.provision" defaultValue="1" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="83" name="sysui_demo_allowed" package="com.android.systemui" />
+  <setting id="60" name="hdmi_control_auto_device_off_enabled" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="5" name="auto_time" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="20" name="usb_mass_storage_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="38" name="call_auto_retry" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="84" name="audio_safe_volume_state" value="3" package="android" defaultValue="3" defaultSysSet="true" />
+  <setting id="219" name="boot_count" value="38" package="android" defaultValue="38" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="30" name="desk_dock_sound" value="/product/media/audio/ui/Dock.ogg" package="android" defaultValue="/product/media/audio/ui/Dock.ogg" defaultSysSet="true" />
+</settings>
+<namespaceHashes />

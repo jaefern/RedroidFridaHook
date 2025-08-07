@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="repeatExposure">{&quot;a&quot;:[&quot;w&quot;],&quot;b&quot;:[&quot;Page_Detail&quot;,&quot;Page_DWVideo&quot;,&quot;Page_MsgCenter&quot;,&quot;Page_MyTaobao&quot;,&quot;Page_OrderList&quot;,&quot;Page_Shop&quot;,&quot;Page_New_SKU&quot;,&quot;Page_ShoppingCart&quot;,&quot;Page_tb_Unit_Center&quot;,&quot;Page_Cart&quot;,&quot;Page_CNMailDetail&quot;,&quot;Page_TaobaoLiveWatch&quot;,&quot;Page_Order&quot;,&quot;Page_OrderDetail&quot;,&quot;Page_OrderSearchResultList&quot;]}</string>
+</map>

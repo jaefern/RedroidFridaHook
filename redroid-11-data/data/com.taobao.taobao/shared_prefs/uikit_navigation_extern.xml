@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="key_enable_edlp">true</string>
+    <string name="key_cache_tab_with_version">true</string>
+    <string name="key_cache_tab">true</string>
+    <string name="key_cache_file_size_threshold">500</string>
+    <string name="guardian_v2_switch_on">true</string>
+    <string name="orange_config_version">2120240206110710100</string>
+    <string name="guardian_v2_clear_by_setting_switch_on">true</string>
+    <string name="i18n_icon_without_title">false</string>
+    <string name="navigation_external_key_init_async_v1">false</string>
+</map>

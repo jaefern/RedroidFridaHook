@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="dinamic_new_refresh_layout_white_list">alimp_message,subscription</string>
+</map>

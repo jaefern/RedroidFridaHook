@@ -1,0 +1,35 @@
+Process: system_server
+Subject: NetworkStats
+Build: redroid/redroid_x86_64/redroid_x86_64:11/RD2A.211001.002/eng.frank.20240527.144006:userdebug/test-keys
+
+android.util.Log$TerribleFailure: problem reading network stats
+	at android.util.Log.wtf(Log.java:313)
+	at android.util.Log.wtf(Log.java:307)
+	at com.android.server.net.NetworkStatsService.getNetworkStatsTethering(NetworkStatsService.java:1907)
+	at com.android.server.net.NetworkStatsService.getNetworkStatsUidDetail(NetworkStatsService.java:1883)
+	at com.android.server.net.NetworkStatsService.recordSnapshotLocked(NetworkStatsService.java:1389)
+	at com.android.server.net.NetworkStatsService.bootstrapStatsLocked(NetworkStatsService.java:1446)
+	at com.android.server.net.NetworkStatsService.systemReady(NetworkStatsService.java:496)
+	at com.android.server.SystemServer.lambda$startOtherServices$6$SystemServer(SystemServer.java:2323)
+	at com.android.server.-$$Lambda$SystemServer$c50amMOcae1K0NdkHHoWNGvSMJQ.run(Unknown Source:53)
+	at com.android.server.am.ActivityManagerService.systemReady(ActivityManagerService.java:9626)
+	at com.android.server.SystemServer.startOtherServices(SystemServer.java:2241)
+	at com.android.server.SystemServer.run(SystemServer.java:598)
+	at com.android.server.SystemServer.main(SystemServer.java:414)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:592)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:925)
+Caused by: java.lang.IllegalStateException: problem parsing tethering stats: 
+	at com.android.server.NetworkManagementService$NetdTetheringStatsProvider.getTetherStats(NetworkManagementService.java:1502)
+	at com.android.server.NetworkManagementService.getNetworkStatsTethering(NetworkManagementService.java:1542)
+	at com.android.server.net.NetworkStatsService.getNetworkStatsTethering(NetworkStatsService.java:1905)
+	... 13 more
+Caused by: android.os.ServiceSpecificException: [Remote I/O error] : failed to parse IPv4 tether stats:
+ (code 121)
+	at android.os.Parcel.createExceptionOrNull(Parcel.java:2387)
+	at android.os.Parcel.createException(Parcel.java:2357)
+	at android.os.Parcel.readException(Parcel.java:2340)
+	at android.os.Parcel.readException(Parcel.java:2282)
+	at android.net.INetd$Stub$Proxy.tetherGetStats(INetd.java:1983)
+	at com.android.server.NetworkManagementService$NetdTetheringStatsProvider.getTetherStats(NetworkManagementService.java:1500)
+	... 15 more

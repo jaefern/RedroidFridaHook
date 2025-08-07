@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="isWifiPreDownloadEnable" value="true" />
+    <long name="globalPopIntervalDay" value="3" />
+    <long name="promoteUpdateValidInterval" value="86400" />
+    <boolean name="checkGPMarket" value="true" />
+    <boolean name="backgroundNotInterrupt" value="true" />
+    <boolean name="isNewUpdateStrategyEnable" value="true" />
+    <boolean name="isNewUpdateForbidMTLPopEnable" value="true" />
+    <boolean name="useArch" value="true" />
+    <boolean name="downloadUseMD5" value="false" />
+    <boolean name="isGrayDownloadEnable" value="true" />
+    <long name="preDownloadWindowDay" value="3" />
+    <boolean name="checkFloatPermission" value="true" />
+</map>

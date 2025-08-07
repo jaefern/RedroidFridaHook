@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<display-manager-state>
+    <remembered-wifi-displays />
+    <display-states />
+    <stable-device-values>
+        <stable-display-width>720</stable-display-width>
+        <stable-display-height>1280</stable-display-height>
+    </stable-device-values>
+    <brightness-configurations />
+</display-manager-state>

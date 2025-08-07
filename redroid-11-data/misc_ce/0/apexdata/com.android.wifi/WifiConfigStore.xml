@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<WifiConfigStoreData>
+<int name="Version" value="3" />
+<ImsiPrivacyProtectionExemptionMap>
+<map name="CarrierExemptionMap" />
+</ImsiPrivacyProtectionExemptionMap>
+<NetworkList />
+<PasspointConfigData>
+<ProviderList />
+</PasspointConfigData>
+<OpenNetworkNotifierBlacklistConfigData />
+<NetworkRequestMap />
+<WakeupConfigStoreData>
+<FeatureState>
+<boolean name="IsActive" value="false" />
+<boolean name="IsOnboarded" value="false" />
+<int name="NotificationsShown" value="0" />
+</FeatureState>
+</WakeupConfigStoreData>
+</WifiConfigStoreData>

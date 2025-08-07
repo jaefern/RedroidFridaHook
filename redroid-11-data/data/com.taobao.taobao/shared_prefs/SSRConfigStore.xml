@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="SSR_STORE_pages-g.m.taobao.com">wh-ssr-base-trade1.taobao.com</string>
+    <string name="SSR_STORE_pages-fast.m.taobao.com">wh-ssr-base-biz5-guide.taobao.com</string>
+    <string name="SSR_STORE_arkhuodong.m.tmall.com">ark-ssr.m.taobao.com</string>
+</map>

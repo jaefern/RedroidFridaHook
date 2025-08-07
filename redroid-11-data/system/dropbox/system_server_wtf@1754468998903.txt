@@ -1,0 +1,24 @@
+Process: system_server
+PID: 301
+UID: 1000
+Flags: 0x30c8be09
+Package: android v30 (11)
+Package: com.android.providers.settings v30 (11)
+Foreground: No
+Subject: PackageSettings
+Build: redroid/redroid_x86_64/redroid_x86_64:11/RD2A.211001.002/eng.frank.20240527.144006:userdebug/test-keys
+
+android.util.Log$TerribleFailure: Failed to set packages.list SELinux context
+	at android.util.Log.wtf(Log.java:313)
+	at android.util.Slog.wtf(Slog.java:94)
+	at com.android.server.pm.Settings.writePackageListLPr(Settings.java:2710)
+	at com.android.server.pm.Settings.writePackageListLPr(Settings.java:2698)
+	at com.android.server.pm.Settings.writeLPr(Settings.java:2578)
+	at com.android.server.pm.PackageManagerService.<init>(PackageManagerService.java:3542)
+	at com.android.server.pm.PackageManagerService.main(PackageManagerService.java:2605)
+	at com.android.server.SystemServer.startBootstrapServices(SystemServer.java:857)
+	at com.android.server.SystemServer.run(SystemServer.java:596)
+	at com.android.server.SystemServer.main(SystemServer.java:414)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:592)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:925)

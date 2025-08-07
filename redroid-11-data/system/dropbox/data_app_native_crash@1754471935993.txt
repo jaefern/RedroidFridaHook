@@ -1,0 +1,29 @@
+Process: com.taobao.taobao
+PID: 46413
+UID: 10116
+Flags: 0x30b83e44
+Package: com.taobao.taobao v734 (10.51.0)
+Foreground: Yes
+Process-Runtime: 20123
+Build: redroid/redroid_x86_64/redroid_x86_64:11/RD2A.211001.002/eng.frank.20240527.144006:userdebug/test-keys
+
+*** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+Build fingerprint: 'redroid/redroid_x86_64/redroid_x86_64:11/RD2A.211001.002/eng.frank.20240527.144006:userdebug/test-keys'
+Revision: '0'
+ABI: 'x86_64'
+Timestamp: 2025-08-06 09:18:55+0000
+pid: 46413, tid: 46931, name: wv-vthread-4  >>> com.taobao.taobao <<<
+uid: 10116
+signal 11 (SIGSEGV), code 2 (SEGV_ACCERR), fault addr 0x7b9f1d686c70
+    rax 0000000000000000  rbx 00007b9a80211000  rcx 00007ba1adc5f6c8  rdx 000000000000000b
+    r8  000000000000000b  r9  000000000000000b  r10 00007b9a573e6ca0  r11 0000000000000246
+    r12 00007b9f15794468  r13 00000000007b9f1d  r14 00000000007b9f01  r15 00007b9a80211050
+    rdi 000000000000b54d  rsi 000000000000b753
+    rbp 000000000000b54d  rsp 00007b9a573e6c98  rip 00007ba1adc5f6c8
+
+backtrace:
+      #00 pc 000000000005a6c8  /apex/com.android.runtime/lib64/bionic/libc.so (syscall+24) (BuildId: 367a43aefd68123bf118851437b2730e)
+      #01 pc 0000000000170c50  /system/lib64/libndk_translation.so (ndk_translation_HandleNoExec+208) (BuildId: 8d5bb5ddeee9364830ea3d7d46ef98b9)
+      #02 pc 0000000000116a22  /system/lib64/libndk_translation.so (ndk_translation::ExecuteGuest(ndk_translation::ProcessState*)+434) (BuildId: 8d5bb5ddeee9364830ea3d7d46ef98b9)
+      #03 pc 0000000000116c15  /system/lib64/libndk_translation.so (ndk_translation::RunGuestCall(unsigned long, ndk_translation::GuestArgumentBuffer*)+197) (BuildId: 8d5bb5ddeee9364830ea3d7d46ef98b9)
+      #04 pc 00000000002c95a7  <anonymous:7b9a7ec00000>

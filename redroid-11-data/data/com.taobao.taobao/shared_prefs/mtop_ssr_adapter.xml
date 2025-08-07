@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="mtop_ssr_adapter">[{&quot;mode&quot;:&quot;1&quot;,&quot;forward_domains&quot;:&quot;ark-ssr.m.taobao.com,wh-ssr-base-biz5-guide.taobao.com,wh-ssr-base-trade1.taobao.com&quot;,&quot;wh-ssr-base-biz5-guide.taobao.com&quot;:&quot;pages-fast.m.taobao.com&quot;,&quot;list&quot;:&quot;arkhuodong.m.tmall.com,edge-apps.m.taobao.com,gaia-ssr.m.taobao.com,pages-fast.m.taobao.com,pre-pages-fast.m.taobao.com,pages-g.m.taobao.com,pre-pages-g.m.taobao.com,beta-pages-fast.m.taobao.com,taocaicai.m.taobao.com,beta-pages-g.m.taobao.com,am.m.taobao.com,pre-wh-ssr-base-trade1.taobao.com,ssr.m.goofish.com,pre-ssr-m.goofish.com&quot;,&quot;ark-ssr.m.taobao.com&quot;:&quot;arkhuodong.m.tmall.com&quot;,&quot;wh-ssr-base-trade1.taobao.com&quot;:&quot;pages-g.m.taobao.com&quot;}]</string>
+</map>

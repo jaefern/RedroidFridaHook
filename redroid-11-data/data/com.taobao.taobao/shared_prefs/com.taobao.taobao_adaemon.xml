@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="background_page">com.taobao.tao.welcome.Welcome</string>
+    <string name="last_state">fg</string>
+    <int name="adaemon_foreground_day" value="219" />
+    <long name="background_time" value="1753775670553" />
+</map>

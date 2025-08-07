@@ -1,0 +1,27 @@
+services:
+  redroid:
+    image: redroid/redroid:11.0.0-latest
+    stdin_open: true
+    tty: true
+    privileged: true
+    ports:
+      - 5555:5555
+    volumes:
+      - ./redroid-11-data:/data
+      - ./files/frida-server-x86_64:/data/local/tmp/frida-server
+      - ./files/taobao_monitor.sh:/data/local/tmp/taobao_monitor.sh
+      - ./files/init.rc:/system/etc/init/hw/init.rc
+    command:
+      - androidboot.redroid_width=720
+      - androidboot.redroid_height=1280
+      - androidboot.redroid_dpi=320
+      - androidboot.redroid_fps=60
+      - androidboot.redroid_gpu_mode=host
+      - ro.product.cpu.abilist0=x86_64,arm64-v8a,x86,armeabi-v7a,armeabi
+      - ro.product.cpu.abilist64=x86_64,arm64-v8a
+      - ro.product.cpu.abilist32=x86,armeabi-v7a,armeabi
+      - ro.dalvik.vm.isa.arm=x86
+      - ro.dalvik.vm.isa.arm64=x86_64
+      - ro.enable.native.bridge.exec=1
+      - ro.dalvik.vm.native.bridge=libndk_translation.so
+      - ro.ndk_translation.version=0.2.2

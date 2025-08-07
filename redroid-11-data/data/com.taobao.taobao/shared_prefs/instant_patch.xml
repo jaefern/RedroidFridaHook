@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="instant_patch_version" value="4059" />
+    <boolean name="instant_patch_has_resource" value="false" />
+    <int name="instant_patch_priority" value="0" />
+    <boolean name="instant_patch_has_system_call" value="false" />
+    <string name="instant_base_Version">10.51.0</string>
+</map>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="coldStartErrorNum" value="0" />
+    <boolean name="homeSignFreeAb" value="false" />
+    <boolean name="secondRefreshRollback" value="true" />
+    <boolean name="newUserDisableMtopSignFree" value="false" />
+    <boolean name="slimSection" value="false" />
+</map>

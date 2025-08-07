@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="current_tip_state" value="0" />
+    <int name="current_tip_type" value="6" />
+</map>

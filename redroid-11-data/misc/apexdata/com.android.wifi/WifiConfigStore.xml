@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<WifiConfigStoreData>
+<int name="Version" value="3" />
+<NetworkList />
+<MacAddressMap>
+<map name="MacMapEntry" />
+</MacAddressMap>
+<Settings>
+<map name="Values">
+<boolean name="wifi_p2p_pending_factory_reset" value="false" />
+<boolean name="wifi_scan_throttle_enabled" value="true" />
+<null name="wifi_p2p_device_name" />
+<boolean name="wifi_scan_always_enabled" value="false" />
+<boolean name="wifi_verbose_logging_enabled" value="false" />
+</map>
+</Settings>
+<PasspointConfigData>
+<long name="ProviderIndex" value="0" />
+</PasspointConfigData>
+</WifiConfigStoreData>

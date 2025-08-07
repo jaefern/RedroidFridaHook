@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<notification-policy version="1">
+<zen version="8" user="0">
+<allow calls="true" repeatCallers="true" messages="false" reminders="false" events="false" callsFrom="2" messagesFrom="1" alarms="true" media="true" system="false" convos="false" convosFrom="3" />
+<disallow visualEffects="511" />
+<automatic ruleId="EVENTS_DEFAULT_RULE" enabled="false" name="活动" zen="1" component="android/com.android.server.notification.EventConditionProvider" conditionId="condition://android/event?userId=-10000&amp;calendar=&amp;reply=1" creationTime="0" id="condition://android/event?userId=-10000&amp;calendar=&amp;reply=1" summary="..." line1="..." line2="..." icon="0" state="0" flags="2" modified="false" />
+<automatic ruleId="EVERY_NIGHT_DEFAULT_RULE" enabled="false" name="睡眠" zen="1" component="android/com.android.server.notification.ScheduleConditionProvider" conditionId="condition://android/schedule?days=1.2.3.4.5.6.7&amp;start=22.0&amp;end=7.0&amp;exitAtAlarm=true" creationTime="0" id="condition://android/schedule?days=1.2.3.4.5.6.7&amp;start=22.0&amp;end=7.0&amp;exitAtAlarm=true" summary="..." line1="..." line2="..." icon="0" state="1" flags="2" modified="false" />
+<state areChannelsBypassingDnd="false" />
+</zen>
+<ranking version="2">
+<package name="com.taobao.taobao" show_badge="true" app_user_locked_fields="0" sent_invalid_msg="false" sent_valid_msg="false" user_demote_msg_app="false" uid="10116">
+<channel id="taobao_agoo_channel_id" name="消息" desc="消息默认通知" importance="3" sound="android.resource://com.taobao.taobao/2131689490" usage="5" content_type="0" flags="0" lights="true" vibration_enabled="true" vibration="0,140,80,140" show_badge="true" orig_imp="3" />
+<channel id="taobao_linkdownloader_active" name="应用下载通知" importance="4" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" lights="true" light_color="-65536" show_badge="true" orig_imp="4" />
+<channel id="Heytap PUSH" name="系统默认通道" importance="3" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="3" />
+</package>
+<package name="com.android.bluetooth" show_badge="true" app_user_locked_fields="0" sent_invalid_msg="false" sent_valid_msg="false" user_demote_msg_app="false" uid="1002">
+<channel id="opp_notification_channel" name="蓝牙共享" importance="4" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="4" />
+</package>
+<package name="android" show_badge="true" app_user_locked_fields="0" sent_invalid_msg="false" sent_valid_msg="false" user_demote_msg_app="false" uid="1000">
+<channel id="NETWORK_ALERTS" name="网络提醒" importance="4" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" blockable_system="true" orig_imp="4" />
+<channel id="DEVELOPER" name="开发者消息" importance="2" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" blockable_system="true" orig_imp="2" />
+<channel id="NETWORK_STATUS" name="网络状态" importance="2" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" blockable_system="true" orig_imp="2" />
+<channel id="PHYSICAL_KEYBOARD" name="实体键盘" importance="3" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" blockable_system="true" orig_imp="3" />
+<channel id="SYSTEM_CHANGES" name="系统变更" importance="2" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="2" />
+<channel id="HEAVY_WEIGHT_APP" name="应用正在运行中" importance="3" usage="10" content_type="4" flags="0" orig_imp="3" />
+<channel id="ACCOUNT" name="帐号状态" importance="2" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="2" />
+<channel id="DEVICE_ADMIN_ALERTS" name="您的 IT 管理员发来的提醒" importance="4" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="4" />
+<channel id="FOREGROUND_SERVICE" name="消耗电量的应用" importance="2" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" blockable_system="true" orig_imp="2" />
+<channel id="DO_NOT_DISTURB" name="勿扰" importance="2" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="2" />
+<channel id="USB" name="USB 连接" importance="1" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="1" />
+<channel id="VPN" name="VPN 状态" importance="2" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="2" />
+<channel id="UPDATES" name="更新" importance="2" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="2" />
+<channel id="RETAIL_MODE" name="零售演示模式" importance="2" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="2" />
+<channel id="CAR_MODE" name="车载模式" importance="2" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" blockable_system="true" orig_imp="2" />
+<channel id="VIRTUAL_KEYBOARD" name="虚拟键盘" importance="2" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" blockable_system="true" orig_imp="2" />
+<channel id="SECURITY" name="安全性" importance="2" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="2" />
+<channel id="NETWORK_AVAILABLE" name="有可用的网络" importance="2" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" blockable_system="true" orig_imp="2" />
+<channel id="DEVELOPER_IMPORTANT" name="重要开发者消息" importance="4" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="4" />
+<channel id="ALERTS" name="提醒" importance="3" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="3" />
+</package>
+<package name="com.android.contacts" show_badge="true" app_user_locked_fields="0" sent_invalid_msg="false" sent_valid_msg="false" user_demote_msg_app="false" uid="10093">
+<channel id="DEFAULT_CHANNEL" name="通知" importance="2" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="2" />
+</package>
+<package name="com.android.server.telecom" show_badge="true" app_user_locked_fields="0" sent_invalid_msg="false" sent_valid_msg="false" user_demote_msg_app="false" uid="1000">
+<channel id="TelecomMissedCalls" name="未接电话" importance="3" sound="" usage="5" content_type="0" flags="0" lights="true" vibration_enabled="true" show_badge="true" orig_imp="3" />
+<channel id="TelecomDisconnectedCalls" name="已中断的通话" importance="3" sound="" usage="5" content_type="0" flags="0" lights="true" vibration_enabled="true" show_badge="true" orig_imp="3" />
+<channel id="TelecomInCallServiceCrash" name="崩溃的手机应用" importance="3" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" lights="true" vibration_enabled="true" show_badge="true" orig_imp="3" />
+<channel id="TelecomCallBlocking" name="来电屏蔽" importance="2" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" orig_imp="2" />
+<channel id="TelecomIncomingCalls" name="来电" importance="5" sound="" usage="5" content_type="0" flags="0" lights="true" orig_imp="5" />
+<channel id="TelecomBackgroundAudioProcessing" name="后台通话" importance="2" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" orig_imp="2" />
+</package>
+<package name="com.android.networkstack.tethering" show_badge="true" app_user_locked_fields="0" sent_invalid_msg="false" sent_valid_msg="false" user_demote_msg_app="false" uid="1073">
+<channel id="TETHERING_STATUS" name="热点和网络共享状态" importance="2" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="2" />
+</package>
+<package name="com.android.mtp" show_badge="true" app_user_locked_fields="0" sent_invalid_msg="false" sent_valid_msg="false" user_demote_msg_app="false" uid="10061">
+<channel id="device_notification_channel" name="未分类" importance="2" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="2" />
+</package>
+<package name="com.android.printspooler" show_badge="true" app_user_locked_fields="0" sent_invalid_msg="false" sent_valid_msg="false" user_demote_msg_app="false" uid="10080">
+<channel id="PRINT_PROGRESS" name="进行中的打印作业" importance="2" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="2" />
+<channel id="PRINT_FAILURES" name="失败的打印作业" importance="3" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="3" />
+</package>
+<package name="com.android.traceur" show_badge="true" app_user_locked_fields="0" sent_invalid_msg="false" sent_valid_msg="false" user_demote_msg_app="false" uid="10078">
+<channel id="trace-is-being-recorded" name="正在录制跟踪记录" importance="4" usage="5" content_type="4" flags="0" vibration_enabled="true" show_badge="true" orig_imp="4" />
+<channel id="system-tracing" name="正在保存跟踪记录" importance="4" usage="5" content_type="4" flags="0" vibration_enabled="true" show_badge="true" orig_imp="4" />
+</package>
+<package name="com.android.systemui" show_badge="true" app_user_locked_fields="0" sent_invalid_msg="false" sent_valid_msg="false" user_demote_msg_app="false" uid="10109">
+<channel id="ALR" name="提醒" importance="4" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="4" />
+<channel id="BAT" name="电池" importance="5" sound="file:///product/media/audio/ui/LowBattery.ogg" usage="10" content_type="4" flags="0" show_badge="true" blockable_system="true" orig_imp="5" />
+<channel id="DSK" name="存储空间" importance="2" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="2" />
+<channel id="GEN" name="常规消息" importance="1" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="1" />
+<channel id="HNT" name="提示" importance="3" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="3" />
+<channel id="SCN_HEADSUP" name="屏幕截图" importance="4" usage="5" content_type="0" flags="0" show_badge="true" blockable_system="true" orig_imp="4" />
+</package>
+<package name="com.android.networkstack" show_badge="true" app_user_locked_fields="0" sent_invalid_msg="false" sent_valid_msg="false" user_demote_msg_app="false" uid="1073">
+<channel id="connected_note" name="网络包含场地信息页面" desc="为说明网络包含场地信息页面而显示的通知" importance="3" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="3" />
+<channel id="connected_note_loud" name="强制门户身份验证" desc="当设备成功通过强制门户网络的身份验证时显示的通知" importance="4" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="4" />
+</package>
+<package name="com.android.phone" show_badge="true" app_user_locked_fields="0" sent_invalid_msg="false" sent_valid_msg="false" user_demote_msg_app="false" uid="1001">
+<channel id="mobileDataAlertNew" name="移动数据状态" importance="2" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" blockable_system="true" orig_imp="2" />
+<channel id="sim" name="SIM 卡状态" importance="2" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="2" />
+<channel id="sms" name="短信" importance="4" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="4" />
+<channel id="wfc" name="WLAN 通话" importance="2" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="2" />
+<channel id="alert" name="提醒" importance="3" sound="content://settings/system/notification_sound" usage="5" content_type="0" flags="0" show_badge="true" blockable_system="true" orig_imp="3" />
+<channel id="simHighPriority" name="高优先顺序 SIM 卡状态" importance="4" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="4" />
+<channel id="callForwardNew" name="来电转接" importance="3" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="3" />
+</package>
+<package name="com.android.providers.downloads" show_badge="true" app_user_locked_fields="0" sent_invalid_msg="false" sent_valid_msg="false" user_demote_msg_app="false" uid="10061">
+<channel id="active" name="正在下载" importance="1" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="1" />
+<channel id="complete" name="完成" importance="3" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="3" />
+<channel id="waiting" name="已加入队列" importance="3" sound="content://settings/system/notification_sound" usage="5" content_type="4" flags="0" show_badge="true" orig_imp="3" />
+</package>
+</ranking>
+<enabled_listeners version="3" defaults="" />
+<enabled_assistants version="3" defaults="android.ext.services/android.ext.services.notification.Assistant">
+<service_listing approved="android.ext.services/android.ext.services.notification.Assistant" user="0" primary="true" user_set="false" />
+<q_allowed_adjustments types="key_text_replies,key_contextual_actions" />
+</enabled_assistants>
+<snoozed-notifications />
+<dnd_apps version="3" defaults="com.android.camera2">
+<service_listing approved="com.android.camera2" user="0" primary="true" />
+<service_listing approved="android.ext.services" user="0" primary="false" />
+</dnd_apps>
+<allow-secure-notifications-on-lockscreen value="true" />
+</notification-policy>

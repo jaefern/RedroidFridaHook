@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="permission_granted_record">[&quot;member_address_android.permission.WRITE_EXTERNAL_STORAGE&quot;,&quot;member_address_android.permission.READ_EXTERNAL_STORAGE&quot;]</string>
+</map>

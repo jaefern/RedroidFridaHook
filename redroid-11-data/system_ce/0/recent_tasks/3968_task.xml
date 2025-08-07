@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<task task_id="3968" real_activity="com.taobao.taobao/com.taobao.tao.welcome.Welcome" real_activity_suspended="false" affinity="10116:com.taobao.taobao" root_has_reset="false" auto_remove_recents="false" asked_compat_mode="false" user_id="0" user_setup_complete="true" effective_uid="10116" last_time_moved="1754528528372" never_relinquish_identity="true" task_description_color="fff5f5f5" task_description_colorBackground="fffafafa" task_affiliation_color="-657931" task_affiliation="3968" prev_affiliation="-1" next_affiliation="-1" calling_uid="10116" calling_package="com.taobao.taobao" calling_feature_id="" resize_mode="1" supports_picture_in_picture="false" min_width="-1" min_height="-1" persist_task_version="1">
+<intent component="com.taobao.taobao/com.taobao.tao.welcome.Welcome" flags="10000000" />
+</task>
+

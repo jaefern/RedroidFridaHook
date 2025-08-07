@@ -1,0 +1,44 @@
+Process: com.android.settings
+PID: 723
+UID: 1000
+Flags: 0x38c9be45
+Package: com.android.settings v30 (11)
+Build: redroid/redroid_x86_64/redroid_x86_64:11/RD2A.211001.002/eng.frank.20240527.144006:userdebug/test-keys
+System-App: true
+Uptime-Millis: 12901934
+
+android.os.strictmode.LeakedClosableViolation: A resource was acquired at attached stack trace but never released. See java.io.Closeable for information on avoiding resource leaks.
+	at android.os.StrictMode$AndroidCloseGuardReporter.report(StrictMode.java:1924)
+	at dalvik.system.CloseGuard.warnIfOpen(CloseGuard.java:303)
+	at android.view.DisplayEventReceiver.dispose(DisplayEventReceiver.java:136)
+	at android.view.DisplayEventReceiver.finalize(DisplayEventReceiver.java:120)
+	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:291)
+	at java.lang.Daemons$FinalizerDaemon.runInternal(Daemons.java:278)
+	at java.lang.Daemons$Daemon.run(Daemons.java:139)
+	at java.lang.Thread.run(Thread.java:923)
+Caused by: java.lang.Throwable: Explicit termination method 'dispose' not called
+	at dalvik.system.CloseGuard.openWithCallSite(CloseGuard.java:259)
+	at dalvik.system.CloseGuard.open(CloseGuard.java:230)
+	at android.view.DisplayEventReceiver.<init>(DisplayEventReceiver.java:114)
+	at android.view.Choreographer$FrameDisplayEventReceiver.<init>(Choreographer.java:919)
+	at android.view.Choreographer.<init>(Choreographer.java:260)
+	at android.view.Choreographer.<init>(Choreographer.java:82)
+	at android.view.Choreographer$2.initialValue(Choreographer.java:132)
+	at android.view.Choreographer$2.initialValue(Choreographer.java:125)
+	at java.lang.ThreadLocal.setInitialValue(ThreadLocal.java:180)
+	at java.lang.ThreadLocal.get(ThreadLocal.java:170)
+	at android.view.Choreographer.getSfInstance(Choreographer.java:296)
+	at com.android.internal.graphics.SfVsyncFrameCallbackProvider.<init>(SfVsyncFrameCallbackProvider.java:32)
+	at android.view.InsetsController$InternalAnimationControlListener$1.initialValue(InsetsController.java:284)
+	at android.view.InsetsController$InternalAnimationControlListener$1.initialValue(InsetsController.java:280)
+	at java.lang.ThreadLocal.setInitialValue(ThreadLocal.java:180)
+	at java.lang.ThreadLocal.get(ThreadLocal.java:170)
+	at android.view.InsetsController$InternalAnimationControlListener.onReady(InsetsController.java:347)
+	at android.view.InsetsAnimationThreadControlRunner.lambda$new$0$InsetsAnimationThreadControlRunner(InsetsAnimationThreadControlRunner.java:116)
+	at android.view.-$$Lambda$InsetsAnimationThreadControlRunner$QoTV7aDlMBWllgklmGJ_FE7p30o.run(Unknown Source:6)
+	at android.os.Handler.handleCallback(Handler.java:938)
+	at android.os.Handler.dispatchMessage(Handler.java:99)
+	at android.os.Looper.loop(Looper.java:223)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+
+A resource was acquired at attached stack trace but never released. See java.io.Closeable for information on avoiding resource leaks.

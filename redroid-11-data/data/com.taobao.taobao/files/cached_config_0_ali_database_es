@@ -1,0 +1,1 @@
+{"ignore_ttl_before_compact":"true","lsm_white_list":"phximgs_top1,phximgs_top2,phximgs_top3,phximgs_top4,phximgs_top6","phximgs_top3_ttl":"864000","phximgs_top6_ttl":"8640000","ttl_seconds":"345600","use_old_database":"false"}

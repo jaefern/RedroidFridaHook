@@ -1,0 +1,30 @@
+<phone_account_registrar_state version="9">
+<default_outgoing />
+<accounts>
+<phone_account>
+<account_handle>
+<phone_account_handle>
+<component_name>com.android.phone/com.android.services.telephony.TelephonyConnectionService</component_name>
+<id>E</id>
+<user_serial_number>0</user_serial_number>
+</phone_account_handle>
+</account_handle>
+<handle>tel:</handle>
+<subscription_number>tel:</subscription_number>
+<capabilities>54</capabilities>
+<icon>AAAAAQGJUE5HDQoaCgAAAA1JSERSAAAAJgAAADAIBgAAAH2yCCgAAAABc1JHQgCuzhzpAAAABHNC&#10;SVQICAgIfAhkiAAAAihJREFUWIXtmLFuE0EQhr/ZsxSMCEiHECko6JDcggRICEVAAxQU8Z79BnS8&#10;AtvwCkRUEXKDbBShpKD1G6Q2Uup0vAC+GYrzCZOck5xi+6647wFmv5v7d7S7Qgm899FoNEqTJEnM&#10;7CuwYWaIiJSpcxoRUVX9FUXRF1X9PBwO/1y6YAihFUKYdrvdd8BARG7kda8iVSC5d3x8/P5SRUMI&#10;LoSg3vu3wHfgmpnZVTs1z6xeCrSccx8uLLy9vd0aj8fTJEneqOo3EdkEFHDLkppDRQQzm5xb3Hsf&#10;jcfjaa/Xe62qIxHZNDNbkRSAMzMnIg8WLhBCaM2C/mrWqetkX7TUTBVhZq5wkXz39fv9l2ma7gM3&#10;l52pizizUJ4p7/0LYB+4BaRAtC4pOJWVPFPe+2fAaCal65b6T2wuU8/N7AcQk3VqVUE/F4F/mfLe&#10;PzWzQxG5zepGwuXE8kz1er0nqnoA3KGCTJ0RA+j3+4/SND0Etta9+xYR7ezsPAYOgC0gFZHKft88&#10;zjk3JJOqZPctwgF3qTjoRThgSs2kIBOqPOhFuOywUD9cDSZDIU3HylLrjm1ULVGEo0bTfp7aDdac&#10;RqwsjVhZGrGyNGJlacTK0oiVpRErSyNWllqLadUSBagDJiKi1EAw9xCRiTOzXTPLO1flXc7MTAGn&#10;qrtRu90+iuP4HvCQah9YhOyeuxfHcYhOTk6s0+n8NLPfInKf7LV63YIKTMzsk4h8HAwG07+BG+EK&#10;fyLzhQAAAABJRU5ErkJggg==&#10;</icon>
+<highlight_color>0</highlight_color>
+<label>紧急呼救</label>
+<short_description>只能拨打紧急呼救电话</short_description>
+<supported_uri_schemes length="2">
+<value>tel</value>
+<value>voicemail</value>
+</supported_uri_schemes>
+<extras>
+<value key="android.telecom.extra.SUPPORTS_VIDEO_CALLING_FALLBACK" type="boolean">true</value>
+</extras>
+<enabled>true</enabled>
+<supported_audio_routes>15</supported_audio_routes>
+</phone_account>
+</accounts>
+</phone_account_registrar_state>
