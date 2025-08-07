@@ -37,3 +37,8 @@ xz -d files/frida-server-x86_64.xz
 ## 运行主程序
 
 python main.py
+
+## 作者联系方式
+
+- wx: __int64
+- qq: 1415662711
